@@ -29,7 +29,10 @@ This is a collection of 1000+  images from the world of the Bible. Some of these
 (© United Bible Societies 2023)
 
 This is a collection of almost 200 files in SVG and GeoJSON formats containing the geographic coordinates of routes linked to Bible stories. These routes can be overlaid on Biblical maps and provide details about journeys made by Biblical figures. These routes are part of a collection of data created for UBS by Dr. Leen Ritmeyer.
-Paratext Parallel Passages Database (© United Bible Societies 2023)
+
+## Paratext Parallel Passages Database 
+
+(© United Bible Societies 2023)
 
 This is a database with parallel passages in the Old and New Testament including OT quotes in the NT. The passages have been analyzed in detail and include numberings marking the words that have a more or less exact match in the other passage(s), including those that have a partial match. This database is the main underlying resource for the Parallel Passages tool in Paratext.
 
