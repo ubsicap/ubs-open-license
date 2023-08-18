@@ -36,7 +36,7 @@ This is a collection of almost 200 files in SVG and GeoJSON formats containing t
 
 This is a database with parallel passages in the Old and New Testament including OT quotes in the NT. The passages have been analyzed in detail and include numberings marking the words that have a more or less exact match in the other passage(s), including those that have a partial match. This database is the main underlying resource for the Parallel Passages tool in Paratext.
 
-## Preliminary and Interim Report for the Hebrew Old Testament Text Project 
+## Preliminary and Interim Report for the Hebrew Old Testament Text Project (HOTTP)
 
 (© United Bible Societies 1973-1980, 2003-2023)
 
