@@ -30,7 +30,7 @@ This is a collection of 1000+  images from the world of the Bible. Some of these
 
 This is a collection of almost 200 files in SVG and GeoJSON formats containing the geographic coordinates of routes linked to Bible stories. These routes can be overlaid on Biblical maps and provide details about journeys made by Biblical figures. These routes are part of a collection of data created for UBS by Dr. Leen Ritmeyer.
 
-## Paratext Parallel Passages Database 
+## UBS Paratext Parallel Passages Database 
 
 (© United Bible Societies 2023)
 
