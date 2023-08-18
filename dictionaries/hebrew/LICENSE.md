@@ -1,4 +1,4 @@
-# UBS Dictionary of Biblical Hebrew Lexicon
+# UBS Dictionary of Biblical Hebrew
 
 (© United Bible Societies 2023)
 
