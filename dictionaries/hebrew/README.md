@@ -1,2 +1,7 @@
-# ubs-open-license
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Ham Sandwich</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="google.com" property="cc:attributionName" rel="cc:attributionURL">United Bible Societies</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+# UBS Dictionary of Biblical Hebrew (© United Bible Societies 2023)
+
+This dictionary is extracted from the Semantic Dictionary of Biblical Hebrew (SDBH; © United Bible Societies 2000-2023) and contains the lexical analysis for each available entry, with definitions, glosses, all Scripture references, and lexical semantic domains. SDBH is an ongoing project and to date around 90% of all words found in the Old Testament are included. The remaining 10% will be added once they become available. 
+
+This resource is available in the languages English, French, Spanish, and Chinese (both traditional and simplified scripts). Other languages will become available once the localization work has been completed.
+
+The data can be downloaded in either XML or JSON.
