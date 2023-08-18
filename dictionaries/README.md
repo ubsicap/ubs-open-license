@@ -1,6 +1,4 @@
-# UNITED BIBLE SOCIETIES RESOURCES PUBLISHED UNDER CC-BY-SA
-
-## UBS Dictionary of Biblical Hebrew 
+# UBS Dictionary of Biblical Hebrew 
 
 (© United Bible Societies 2023)
 
@@ -10,7 +8,7 @@ This resource is available in the languages English, French, Spanish, and Chines
 
 The data can be downloaded in either XML or JSON.
 
-## UBS Dictionary of the Greek New Testament 
+# UBS Dictionary of the Greek New Testament 
 
 (© United Bible Societies 2023)
 
