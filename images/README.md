@@ -6,6 +6,7 @@ This collection contains a metadata file (ubs-release.xml) that has background i
 
 These are the three sub collections:
 
-* UBS - 85 images, all of which can be found in the included zip file
-* PRITZ - 161 images taken by Ray Pritz, all of which can be found in the included zip file
-* WEB - 1008 open access images found on the web, the full path of which can be found in the metadata file; because of the high number it turned out impractical to include the images. 
+* UBS - 85 images, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/ubs.zip
+* PRITZ - 161 images taken by Ray Pritz, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/pritz.zip 
+* WEB - 1008 open access images found on the web, whicg can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/web.zip
+
