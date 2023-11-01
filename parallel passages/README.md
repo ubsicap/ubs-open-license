@@ -11,6 +11,6 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-(© United Bible Societies 2023)
+(UBS Parallel Passage Database, © 2023 United Bible Societies.)
 
 This is a database with parallel passages in the Old and New Testament including OT quotes in the NT. The passages have been analyzed in detail and include numberings marking the words that have a more or less exact match in the other passage(s), including those that have a partial match. This database is the main underlying resource for the Parallel Passages tool in Paratext.
