@@ -15,14 +15,22 @@ This work is licensed under a
 
 This is a database with parallel passages in the Old and New Testament including OT quotes in the NT. The passages have been analyzed in detail and include numberings marking the words that have a more or less exact match in the other passage(s), including those that have a partial match. This database is the main underlying resource for the Parallel Passages tool in Paratext.
 
-Below, you will see an example of a parallel passage within the Old Testament (BHS). In a case like this, the numbering obviously applies to the Hebrew text. 
+Below, you will see an example of a parallel passage within the Old Testament (BHS). In a case like this, the numbering applies to the words in the Hebrew text. 
 
   <Passage>
     <Verse HEB="000000002222">GEN 1:27</Verse>
     <Verse HEB="22200000000">GEN 5:2</Verse>
   </Passage>
 
-The example below represents a parallel passage with the same two parallel verses from the Old Testament (BHS) as above. This time, howver, they are quoted in the New Testament (UBSGNT5). In a case like this, the actual text that is quoted is from the Greek translation of the Hebrew text, the Septuagint (LXX). So the numbering applies to the LXX words, not the Hebrew. 
+Below, you can see a parallel passages from the New Testament, involving three passages. The numbering applies to the words in the Greek (UBSGNT5) text. In cases where there are more than two passages, a word is marked as a full match if that match is found in **at least** one of the other passages.
+
+  <Passage>
+    <Verse GRK="02022220020000">MAT 27:61</Verse>
+    <Verse GRK="022222200100">MRK 15:47</Verse>
+    <Verse GRK="00000000000100000000">LUK 23:55</Verse>
+  </Passage>
+
+The example below represents a parallel passage with the same two parallel verses from the Old Testament (BHS) as seen earlier. This time, howver, they are quoted in the New Testament (UBSGNT5). In a case like this, the actual text that is quoted is from the Greek translation of the Hebrew text, the Septuagint (LXX). So the numbering applies to the LXX words, not the Hebrew. 
 
 <Passage>
     <Verse HEB="0000003000052222">GEN 1:27</Verse>
