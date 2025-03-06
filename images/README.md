@@ -19,5 +19,5 @@ These are the three sub collections:
 
 * UBS - 85 images, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/ubs.zip
 * PRITZ - 161 images taken by Ray Pritz, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/pritz.zip 
-* WEB - 1008 open access images found on the web, whicg can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/web.zip
+* WEB - 1008 open access images found on the web, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/web.zip
 
