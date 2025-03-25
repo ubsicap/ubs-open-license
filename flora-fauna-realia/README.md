@@ -42,27 +42,6 @@ The images for this publication can be downloaded here: https://d22edu6iq8vokk.c
 
 This resource is available in the languages English, Chinese in traditional script, and Chinese in simplified script. 
 
-# Human-made Things in the Bible (Realia Handbook)
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-Human-made Things in the Bible © United Bible Societies, 2025.  Adapted from: The Works of their Hands: Man-made Things in the Bible, by Ray Pritz © 2009 United Bible Societies.
-
-This resource is available in the languages English, Chinese in traditional script, and Chinese in simplified script. 
-
-The data can be downloaded in XML.
-
-This resource is available in the languages English, Chinese in traditional script, and Chinese in simplified script. 
-
 # Attribution for Images
 
-See this information in the three PDF files with copyright information.
+See this information in the PDF files with copyright information.
