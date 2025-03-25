@@ -19,8 +19,6 @@ The data can be downloaded in XML.
 
 The images for this publication can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/FFR_Fauna.zip
 
-# Attribution
-
 # Plants and Trees in the Bible (Flora Handbook)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -63,11 +61,8 @@ This resource is available in the languages English, Chinese in traditional scri
 
 The data can be downloaded in XML.
 
-The images for this publication can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/FFR_Realia.zip
-
 This resource is available in the languages English, Chinese in traditional script, and Chinese in simplified script. 
 
 # Attribution for Images
 
-This collection contains a metadata file (ubs-release.xml) that has background information about the images. This background information, among other things, includes all Scripture references for each images. Scripture references are represented by a 14-digit code BBBCCCVVVSSWWW (B = Book, C = Chapter, V = Verse, S = segment, W = Word).
-
+See this information in the three PDF files with copyright information.
