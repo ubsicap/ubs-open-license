@@ -111,9 +111,9 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="fauna-table-classification_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table-classification_hans.png</FileName>
+                  <FileName>fauna-table-classification_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption />
@@ -813,9 +813,9 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="fauna-table1_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table1_hans.png</FileName>
+                  <FileName>fauna-table1_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption>表1</Caption>
@@ -897,7 +897,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0006_addax">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0006_addax.jpg</FileName>
                   <Copyright>© Ltshears (Wikimedia Commons)</Copyright>
@@ -906,7 +906,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0901_waterbuck">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0901_waterbuck.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -975,7 +975,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0048_baboon">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0048_baboon.jpg</FileName>
                   <Copyright>Public domain (Wikimedia Commons)</Copyright>
@@ -1041,7 +1041,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0889_vervet_monkeys">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0889_vervet_monkeys.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -1050,7 +1050,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0700_patas_monkey">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0700_patas_monkey.jpg</FileName>
                   <Copyright>© Rhythmasharmad (Wikimedia Commons)</Copyright>
@@ -1343,7 +1343,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0185_donkey">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0185_donkey.jpg</FileName>
                   <Copyright>Sue Rickhuss (Pixabay)</Copyright>
@@ -1352,7 +1352,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="PTZ-0032_donkey_with_dog">
-                  <Collection />
+                  <Collection>PRITZ</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>PTZ-0032_donkey_with_dog.jpg</FileName>
                   <Copyright>© Ray Pritz (UBS)</Copyright>
@@ -1427,7 +1427,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0061_bats">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0061_bats.jpg</FileName>
                   <Copyright>© Oren Peles (Wikimedia Commons)</Copyright>
@@ -1524,7 +1524,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0066_bears">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0066_bears.jpg</FileName>
                   <Copyright>© Yoninah (Wikimedia Commons)</Copyright>
@@ -1598,7 +1598,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0286_hartebeest">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0286_hartebeest.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -1784,7 +1784,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0189_dromedary">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0189_dromedary.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -1793,7 +1793,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0052_bactrian">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0052_bactrian.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -1858,7 +1858,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0117_cat">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0117_cat.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -1867,7 +1867,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0917_wild_cat">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0917_wild_cat.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -2589,7 +2589,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0159_cows">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0159_cows.jpg</FileName>
                   <Copyright>© Chanania Herman, Israel Government Press Office (IGPO)</Copyright>
@@ -2707,7 +2707,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="PTZ-0114_red_deer">
-                  <Collection />
+                  <Collection>PRITZ</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>PTZ-0114_red_deer.jpg</FileName>
                   <Copyright>© Ray Pritz (UBS)</Copyright>
@@ -2716,7 +2716,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0212_fallow_deer">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0212_fallow_deer.jpg</FileName>
                   <Copyright>© Eyal Bartov (Wikimedia Commons)</Copyright>
@@ -2847,7 +2847,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0184_dogs">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0184_dogs.jpg</FileName>
                   <Copyright>© محمد الفلسطيني (Wikimedia Commons)</Copyright>
@@ -2856,7 +2856,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="PTZ-0031_dog">
-                  <Collection />
+                  <Collection>PRITZ</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>PTZ-0031_dog.jpg</FileName>
                   <Copyright>© Ray Pritz (UBS)</Copyright>
@@ -2929,7 +2929,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0615_manatee">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0615_manatee.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -2938,7 +2938,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0795_seal">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0795_seal.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -3080,7 +3080,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0536_indian_elephant">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0536_indian_elephant.jpg</FileName>
                   <Copyright>© Jayanand Govindaraj (Wikimedia Commons)</Copyright>
@@ -3089,7 +3089,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0011_africanelephant">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0011_africanelephant.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -3185,7 +3185,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0256_gazelle">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0256_gazelle.jpg</FileName>
                   <Copyright>© Ikiwaner (Wikimedia Commons)</Copyright>
@@ -3194,7 +3194,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0534_impala">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0534_impala.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -3505,7 +3505,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0265_goats">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0265_goats.jpg</FileName>
                   <Copyright>© brewbooks from near Seattle, USA (Wikimedia Commons)</Copyright>
@@ -3514,7 +3514,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0267_goats_herd">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0267_goats_herd.jpg</FileName>
                   <Copyright>Public Domain Pictures (Pixabay)</Copyright>
@@ -3599,7 +3599,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0264_goat_kid">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0264_goat_kid.jpg</FileName>
                   <Copyright>© Kalaiarasy (Wikimedia Commons)</Copyright>
@@ -3659,7 +3659,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0284_hare">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0284_hare.jpg</FileName>
                   <Copyright>Feldhase_Schiermonnikoog</Copyright>
@@ -3964,7 +3964,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0305_horse">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0305_horse.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -4081,7 +4081,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0309_striped_hyena">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0309_striped_hyena.jpg</FileName>
                   <Copyright>© Sumeet Moghe (Wikimedia Commons)</Copyright>
@@ -4159,7 +4159,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0310_hyrax">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0310_hyrax.jpg</FileName>
                   <Copyright>© Chris 73 (Wikimedia Commons)</Copyright>
@@ -4263,7 +4263,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0313_ibex">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0313_ibex.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -4440,7 +4440,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0243_fox">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0243_fox.jpg</FileName>
                   <Copyright>© Doron Horovitz, Israel Government Press Office (IGPO)</Copyright>
@@ -4449,7 +4449,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0214_fennec">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0214_fennec.jpg</FileName>
                   <Copyright>© ladypine (Wikimedia Commons)</Copyright>
@@ -4458,7 +4458,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0541_jackal">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0541_jackal.jpg</FileName>
                   <Copyright>© Yathin S Krishnappa (Wikimedia Commons)</Copyright>
@@ -4564,7 +4564,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0587_leopard">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0587_leopard.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -4573,7 +4573,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0124_cheetah">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0124_cheetah.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -4942,7 +4942,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0596_lions">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0596_lions.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -4951,7 +4951,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0595_lioness_cub">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0595_lioness_cub.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -4960,7 +4960,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0593_lion">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0593_lion.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -5020,7 +5020,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0637_molerat">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0637_molerat.jpg</FileName>
                   <Copyright>© Bassem18 (Wikimedia Commons)</Copyright>
@@ -5029,7 +5029,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0733_prairie_dogs">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0733_prairie_dogs.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -5096,7 +5096,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0638_mongoose">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0638_mongoose.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -5105,7 +5105,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0725_polecat">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0725_polecat.jpg</FileName>
                   <Copyright>© Malene Thyssen (Wikimedia Commons)</Copyright>
@@ -5181,7 +5181,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0892_vole">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0892_vole.jpg</FileName>
                   <Copyright>© Evan James Shymko (Wikimedia Commons)</Copyright>
@@ -5190,7 +5190,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0656_mouse">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0656_mouse.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -5199,7 +5199,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0749_rat">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0749_rat.jpg</FileName>
                   <Copyright>© H.Zell (Wikimedia Commons)</Copyright>
@@ -5208,7 +5208,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0545_jerboa">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0545_jerboa.jpg</FileName>
                   <Copyright>© Elias Neideck (Wikimedia Commons)</Copyright>
@@ -5217,7 +5217,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0262_gerbil">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0262_gerbil.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -5315,7 +5315,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="PTZ-0098_mule_turning_olive_press">
-                  <Collection />
+                  <Collection>PRITZ</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>PTZ-0098_mule_turning_olive_press.jpg</FileName>
                   <Copyright>© Ray Pritz (UBS)</Copyright>
@@ -5390,7 +5390,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0259_gemsbok">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0259_gemsbok.jpg</FileName>
                   <Copyright>© Mike Peel (Wikimedia Commons)</Copyright>
@@ -5399,7 +5399,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0689_oryx">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0689_oryx.jpg</FileName>
                   <Copyright>© Charles James Sharp (Wikimedia Commons)</Copyright>
@@ -5515,7 +5515,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0713_pigs">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0713_pigs.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -6129,7 +6129,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="PTZ-0119_ewe_with_lamb">
-                  <Collection />
+                  <Collection>PRITZ</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>PTZ-0119_ewe_with_lamb.jpg</FileName>
                   <Copyright>© Ray Pritz (UBS)</Copyright>
@@ -6138,7 +6138,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0806_shepherd">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0806_shepherd.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -6147,7 +6147,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="PTZ-0092_lamb">
-                  <Collection />
+                  <Collection>PRITZ</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>PTZ-0092_lamb.jpg</FileName>
                   <Copyright>© Ray Pritz (UBS)</Copyright>
@@ -6596,7 +6596,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0805_sheep_flock">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0805_sheep_flock.jpg</FileName>
                   <Copyright>Wolfgang Eckert (Pixabay)</Copyright>
@@ -6692,7 +6692,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0913_wild_ass">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0913_wild_ass.jpg</FileName>
                   <Copyright>Jim Black(Pixabay)</Copyright>
@@ -6701,7 +6701,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0683_onager">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0683_onager.jpg</FileName>
                   <Copyright>Michael Oppermann (Wikimedia Commons)</Copyright>
@@ -6777,7 +6777,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0080_boars">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0080_boars.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -6867,7 +6867,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0757_rhinoceros">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0757_rhinoceros.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -6876,7 +6876,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0047_aurochs">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0047_aurochs.png</FileName>
                   <Copyright>(Source unknown)</Copyright>
@@ -6885,7 +6885,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0104_cape_buffalo">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0104_cape_buffalo.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -6894,7 +6894,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0255_gaurs">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0255_gaurs.jpg</FileName>
                   <Copyright>© Jenis patel (Wikimedia Commons)</Copyright>
@@ -6903,7 +6903,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0073_bison">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0073_bison.jpg</FileName>
                   <Copyright>© katsrcool from Edmond (Wikimedia Commons)</Copyright>
@@ -7006,7 +7006,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0922_wolf">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0922_wolf.jpg</FileName>
                   <Copyright>© Doron Horovitz, Israel Government Press Office (IGPO)</Copyright>
@@ -7413,16 +7413,16 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="fauna-table5_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table5_hans.png</FileName>
+                  <FileName>fauna-table5_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption>表5</Caption>
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0096_buzzard">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0096_buzzard.jpg</FileName>
                   <Copyright>© Derek Keats</Copyright>
@@ -7431,45 +7431,45 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="fauna-table2_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table2_hans.png</FileName>
+                  <FileName>fauna-table2_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption>表2</Caption>
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="fauna-table4_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table4_hans.png</FileName>
+                  <FileName>fauna-table4_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption>表4</Caption>
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="fauna-table3_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table3_hans.png</FileName>
+                  <FileName>fauna-table3_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption>表3</Caption>
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="fauna-table6_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table6_hans.png</FileName>
+                  <FileName>fauna-table6_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption>表6</Caption>
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="fauna-table7_hans">
-                  <Collection />
+                  <Collection>FAUNA</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>fauna-table7_hans.png</FileName>
+                  <FileName>fauna-table7_hans.jpg</FileName>
                   <Copyright />
                   <Definition Id="" LanguageCode="zh"></Definition>
                   <Caption>表7</Caption>
@@ -7595,7 +7595,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0767_rooster">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0767_rooster.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -7672,7 +7672,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0153_cormorants">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0153_cormorants.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -7755,7 +7755,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0160_cranes">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0160_cranes.jpg</FileName>
                   <Copyright>© Zeynel Cebeci (Wikimedia Commons)</Copyright>
@@ -7863,7 +7863,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0165_crow">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0165_crow.jpg</FileName>
                   <Copyright>© Petar Milošević (Wikimedia Commons)</Copyright>
@@ -8037,7 +8037,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0186_dove">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0186_dove.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8046,7 +8046,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0712_pigeon">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0712_pigeon.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8278,7 +8278,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0577_lappet-faced_vulture">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0577_lappet-faced_vulture.jpg</FileName>
                   <Copyright>© Yathin sk (Wikimedia Commons)</Copyright>
@@ -8287,7 +8287,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0203_egyptian_vulture">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0203_egyptian_vulture.jpg</FileName>
                   <Copyright>© michael clarke stuff (Wikimedia Commons)</Copyright>
@@ -8296,7 +8296,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0280_vulture">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0280_vulture.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8305,7 +8305,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0065_beardedvulture">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0065_beardedvulture.jpg</FileName>
                   <Copyright>© Hswaton (Wikimedia Commons)</Copyright>
@@ -8382,7 +8382,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0275_graylag_goose">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0275_graylag_goose.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8391,7 +8391,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0202_egyptian_geese">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0202_egyptian_geese.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8483,7 +8483,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0211_falcon">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0211_falcon.jpg</FileName>
                   <Copyright>© Juan Lacruz (Wikimedia Commons)</Copyright>
@@ -8492,7 +8492,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0566_kestrel">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0566_kestrel.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8501,7 +8501,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0287_hawk">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0287_hawk.jpg</FileName>
                   <Copyright>© Bear golden retriever (Wikimedia Commons)</Copyright>
@@ -8580,7 +8580,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0277_grey_heron">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0277_grey_heron.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8589,7 +8589,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0199_egret">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0199_egret.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8662,7 +8662,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0300_hoopoe">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0300_hoopoe.jpg</FileName>
                   <Copyright>© Dr. Raju Kasambe (Wikimedia Commons)</Copyright>
@@ -8746,7 +8746,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0542_jackdaw">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0542_jackdaw.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8821,7 +8821,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0567_black_kite">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0567_black_kite.jpg</FileName>
                   <Copyright>© Chris Eason (Wikimedia Commons)</Copyright>
@@ -8907,7 +8907,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0690_osprey">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0690_osprey.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -8992,7 +8992,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0691_ostrich">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0691_ostrich.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -9085,7 +9085,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0193_eagle_owl">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0193_eagle_owl.jpg</FileName>
                   <Copyright>A Different Perspective (Pixabay)</Copyright>
@@ -9159,7 +9159,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0194_eared_owl">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0194_eared_owl.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -9232,7 +9232,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0601_little_owl">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0601_little_owl.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -9487,7 +9487,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0807_short-eared_owl">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0807_short-eared_owl.jpg</FileName>
                   <Copyright>© nigel from vancouver, Canada (Wikimedia Commons)</Copyright>
@@ -9496,7 +9496,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0678_nightjar">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0678_nightjar.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -9505,7 +9505,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0679_nightjars">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0679_nightjars.jpg</FileName>
                   <Copyright>© Levashkin (Wikimedia Commons)</Copyright>
@@ -9578,7 +9578,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0058_barnowl">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0058_barnowl.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -9697,7 +9697,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0764_rock_partridge">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0764_rock_partridge.jpg</FileName>
                   <Copyright>© Richard Bartz (Wikimedia Commons)</Copyright>
@@ -9787,7 +9787,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0738_quails">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0738_quails.jpg</FileName>
                   <Copyright>Graham light (Pixabay)</Copyright>
@@ -9796,7 +9796,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0739_quail_young">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0739_quail_young.jpg</FileName>
                   <Copyright>© John Robert McPherson (Wikimedia Commons)</Copyright>
@@ -9870,7 +9870,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0794_seagull">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0794_seagull.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -9985,7 +9985,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0825_sparrow">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0825_sparrow.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -9994,7 +9994,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0826_sparrows">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0826_sparrows.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -10080,7 +10080,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0911_white_storks">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0911_white_storks.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -10089,7 +10089,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0077_black_stork">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0077_black_stork.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -10185,7 +10185,7 @@
               </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0848_swallow">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0848_swallow.jpg</FileName>
                   <Copyright>© Helenabella (Wikimedia Commons)</Copyright>
@@ -10194,7 +10194,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0850_swifts">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0850_swifts.jpg</FileName>
                   <Copyright>© pau.artigas (Wikimedia Commons)</Copyright>
@@ -10411,7 +10411,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0123_chameleon">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0123_chameleon.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -10511,7 +10511,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0137_cobra">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0137_cobra.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -10586,7 +10586,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0258_gecko">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0258_gecko.jpg</FileName>
                   <Copyright>Marc Pascual (Pixabay)</Copyright>
@@ -10662,7 +10662,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0170_dablizard">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0170_dablizard.jpg</FileName>
                   <Copyright>© Quartl (Wikimedia Commons)</Copyright>
@@ -10671,7 +10671,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0014_agama_lizards">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0014_agama_lizards.jpg</FileName>
                   <Copyright>Norbert Potensky (Wikimedia Commons)</Copyright>
@@ -10680,7 +10680,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0871_thorn-tailed_lizard">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0871_thorn-tailed_lizard.jpg</FileName>
                   <Copyright>© Eitan f (Wikimedia Commons)</Copyright>
@@ -10746,7 +10746,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0315_iguana">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0315_iguana.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -10755,7 +10755,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0640_lizard">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0640_lizard.jpg</FileName>
                   <Copyright>© Knockout mouse (Wikimedia Commons)</Copyright>
@@ -10820,7 +10820,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0813_skink">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0813_skink.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -10976,7 +10976,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0817_snake">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0817_snake.jpg</FileName>
                   <Copyright>© Doron Horovitz, Israel Government Press Office (IGPO)</Copyright>
@@ -10985,7 +10985,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0180_desertrocksnake">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0180_desertrocksnake.jpg</FileName>
                   <Copyright>H. B. Tristram</Copyright>
@@ -11113,7 +11113,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0891_viper">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0891_viper.jpg</FileName>
                   <Copyright>© ארבל לוי-ArbeLevy, לוכד נחשים (http://www.hyperviper.co.il, פורסם ברשות הצלם) (Wikimedia Commons)</Copyright>
@@ -11312,7 +11312,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0224_fish_hans">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0224_fish_hans.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11321,7 +11321,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0226_fishes">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0226_fishes.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11406,7 +11406,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0247_frog">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0247_frog.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11415,7 +11415,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0248_frogs">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0248_frogs.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11517,7 +11517,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0816_snail">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0816_snail.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11526,7 +11526,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0814_slug">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0814_slug.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11611,7 +11611,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0032_ants">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0032_ants.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11680,7 +11680,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0067_bees">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0067_bees.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11689,7 +11689,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0068_beesflower">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0068_beesflower.jpg</FileName>
                   <Copyright>Annette Meyer (Pixabay)</Copyright>
@@ -11748,7 +11748,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0236_flea">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0236_flea.jpg</FileName>
                   <Copyright>© Katja ZSM (Wikimedia Commons)</Copyright>
@@ -11843,7 +11843,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0240_fly">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0240_fly.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11981,7 +11981,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0643_mosquito">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0643_mosquito.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11990,7 +11990,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0628_midges">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0628_midges.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -11999,7 +11999,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0609_louse">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0609_louse.jpg</FileName>
                   <Copyright>Janice Harney Carr, Center for Disease Control (Wikimedia Commons)</Copyright>
@@ -12075,7 +12075,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0899_wasp">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0899_wasp.jpg</FileName>
                   <Copyright>© Alvesgaspar (Wikimedia Commons)</Copyright>
@@ -12084,7 +12084,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="UBS-0004_hornets_hans">
-                  <Collection />
+                  <Collection>UBS</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>UBS-0004_hornets_hans.png</FileName>
                   <Copyright>(Edward R. Hope)</Copyright>
@@ -12093,7 +12093,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0304_hornets">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0304_hornets.jpg</FileName>
                   <Copyright>© S. Rae from Scotland, UK (Wikimedia Commons)</Copyright>
@@ -12102,7 +12102,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0929_oriental_hornet">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0929_oriental_hornet.jpg</FileName>
                   <Copyright>© MattiPaavola (Wikimedia Commons)</Copyright>
@@ -12168,7 +12168,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0582_leech">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0582_leech.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -12422,7 +12422,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0608_locust_swarm">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0608_locust_swarm.jpg</FileName>
                   <Copyright>© Iwoelbern (Wikimedia Commons)</Copyright>
@@ -12431,7 +12431,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0274_grasshopper">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0274_grasshopper.jpg</FileName>
                   <Copyright>© Alvesgaspar (Wikimedia Commons)</Copyright>
@@ -12440,7 +12440,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0607_locusts">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0607_locusts.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -12449,7 +12449,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0606_locust">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0606_locust.jpg</FileName>
                   <Copyright>© Gilles San Martin (Wikimedia Commons)</Copyright>
@@ -12458,7 +12458,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0564_katydid">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0564_katydid.jpg</FileName>
                   <Copyright>© Bernard DUPONT (Wikimedia Commons)</Copyright>
@@ -12550,7 +12550,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0646_moth_larva">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0646_moth_larva.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -12559,7 +12559,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0644_moth">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0644_moth.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -12647,7 +12647,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0793_scorpion">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0793_scorpion.jpg</FileName>
                   <Copyright>© אבי בן זקן (https://www.flickr.com/photos/evilmacro/) (Wikimedia Commons)</Copyright>
@@ -12714,7 +12714,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0829_spider">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0829_spider.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -12723,7 +12723,7 @@
                   <Description />
                 </BibleImage>
                 <BibleImage Type="ILL" Id="WEB-0830_spider_web">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0830_spider_web.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -12835,7 +12835,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0612_maggots">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0612_maggots.jpg</FileName>
                   <Copyright>© Dalius Baranauskas (Wikimedia Commons)</Copyright>
@@ -12901,7 +12901,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0296_hippo">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0296_hippo.jpg</FileName>
                   <Copyright>Pixabay</Copyright>
@@ -13031,7 +13031,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0187_dragons">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0187_dragons.jpg</FileName>
                   <Copyright>© Wellcome Images (Wikimedia Commons)</Copyright>
@@ -13114,7 +13114,7 @@
           </Paragraphs>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0162_crocodile">
-                  <Collection />
+                  <Collection>WEB</Collection>
                   <Path>marble-images-flora-fauna-realia\FAUNA</Path>
                   <FileName>WEB-0162_crocodile.jpg</FileName>
                   <Copyright>© Dewet (Wikimedia Commons)</Copyright>
