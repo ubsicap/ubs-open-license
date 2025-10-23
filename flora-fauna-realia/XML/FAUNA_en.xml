@@ -852,20 +852,6 @@
             <Paragraph>On the Indian sub-continent the nearest equivalent would be the Nylghaie <i>Boselaphus tragocamelus</i>.</Paragraph>
             <Paragraph>Elsewhere a phrase such as “white-rumped antelope” or a transliteration could be used.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-2_addax-nasomaculatus">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-2_addax-nasomaculatus.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Addax (Addax nasomaculatus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="mammals_2-2_waterbuck">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-2_waterbuck.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Waterbuck (Kobus megaceros)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0006_addax">
                   <Collection>WEB</Collection>
@@ -1001,13 +987,6 @@
             <Paragraph>In most parts of Africa the generic local name for the guenon type of monkey or the specific name for the vervet monkey, <i>Cercopithecus mona</i> or <i>Erythrocebus patas</i>, would be a good choice. In Asia the generic name for the long-tailed langurs or a specific name for one of the common langurs could be used, while in Latin America a generic name or a specific term for the smaller capuchin monkeys would be suitable. If there are limited choices, or only one word for monkey, then <i>tuki</i> can be translated “small monkey.” In places where monkeys are not known, a transliteration of <i>tuki</i> or the word in the dominant or trade language should be used.</Paragraph>
             <Paragraph>The recommended interpretation of the Hebrew <i>veqofim vetukiyim</i> in both <s>01101002200056</s> and <s>01400902100052</s> is thus “baboons and monkeys".</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-3_vervetmonkey">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-3_vervetmonkey.mp3</FileName>
-                  <Copyright>iNaturalist.org</Copyright>
-                  <Description>Vervet monkey (Chlorocebus pygerythrus)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0889_vervet_monkeys">
                   <Collection>WEB</Collection>
@@ -1296,13 +1275,6 @@
           <Paragraphs>
             <Paragraph>The Greek phrase <i>mulos onikos</i> used for a millstone in <s>04001800601000</s> and <s>04100904201000</s> literally means “donkey millstone", that is, it refers to a large millstone turned by a donkey rather than to one turned by hand.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-4_donkey">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-4_donkey.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Donkey (Equus asinus)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0185_donkey">
                   <Collection>WEB</Collection>
@@ -1474,13 +1446,6 @@
             <Paragraph>In the higher parts of South America the word for the Spectacled Bear <i>Tremarctos ornatus</i> can be used if this animal is known to the readers. For translators elsewhere in the Southern Hemisphere, the problem is more difficult, especially in areas where bears are not known. The use of the name for a local animal is seldom successful, since the more dangerous local animals are usually too different from bears. The only alternative is to transliterate the name from the dominant major or trade language of the area, or from the original biblical language, with a glossary item saying something like: “A bear is a large dangerous animal with big claws and teeth."</Paragraph>
             <Paragraph>In some parts of central and southern Africa the name for the brown hyena is “mbere” or “bere", but even though the word sounds like “bear", two very different animals are involved. This word should not be used for “bear", since the hyena is associated with witchcraft, while the bear is not.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-6_brownbear">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-6_brownbear.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Brown Bear (Ursus arctos)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0066_bears">
                   <Collection>WEB</Collection>
@@ -1721,20 +1686,6 @@
             <Paragraph><s>02306602000062</s>: The word <i>kirkaroth</i> (singular, <i>kirkarah</i>), used only once in the Bible, seems to refer to camels used for riding rather than for carrying merchandise. In the context, which depicts people coming from distant foreign lands, the reference may be to Bactrian camels from Central Asia. In most languages the normal word for camel can be used in this verse. In languages that have different markers for pack animals and animals for riding, the word for camel in this verse can be marked as “camel for riding". Where Bactrian camels are known, the word for this type of camel can be used here.</Paragraph>
             <Paragraph><s>04001902400014 G04002302400018 G04101002500006 G04201802500008</s>: In these passages the large size of the camel is contrasted with a small eye of a needle in the one case, and with a small mosquito in the other. In some languages where camels are not well known, translators have used the name of a better known large animal, such as “bull", “horse", or “elephant", in order to retain the impact of Jesus’ words for the local readers. In such cases it is necessary to use a footnote to the effect that the Greek text has “camel". Translators should avoid using the names of animals that were not known to the original audience, such as “moose” or “kangaroo", or words that would have had a negative connotation, such as “big pig".</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-8_dromedary">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-8_dromedary.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Dromedary (Camelus dromedarius)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="mammals_2-8_bactrian">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-8_bactrian.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Bactrian (Camelus bactrianus)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0189_dromedary">
                   <Collection>WEB</Collection>
@@ -2524,13 +2475,6 @@
             <Paragraph><i>Moschos</i> is the word for a male calf or bull-calf. In <s>04400704101000</s> a verb derived from <i>moschos</i>, meaning “make a bull-calf", is used.</Paragraph>
             <Paragraph><s>05800901300020</s>: A word or phrase for a female calf (heifer) is the best equivalent. For “wild ox” see <l target="FAUNA:2.34">2.34 Wild ox</l>.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-10_cow">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-10_cow.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Cow (Bos taurus)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0159_cows">
                   <Collection>WEB</Collection>
@@ -2633,20 +2577,6 @@
             <Paragraph>Many translations have adopted the interpretation “Naphtali is a deer set free, which produces beautiful fawns” (compare <a>RSV</a>, <a>NIV</a>, <a>TEV</a>, <a>NAB</a>), but this involves a very debatable emendation of the word meaning “word” or “utterance". The point of comparison would be enjoyment of freedom on the one hand and fertility on the other. It is likely that the Masoretic Hebrew text has been corrupted at some point, and that the Greek of the Septuagint represents an earlier form of the text: “Naphtali is a spreading terebinth tree that puts forth a lovely canopy” (compare <a>NEB</a>, <a>REB</a>, and footnotes in most other versions). This translation is based on a reading of <i>’elah</i> instead of <i>’ayalah</i>. The point of comparison for both metaphors would be prosperity and fertility. A similar problem exists in <s>01902900900008</s>, where the reading should probably be <i>’elah</i>, “terebinth tree", rather than <i>’ayalah</i>.</Paragraph>
             <Paragraph>In parts of the world where neither deer nor antelope are found, borrowed terms may have to be used, but these should be described in a glossary.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-11_reddeer">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-11_reddeer.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Red deer (Cervus elaphus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="mammals_2-11_fallowdeer">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-11_fallowdeer.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Fallow deer (Dama dama)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="PTZ-0114_red_deer">
                   <Collection>PRITZ</Collection>
@@ -2777,13 +2707,6 @@
             <Paragraph><s>02306600300020</s>: The clause “He who sacrifices a lamb is like him who breaks a dog’s neck” should be understood as meaning that because of the disobedience of the people mentioned in verse 4, even if they offer an acceptable sacrifice such as a lamb, it is the same as offering the most unacceptable and unclean of sacrifices. The “breaking of a dog’s neck” is an unacceptable sacrifice on two counts: the dog is an unclean animal, and breaking its neck is the wrong way to kill any sacrifice, since the blood then remains in the carcass and defiles it according to Jewish law.</Paragraph>
             <Paragraph>In <s>05000300200006</s> it is almost impossible to capture the irony of referring to Christians who are overly concerned with ritual purity and circumcision as <b>dogs</b>. If dogs in the receptor culture are not viewed as especially unclean, then an expression such as “dirty dogs” should be used.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-12_dog">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-12_dog.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Dog (Canis lupus familiaris</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0184_dogs">
                   <Collection>WEB</Collection>
@@ -3006,20 +2929,6 @@
           <Paragraphs>
             <Paragraph>There are local words for elephant in most African, Middle Eastern, and Asian languages, and many international languages use a word derived from the Greek name <i>elephas</i>. In some areas even though there are no elephants, the fossilized bones of mammoths, the ancient relative of the elephant, are known, and this local name is used for modern elephants too. In most other areas the word for elephant is a word that is borrowed from the dominant language of the area. Where this language is English, Spanish, French, Portuguese, German, or Dutch, the word is similar to <i>elephant, elefant, elefantos</i>, or <i>olifant</i>.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-14_indianelephant">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-14_indianelephant.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Indian Elephant (Elephas maximus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="mammals_2-14_africanelephant">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-14_africanelephant.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>African Elephant (Loxodonta africana)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0536_indian_elephant">
                   <Collection>WEB</Collection>
@@ -3520,13 +3429,6 @@
           <Paragraphs>
             <Paragraph>In Hebrew the word <i>gedi</i> is often used together with other words for goats, such as <i>‘ez</i>, in expressions like <i>gedi ‘izim</i>, literally “a kid of goats” This longer expression means exactly the same as the single word <i>gedi</i>. In all cases a specific word or a phrase for a young goat or baby goat can be used. See the illustration in the previous entry.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-16_goat">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-16_goat.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Goat (Capra hircus)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0264_goat_kid">
                   <Collection>WEB</Collection>
@@ -3890,24 +3792,17 @@
             <Paragraph>The word <i>rekesh</i> is best translated as “fast horse", or “best horse". <s>01700801000046 H01700801400010</s> indicate that this word refers to a horse that was selectively bred and apparently particularly swift, and so especially suited to carrying messengers. There are scholars who trace the modern Arabian breed of horse back to the ancient <i>rekesh</i>.</Paragraph>
             <Paragraph><s>03300101300012</s>: The context in this verse is one of haste, and the writer is calling on the people of Lachish to hitch to their chariots their fastest horses, perhaps usually reserved for the nobility to ride.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-18_horse">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-18_horse.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Horse (Equus caballus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0305_horse">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0305_horse.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Przewalski’s horse</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0305_horse">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0305_horse.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Przewalski’s horse</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -4004,24 +3899,17 @@
             <Paragraph><s>02303401400006</s>: This verse probably should be interpreted as “Hyenas will meet with jackals . . . ."</Paragraph>
             <Paragraph><s>02405003900006</s>: This probably should be interpreted as “Hyenas and jackals will live there . . . ."</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-19_hyena">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-19_hyena.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Hyena (Hyaena hyaena)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0309_striped_hyena">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0309_striped_hyena.jpg</FileName>
-                  <Copyright>© Sumeet Moghe (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Striped hyena</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0309_striped_hyena">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0309_striped_hyena.jpg</FileName>
+                <Copyright>© Sumeet Moghe (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Striped hyena</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -4348,56 +4236,35 @@
             <Paragraph><s>04201303200014</s>: In this verse, where <i>alōpēx</i> is used figuratively, it is more important to retain the inference associated with the word than to signify the exact animal. The word is slightly insulting, and the main exegetical decision to be made here is whether Jesus is using the term with the Greek connotation of “crafty opportunist” or with the Semitic connotation of “insignificant but self-important person.” Either would fit the context. If the former is in focus, Jesus is inferring that even though Herod Antipas is a crafty opportunist, his plans are known. If the latter sense is intended, as seems more likely, then Jesus is inferring that Herod does not have the power to stop him doing what he has to do. Some commentators have argued that both inferences are intended since both the Greek and Hebrew metaphors would have been known.</Paragraph>
             <Paragraph>If the Greek inference is decided upon, then the word <i>alōpēx</i> could be translated “crafty fox” or “crafty jackal". If the Semitic inference is preferred, the word could be translated “insignificant jackal". In either case the word for a local animal that symbolizes crafty opportunism (for example, baboon) or self-important insignificance (for example, rabbit) can be used in the text, with a footnote to indicate that the original word means fox or jackal.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-22_fox">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-22_fox.mp3</FileName>
-                  <Copyright>Christoph Moning</Copyright>
-                  <Description>Fox (Vulpes vulpes)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="mammals_2-22_fennec">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-22_fennec.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Fennec (Vulpes zerda)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="mammals_2-22_jackal">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-22_jackal.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Jackal (Canis aureus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0243_fox">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0243_fox.jpg</FileName>
-                  <Copyright>© Doron Horovitz, Israel Government Press Office (IGPO)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Fox</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0214_fennec">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0214_fennec.jpg</FileName>
-                  <Copyright>© ladypine (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Fennec</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0541_jackal">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0541_jackal.jpg</FileName>
-                  <Copyright>© Yathin S Krishnappa (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Jackal</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+          <BibleImages>
+            <BibleImage Type="ILL" Id="WEB-0243_fox">
+              <Collection>WEB</Collection>
+              <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+              <FileName>WEB-0243_fox.jpg</FileName>
+              <Copyright>© Doron Horovitz, Israel Government Press Office (IGPO)</Copyright>
+              <Definition Id=""  LanguageCode="en"></Definition>
+              <Caption>Fox</Caption>
+              <Description />
+            </BibleImage>
+            <BibleImage Type="ILL" Id="WEB-0214_fennec">
+              <Collection>WEB</Collection>
+              <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+              <FileName>WEB-0214_fennec.jpg</FileName>
+              <Copyright>© ladypine (Wikimedia Commons)</Copyright>
+              <Definition Id=""  LanguageCode="en"></Definition>
+              <Caption>Fennec</Caption>
+              <Description />
+            </BibleImage>
+            <BibleImage Type="ILL" Id="WEB-0541_jackal">
+              <Collection>WEB</Collection>
+              <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+              <FileName>WEB-0541_jackal.jpg</FileName>
+              <Copyright>© Yathin S Krishnappa (Wikimedia Commons)</Copyright>
+              <Definition Id=""  LanguageCode="en"></Definition>
+              <Caption>Jackal</Caption>
+              <Description />
+            </BibleImage>
+          </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -4477,40 +4344,26 @@
           <Paragraphs>
             <Paragraph>In areas where both leopards and cheetahs are known, the word for cheetah is probably the best choice in <s>03500100800008</s>. Where leopards are not known, the word for jaguar, bobcat, puma, mountain lion, or tiger can be used. Elsewhere, a borrowed word or a transliteration will need to be used, taking the Hebrew or the dominant local language as the basis.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-23_leopard">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-23_leopard.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Leopard (Panthera pardus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="mammals_2-23_chetaah">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-23_chetaah.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Cheetah (Acinonyx jubatus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0587_leopard">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0587_leopard.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Leopard</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0124_cheetah">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0124_cheetah.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Cheetah</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0587_leopard">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0587_leopard.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Leopard</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0124_cheetah">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0124_cheetah.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Cheetah</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -4854,42 +4707,35 @@
             <Paragraph>In RSV, NEB, and REB, the presupposition is that lions live in dens, to which they carry their prey, and that the male lion in the passage tears up a carcass to feed to the lionesses and cubs. <a>TEV</a> shares this presupposition but adds the idea that lion cubs are fed in the den. But, as we have seen, lions do not live in dens, and male lions do not tear up carcasses to feed cubs. And they certainly do not feed lionesses; they usually compete with them for the meat.</Paragraph>
             <Paragraph>A better interpretation is to take <i>kefir</i> in the same way as in the previous passages, that is, as killer lion. <i>Ma‘on</i> seems to mean “dwelling place, territory” in this context. <i>Mir‘eh</i> is interpreted in <a>NIV</a> and <a>TEV</a> as “feeding place", which fits the context well. This leaves <i>chor</i>, which functions here as a parallel expression to <i>me‘onot</i> “territories". <i>Chor</i> normally means “hole” or “cave” and can be taken to refer to the temporary dens where suckling lionesses are fed by other lionesses.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-24_lion">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-24_lion.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Lion (Panthera leo)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0596_lions">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0596_lions.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Female and male lion</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0595_lioness_cub">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0595_lioness_cub.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Lioness and cub</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0593_lion">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0593_lion.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Male lion</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0596_lions">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0596_lions.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Female and male lion</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0595_lioness_cub">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0595_lioness_cub.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Lioness and cub</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0593_lion">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0593_lion.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Male lion</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -5297,33 +5143,26 @@
           <Paragraphs>
             <Paragraph>In Africa and other areas where oryxes or sable and roan antelopes are known, the word for one of these animals could be used throughout. Elsewhere, a term, such as “long-horned antelopes", could be used for <i>te’o</i>, or a transliteration of the Hebrew word might be considered, with a description given in a footnote or in the glossary.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-29_oryx">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-29_oryx.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Oryx (Oryx leucoryx)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0259_gemsbok">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0259_gemsbok.jpg</FileName>
-                  <Copyright>© Mike Peel (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Gemsbok</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0689_oryx">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0689_oryx.jpg</FileName>
-                  <Copyright>© Charles James Sharp (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Arabian oryx</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+          <BibleImages>
+            <BibleImage Type="ILL" Id="WEB-0259_gemsbok">
+              <Collection>WEB</Collection>
+              <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+              <FileName>WEB-0259_gemsbok.jpg</FileName>
+              <Copyright>© Mike Peel (Wikimedia Commons)</Copyright>
+              <Definition Id=""  LanguageCode="en"></Definition>
+              <Caption>Gemsbok</Caption>
+              <Description />
+            </BibleImage>
+            <BibleImage Type="ILL" Id="WEB-0689_oryx">
+              <Collection>WEB</Collection>
+              <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+              <FileName>WEB-0689_oryx.jpg</FileName>
+              <Copyright>© Charles James Sharp (Wikimedia Commons)</Copyright>
+              <Definition Id=""  LanguageCode="en"></Definition>
+              <Caption>Arabian oryx</Caption>
+              <Description />
+            </BibleImage>
+          </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -5421,24 +5260,17 @@
             <Paragraph>In languages that differentiate between wild and domestic pigs, in <s>01908001301000</s> the word for a wild pig should be used. In <s>06100202200028</s>, although the Greek specifies a female pig, the gender of the pig is not really important in the proverb. Many translations have simply “pig".</Paragraph>
             <Paragraph>The Hebrew expression “wild animals of the reeds” in <s>01906803001000</s> is probably a reference to wild pigs and may be translated “wild pigs in the reeds".</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="mammals_2-30_pig">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-30_pig.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>Pig (Sus scrofus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0713_pigs">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0713_pigs.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Pigs</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0713_pigs">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0713_pigs.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Pigs</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -7528,24 +7360,17 @@
           <Paragraphs>
             <Paragraph>If the translator chooses to identify <i>shalak</i> as “cormorant", it should not be difficult to find some species of cormorant locally, since cormorants are found all over the world near large bodies of water. The white-necked cormorant is in fact found not only in Israel but also near the coasts, lake shores, large rivers, and swamps throughout Europe, Asia, Australasia, Africa, and the eastern half of North America. In southern Africa a slightly different form of the white-necked cormorant is found, called the white-breasted cormorant. It has a white breast and throat and a smaller throat pouch, but has the same scientific name. Elsewhere there will be local species of cormorant, which can be identified by the habit of perching with wings spread out to dry.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-4_cormorant">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-4_cormorant.mp3</FileName>
-                  <Copyright>Patrik Åberg</Copyright>
-                  <Description>Great Cormorant (Phalacrocorax carbo)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0153_cormorants">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0153_cormorants.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Cormorants</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0153_cormorants">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0153_cormorants.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Cormorants</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -7610,24 +7435,17 @@
             <Paragraph>Thrushes too are found worldwide, except in New Zealand and Oceania. It should not be difficult to find a local equivalent if the interpretation <i>thrush</i> is followed. Elsewhere a borrowed word or transliteration can be used.</Paragraph>
             <Paragraph>The translation of “wryneck” is more problematic. There are only two species of wryneck, one found in southeastern Europe which migrates to Egypt and one found in some parts of western, eastern, and southern Africa. It is not a very common bird. The translation “crane” would be preferable from a translational as well as an exegetical point of view.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-5_crane">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-5_crane.mp3</FileName>
-                  <Copyright>Jens Kirkeby</Copyright>
-                  <Description>Common Crane (Grus grus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0160_cranes">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0160_cranes.jpg</FileName>
-                  <Copyright>© Zeynel Cebeci (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Cranes</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0160_cranes">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0160_cranes.jpg</FileName>
+                <Copyright>© Zeynel Cebeci (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Cranes</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -7708,31 +7526,17 @@
             <Paragraph><s>01101700400020</s>: Some commentators take the Hebrew word <i>‘orvim</i> to refer to a desert tribe, since the Hebrew word has the same consonants as the word for “Arabs". However, almost all Bible translations retain the traditional interpretation “ravens".</Paragraph>
             <Paragraph><s>03600201401000</s>: Most modern translations follow the ancient versions rather than the Hebrew in this verse, reading <i>‘orev</i>, “raven” rather than <i>chorev</i>, “desolation".</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-6-1_crow">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-6-1_crow.mp3</FileName>
-                  <Copyright>Jean Christophe Pratt</Copyright>
-                  <Description>Carrion Crow (Corvus corone)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-6-2_raven">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-6-2_raven.mp3</FileName>
-                  <Copyright>Nikolay Sariev</Copyright>
-                  <Description>Northern Raven (Corvus corax)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0165_crow">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0165_crow.jpg</FileName>
-                  <Copyright>© Petar Milošević (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Hooded crow</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0165_crow">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0165_crow.jpg</FileName>
+                <Copyright>© Petar Milošević (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Hooded crow</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -7877,40 +7681,26 @@
             <Paragraph>Pigeons and doves are found worldwide, except in some snow-bound regions and on some remote islands. Almost everywhere they live there is more than one species, and in almost all locations the domestic pigeon is one of these species. As a general rule, the word for the smaller wild dove should be used wherever possible, but in those contexts where both pigeons and doves are mentioned in connection with sacrifices, the word for the domestic pigeon can be used as well as the one for the wild dove.</Paragraph>
             <Paragraph>In <s>01200602500044</s> there is a Hebrew expression that literally means “dove’s dung". This seems to be a reference to some kind of food that is eaten only in emergencies. Suggestions about what this may refer to have varied from “chickpeas” (which do look somewhat like a dove’s droppings) to “locust-beans” (<a>NEB</a>, <a>REB</a>), “wild onions” (<a>JB</a>, <a>TEV</a> footnote, <a>NAB</a>), and the roots of certain wild flowers. In view of the lack of certainty, it is probably best to translate it literally as “dove’s dung” and include the footnote, “This is probably some kind of wild food eaten only in emergencies."</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-7-1_rock-dove">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-7-1_rock-dove.mp3</FileName>
-                  <Copyright>Manuel Grosselet</Copyright>
-                  <Description>Rock Dove (Columba livia)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-7-2_turtle-dove">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-7-2_turtle-dove.mp3</FileName>
-                  <Copyright>Tero Linjama</Copyright>
-                  <Description>European Turtle Dove (Streptopelia turtur)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0186_dove">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0186_dove.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Dove and young</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0712_pigeon">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0712_pigeon.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Pigeon</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0186_dove">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0186_dove.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Dove and young</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0712_pigeon">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0712_pigeon.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Pigeon</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8104,65 +7894,44 @@
             <Paragraph>In those parts of Africa where the Egyptian vulture or the long-crested eagle are known, the name for either one would fit this context well. Elsewhere an expression such as “his hair grew as long as an eagle’s feathers” is probably the best alternative.</Paragraph>
             <Paragraph><s>03300101600022</s>: The reference is probably to the bald lappet-faced vulture.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-8-1_egyptian-vulture">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-8-1_egyptian-vulture.mp3</FileName>
-                  <Copyright>Eduardo Realinho</Copyright>
-                  <Description>Egyptian Vulture (Neophron percnopterus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-8-2_griffon-vulture">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-8-2_griffon-vulture.mp3</FileName>
-                  <Copyright>Stanislas Wroza</Copyright>
-                  <Description>Griffon Vulture (Gyps fulvus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-8-4_bearded-vulture">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-8-4_bearded-vulture.mp3</FileName>
-                  <Copyright>Eduardo Realinho</Copyright>
-                  <Description>Bearded Vulture (Gypaetus barbatus barbatus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0577_lappet-faced_vulture">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0577_lappet-faced_vulture.jpg</FileName>
-                  <Copyright>© Yathin sk (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Lappet-faced vulture</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0203_egyptian_vulture">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0203_egyptian_vulture.jpg</FileName>
-                  <Copyright>© michael clarke stuff (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Egyptian vulture</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0280_vulture">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0280_vulture.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Griffon vulture</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0065_beardedvulture">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0065_beardedvulture.jpg</FileName>
-                  <Copyright>© Hswaton (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Bearded vulture</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0577_lappet-faced_vulture">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0577_lappet-faced_vulture.jpg</FileName>
+                <Copyright>© Yathin sk (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Lappet-faced vulture</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0203_egyptian_vulture">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0203_egyptian_vulture.jpg</FileName>
+                <Copyright>© michael clarke stuff (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Egyptian vulture</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0280_vulture">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0280_vulture.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Griffon vulture</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0065_beardedvulture">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0065_beardedvulture.jpg</FileName>
+                <Copyright>© Hswaton (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Bearded vulture</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8215,40 +7984,26 @@
             <Paragraph>A word for goose or large duck is appropriate where such birds are known. In sub-Saharan Africa the specific word for the large Spurwing Goose <i>Plectropterus gambensis</i> is the closest equivalent. In North America the Canada goose and in New Guinea and Australia the Pied Goose <i>Anseranas semipalmata</i> would be the local equivalents. Otherwise, a more general expression for big fattened birds can be used. In some languages a phrase literally meaning “meat-birds” has been possible</Paragraph>
             <Paragraph>Because of the doubt concerning the precise meaning of this word, a general inclusive word like “poultry", or even “fowl” or “chickens", is perfectly admissible.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-9-1_greylag-geese">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-9-1_greylag-geese.mp3</FileName>
-                  <Copyright>Romuald Mikusek</Copyright>
-                  <Description>Greylag Goose (Anser anser)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-9-2_egyptian-geese">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-9-2_egyptian-geese.mp3</FileName>
-                  <Copyright>Jorge Leitão</Copyright>
-                  <Description>Egyptian Goose (Alopochen aegyptiaca)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0275_graylag_goose">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0275_graylag_goose.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Graylag geese</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0202_egyptian_geese">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0202_egyptian_geese.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Egyptian geese</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0275_graylag_goose">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0275_graylag_goose.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Graylag geese</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0202_egyptian_geese">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0202_egyptian_geese.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Egyptian geese</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8314,49 +8069,35 @@
           <Paragraphs>
             <Paragraph>Hawks, large and small falcons, and sparrow hawks are widely distributed around the world, and it should not be hard to find a local equivalent. A word for one of the larger local hawks or falcons can be used for <i>’ayah</i>, and a word for one of the smaller falcons or sparrow hawks can be used for <i>nets</i>. Phrases, such as “large falcon” or “large hawk” for <i>’ayah</i> and “small falcon” or “small hawk” for <i>nets</i>, are also acceptable.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-10-1_peregrine-falcon">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-10-1_peregrine-falcon.mp3</FileName>
-                  <Copyright>Stanislas Wroza</Copyright>
-                  <Description>Peregrine Falcon (Falco peregrinus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-10-2_kestrel">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-10-2_kestrel.mp3</FileName>
-                  <Copyright>Dominique Guillerme</Copyright>
-                  <Description>Common Kestrel (Falco tinnunculus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0211_falcon">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0211_falcon.jpg</FileName>
-                  <Copyright>© Juan Lacruz (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Peregrine falcon</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0566_kestrel">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0566_kestrel.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Kestrel</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0287_hawk">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0287_hawk.jpg</FileName>
-                  <Copyright>© Bear golden retriever (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Red-tailed hawk</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0211_falcon">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0211_falcon.jpg</FileName>
+                <Copyright>© Juan Lacruz (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Peregrine falcon</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0566_kestrel">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0566_kestrel.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Kestrel</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0287_hawk">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0287_hawk.jpg</FileName>
+                <Copyright>© Bear golden retriever (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Red-tailed hawk</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8410,40 +8151,26 @@
           <Paragraphs>
             <Paragraph>Herons and egrets are widespread around the world, and finding a local equivalent should not be a problem. All of the herons mentioned above are found throughout sub-Saharan Africa.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-11-1_gray-heron">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-11-1_gray-heron.mp3</FileName>
-                  <Copyright>Luca Fetique</Copyright>
-                  <Description>Grey Heron (Ardea cinerea)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-11-2_egret">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-11-2_egret.mp3</FileName>
-                  <Copyright>Cristian Pinto Fernandez</Copyright>
-                  <Description>Great Egret (Ardea alba)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0277_grey_heron">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0277_grey_heron.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Gray heron</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0199_egret">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0199_egret.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Egret</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0277_grey_heron">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0277_grey_heron.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Gray heron</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0199_egret">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0199_egret.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Egret</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8498,24 +8225,17 @@
           <Paragraphs>
             <Paragraph>The hoopoe is found all over Africa, Madagascar, the Middle East; across tropical Asia in savannah, but not rain forest areas; in Japan; and in southern Europe. In these areas a local name should not be difficult to find. Elsewhere, a name that approximates its call can usually be used, such as “hoopoo bird", “pupu bird", or something similar.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-12_hoopoe">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-12_hoopoe.mp3</FileName>
-                  <Copyright>Javier García Sáez</Copyright>
-                  <Description>Eurasian Hoopoe (Upupa epops)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0300_hoopoe">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0300_hoopoe.jpg</FileName>
-                  <Copyright>© Dr. Raju Kasambe (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Hoopoe</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0300_hoopoe">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0300_hoopoe.jpg</FileName>
+                <Copyright>© Dr. Raju Kasambe (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Hoopoe</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8581,24 +8301,17 @@
             <Paragraph>Jackdaws are found in the Middle East, South Asia, and Europe. A word for a small type of crow would be the best choice in most other places. Even a phrase such as “small crows and big crows” could be used for jackdaws and ravens.</Paragraph>
             <Paragraph>If an owl is accepted as the meaning of <i>qa’ath</i> then a general word for owl is a better choice than any one subspecies of owl. However, care should be taken not to introduce an association with witchcraft, since this was not the case in the original Hebrew.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-13_jackdaw">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-13_jackdaw.mp3</FileName>
-                  <Copyright>Javier García Sáez</Copyright>
-                  <Description>Western Jackdaw (Coloeus monedula)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0542_jackdaw">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0542_jackdaw.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Jackdaw</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0542_jackdaw">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0542_jackdaw.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Jackdaw</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8655,24 +8368,17 @@
           <Paragraphs>
             <Paragraph>Black kites are found in southeastern Europe, most of Africa, South and Southeast Asia, Australia, and Papua New Guinea. In some parts of Africa their close relative, the Yellow-billed Kite <i>Milvus migrans parasitus</i>, is more common. Another very similar kite is the Brahminy Kite <i>Haliastur Indus</i>, which is very common indeed in South and Southeast Asia. In other places where hawks are known, the word for hawk can be used in the Isaiah passage, and in the lists of unclean birds an inclusive phrase like “all kinds of hawk” can be used rather than trying to identify each of the species on the list.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-14_black-kite">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-14_black-kite.mp3</FileName>
-                  <Copyright>Ilan Beer</Copyright>
-                  <Description>Black Kite (Milvus migrans)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0567_black_kite">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0567_black_kite.jpg</FileName>
-                  <Copyright>© Chris Eason (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Black kite</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0567_black_kite">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0567_black_kite.jpg</FileName>
+                <Copyright>© Chris Eason (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Black kite</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8739,24 +8445,17 @@
           <Paragraphs>
             <Paragraph>The osprey is found almost worldwide, but is not very common in parts of Africa where the conspicuous African Fish Eagle <i>Haliaetus vocifer</i>, with its white head and tail and loud cry, is much better known. In these areas in Africa the name for this better known bird can be used. In languages where there is no word for the osprey, a phrase such as “fishing hawk” or “fishing eagle” can usually be used.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-15_osprey">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-15_osprey.mp3</FileName>
-                  <Copyright>Mauricio Cuellar Ramirez</Copyright>
-                  <Description>Western Osprey (Pandion haliaetus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0690_osprey">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0690_osprey.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Osprey</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0690_osprey">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0690_osprey.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Osprey</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8822,24 +8521,17 @@
             <Paragraph><s>01803901300004</s>: This verse is difficult to make sense of in Hebrew. The general consensus among commentators is that it means something like “The wings of the ostrich beat rapidly [or, joyfully], but they certainly are not comparable to the wings of a stork.” <a>KJV</a> alone translates <i>renanim</i> as “peacock".</Paragraph>
             <Paragraph>The reference in <s>01803901300004</s> to the ostrich laughing at the horse and rider is a reference to the fact that ostriches can outrun horses. In some cultures this may need an explanatory footnote.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-16_ostrich">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-16_ostrich.mp3</FileName>
-                  <Copyright>Jeremy Hegge</Copyright>
-                  <Description>Common Ostrich (Struthio camelus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0691_ostrich">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0691_ostrich.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Male ostrich</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0691_ostrich">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0691_ostrich.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Male ostrich</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8917,24 +8609,17 @@
           <Paragraphs>
             <Paragraph>Eagle owls of one species or another are found in southern and eastern Europe and throughout Africa and South and Southeast Asia. Large owls of a slightly different kind are found in Australasia. The two most common African eagle owls are the Spotted Eagle Owl <i>Bubo africanus</i> and the Giant Eagle Owl <i>Bubo lacteus</i> (known as Verreaux’s eagle owl in East Africa). The Asian Eagle Owl <i>Bubo indicus</i> is found in hilly wooded or forested country away from towns. The largest Australian owl is the Great Scrub Owl <i>Ninox strenua</i>. A word for any of these owls, or a phrase meaning “giant owl", would be a close local equivalent to use in the lists of unclean birds. In other contexts, a phrase such as “large owls” would be sufficient.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-17-1_eagle-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-1_eagle-owl.mp3</FileName>
-                  <Copyright>Lars Mogensen</Copyright>
-                  <Description>Eurasian Eagle-Owl (Bubo bubo)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0193_eagle_owl">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0193_eagle_owl.jpg</FileName>
-                  <Copyright>A Different Perspective (Pixabay)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Eagle owl</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0193_eagle_owl">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0193_eagle_owl.jpg</FileName>
+                <Copyright>A Different Perspective (Pixabay)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Eagle owl</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -8990,24 +8675,17 @@
           <Paragraphs>
             <Paragraph>Owls very similar to the tawny owl, which belongs to the same family as Wood Owls <i>Strigidae</i>, are found in many places in the world. In sub-Saharan Africa the Wood Owl <i>Strix woodfordii</i> is very similar to the tawny owl, while in Australasia the Boobook Owl <i>Ninox novaseelandiae</i> is a good equivalent. Elsewhere the word for a medium-sized wood owl, or a phrase meaning “tawny-colored owl” can be used.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-17-2_eared-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-2_eared-owl.mp3</FileName>
-                  <Copyright>Clive Davies</Copyright>
-                  <Description>Long-eared Owl (Asio otus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0194_eared_owl">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0194_eared_owl.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Eared owl</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0194_eared_owl">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0194_eared_owl.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Eared owl</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9062,24 +8740,17 @@
           <Paragraphs>
             <Paragraph>The little owl is found in southeastern Europe, the Middle East, and northeast Africa. Elsewhere one may use the name of a small species of owl or the phrase “little owl".</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-17-3_little-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-3_little-owl.mp3</FileName>
-                  <Copyright>Dominique Guillerme</Copyright>
-                  <Description>Little Owl (Athene noctua)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0601_little_owl">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0601_little_owl.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Little owl</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0601_little_owl">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0601_little_owl.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Little owl</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9301,56 +8972,35 @@
             <Paragraph>Short-eared owls are found all over the Mediterranean area, while similar eared owls, such as the African Marsh Owl <i>Asio capensis</i>, are found all through Africa. In these areas it may not be difficult to find a very close equivalent. Elsewhere the name of a medium-sized local owl can be used, or a phrase meaning eared owl can be used.</Paragraph>
             <Paragraph>The European nightjar is found all over Europe and Africa. Many other types of nightjar are found in Africa, Asia, and Australasia, and if it is decided to interpret <i>tachmas</i> as “nightjar", the word for a local member of this species can usually be found.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-17-7-1_short-eared-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-7-1_short-eared-owl.mp3</FileName>
-                  <Copyright>Romuald Mikusek</Copyright>
-                  <Description>Short-eared Owl (Asio flammeus)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-17-7-2_nubian-nightjar">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-7-2_nubian-nightjar.mp3</FileName>
-                  <Copyright>Yoav Perlman</Copyright>
-                  <Description>Nubian Nightjar (Caprimulgus nubicus tamaricis)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-17-7-3_long-eared-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-7-3_long-eared-owl.mp3</FileName>
-                  <Copyright>Lars Mogensen</Copyright>
-                  <Description>Tawny Owl (Strix aluco)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0807_short-eared_owl">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0807_short-eared_owl.jpg</FileName>
-                  <Copyright>© nigel from vancouver, Canada (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Short-eared owl</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0678_nightjar">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0678_nightjar.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Nightjar roosting on the ground</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0679_nightjars">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0679_nightjars.jpg</FileName>
-                  <Copyright>© Levashkin (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Nightjar</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0807_short-eared_owl">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0807_short-eared_owl.jpg</FileName>
+                <Copyright>© nigel from vancouver, Canada (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Short-eared owl</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0678_nightjar">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0678_nightjar.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Nightjar roosting on the ground</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0679_nightjars">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0679_nightjars.jpg</FileName>
+                <Copyright>© Levashkin (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Nightjar</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9405,24 +9055,17 @@
           <Paragraphs>
             <Paragraph>This is one owl for which finding a local equivalent should not present any major problem. Failing all else, the phrase “white-faced owl” can be used, although strictly speaking, there is another smaller owl, not closely related to the barn owl, that has this English name.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-17-8_barn-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-8_barn-owl.mp3</FileName>
-                  <Copyright>Sonothèque ADVL</Copyright>
-                  <Description>Western Barn Owl (Tyto alba)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0058_barnowl">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0058_barnowl.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Barn owl</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0058_barnowl">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0058_barnowl.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Barn owl</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9522,24 +9165,17 @@
             <Paragraph><s>02303401501000</s> can then be interpreted consistently as “There the <i>qipoz</i> will make her nest, lay eggs, hatch them, and gather her chicks under her protecting shade.” Of the options e) seems to be the best, suiting the contexts and resulting in a consistent translation of the two occurrences of <i>dagar</i>. However, a footnote explaining the behavior of rock partridge hens seems necessary in order to convey the inference.</Paragraph>
             <Paragraph>In <s>00701501901000</s> the place name En-Haqore [Hakkore] should be taken to mean “Well of the Caller” rather than “Well of the Partridge", since the name commemorates Samson’s calling to God for help.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-18_rock-partridge">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-18_rock-partridge.mp3</FileName>
-                  <Copyright>Manuel Grosselet</Copyright>
-                  <Description>Chukar Partridge (Alectoris chukar)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0764_rock_partridge">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0764_rock_partridge.jpg</FileName>
-                  <Copyright>© Richard Bartz (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Rock partridge (chukar)</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0764_rock_partridge">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0764_rock_partridge.jpg</FileName>
+                <Copyright>© Richard Bartz (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Rock partridge (chukar)</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9609,33 +9245,26 @@
           <Paragraphs>
             <Paragraph>The common quail is found all over Africa, in southern and southeastern Europe, and in the Middle East. It is then found in a discontinuous band across mainland Asia to Japan. Other very similar species, the Harlequin Quail <i>Coturnix delegorguei</i> and the Chinese Quail <i>Coturnix chinensis</i>, are equally common in Africa and Asia respectively. The latter is also found in Australia, where it is called the king quail. In North America the California quail is well known. In other areas where the true quail is not known, a phrase such as small partridge can be used. The reference in <s>00401103100018</s>, literally “two cubits high above the face of the earth", should be interpreted as “they were flying about a meter 3 feet above the ground.” In the following verse, the text should be interpreted as “they spread them out on the ground,” that is, to dry in the sun.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-19_quail">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-19_quail.mp3</FileName>
-                  <Copyright>Hurtrel</Copyright>
-                  <Description>Common Quail (Coturnix coturnix)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0738_quails">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0738_quails.jpg</FileName>
-                  <Copyright>Graham light (Pixabay)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Quail</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0739_quail_young">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0739_quail_young.jpg</FileName>
-                  <Copyright>© John Robert McPherson (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Young quails</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0738_quails">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0738_quails.jpg</FileName>
+                <Copyright>Graham light (Pixabay)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Quail</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0739_quail_young">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0739_quail_young.jpg</FileName>
+                <Copyright>© John Robert McPherson (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Young quails</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9691,24 +9320,17 @@
           <Paragraphs>
             <Paragraph>Since gulls and terns are found worldwide near the sea or any other significant body of water, a local name will not be difficult to find in such areas. Both of the terns mentioned above occur worldwide, migrating from one hemisphere to the other. The black-headed gull is found in Europe and Africa. In drier or mountainous inland parts of the world where neither gulls or terns are known, a phrase such as “seabird” can be used.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-20_seagull">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-20_seagull.mp3</FileName>
-                  <Copyright>Sonothèque ADVL</Copyright>
-                  <Description>European Herring Gull (Larus argentatus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0794_seagull">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0794_seagull.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Seagull</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0794_seagull">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0794_seagull.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Seagull</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9806,33 +9428,26 @@
           <Paragraphs>
             <Paragraph>Sparrows or sparrow-like small birds are found all over the world. Finding a local word is not usually difficult. The reference to “a lonely bird on the housetop” in <s>01910200701000</s> takes on additional meaning if the sparrow was intended, since it is a bird that is seldom seen alone. It would then indicate the psalmist’s sense of loneliness at being separated from those with whom he belongs.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-21_sparrow">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-21_sparrow.mp3</FileName>
-                  <Copyright>Török Tamás</Copyright>
-                  <Description>House Sparrow (Passer domesticus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0825_sparrow">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0825_sparrow.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Sparrow</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0826_sparrows">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0826_sparrows.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Sparrows</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0825_sparrow">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0825_sparrow.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Sparrow</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0826_sparrows">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0826_sparrows.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Sparrows</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -9893,40 +9508,26 @@
             <Paragraph>In the few areas where storks are not known, a borrowed word or a transliteration can be used, perhaps with a footnote to indicate that this is a big bird that migrates long distances over Israel.</Paragraph>
             <Paragraph><s>01803901300012</s>: The Hebrew of this verse is difficult to interpret. The reading supported by most commentaries is “The wings of the ostrich beat rapidly or, joyfully, but they certainly are not comparable to the wings of a stork.” Some, however, suggest that <i>chasidah</i> be corrected to read <i>chaserah</i> (which looks very similar in Hebrew), and then the verse would mean “The wings of an ostrich beat quickly, but they lack flight feathers.” Whichever interpretation is reflected in the text, the alternative should be given in a footnote.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-22-1_white-stork">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-22-1_white-stork.mp3</FileName>
-                  <Copyright>Javier García Sáez </Copyright>
-                  <Description>White Stork (Ciconia ciconia)</Description>
-              </BibleMedia>
-            <BibleMedia Type="MP3" Id="birds_3-22-2_black-stork">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-22-2_black-stork.mp3</FileName>
-                  <Copyright>Patric Lorgé</Copyright>
-                  <Description>Black Stork (Ciconia nigra)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0911_white_storks">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0911_white_storks.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>White storks</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0077_black_stork">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0077_black_stork.jpg</FileName>
-                  <Copyright>Pixabay</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Black stork</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0911_white_storks">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0911_white_storks.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>White storks</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0077_black_stork">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0077_black_stork.jpg</FileName>
+                <Copyright>Pixabay</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Black stork</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>
@@ -10003,33 +9604,26 @@
             <Paragraph>Swifts, swallows, and martins are found worldwide. If the local language makes a difference between swifts and swallows, then <i>deror</i> should be translated as “swallow” and <i>sus</i> and <i>sis</i> as “swift". In most languages, however, both families of bird are called by the same name, so that only one word will be used to translate the three Hebrew words.</Paragraph>
             <Paragraph><s>02002600200016</s> makes reference to the fact that swallows can fly the whole day without stopping once.</Paragraph>
           </Paragraphs>
-            <BibleMedia Type="MP3" Id="birds_3-23_swift">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-23_swift.mp3</FileName>
-                  <Copyright>Uku Paal</Copyright>
-                  <Description>Common Swift (Apus apus)</Description>
-              </BibleMedia>
-              <BibleImages>
-                <BibleImage Type="ILL" Id="WEB-0848_swallow">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0848_swallow.jpg</FileName>
-                  <Copyright>© Helenabella (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Swallow</Caption>
-                  <Description />
-                </BibleImage>
-                <BibleImage Type="ILL" Id="WEB-0850_swifts">
-                  <Collection>WEB</Collection>
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>WEB-0850_swifts.jpg</FileName>
-                  <Copyright>© pau.artigas (Wikimedia Commons)</Copyright>
-                  <Definition Id=""  LanguageCode="en"></Definition>
-                  <Caption>Swifts</Caption>
-                  <Description />
-                </BibleImage>
-              </BibleImages>
+            <BibleImages>
+              <BibleImage Type="ILL" Id="WEB-0848_swallow">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0848_swallow.jpg</FileName>
+                <Copyright>© Helenabella (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Swallow</Caption>
+                <Description />
+              </BibleImage>
+              <BibleImage Type="ILL" Id="WEB-0850_swifts">
+                <Collection>WEB</Collection>
+                <Path>marble-images-flora-fauna-realia\FAUNA</Path>
+                <FileName>WEB-0850_swifts.jpg</FileName>
+                <Copyright>© pau.artigas (Wikimedia Commons)</Copyright>
+                <Definition Id=""  LanguageCode="en"></Definition>
+                <Caption>Swifts</Caption>
+                <Description />
+              </BibleImage>
+            </BibleImages>
         </Section>
     </Sections>
   </ThemLex_Entry>

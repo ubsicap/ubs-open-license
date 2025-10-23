@@ -881,20 +881,6 @@
             <Paragraph>在印度次大陆，最接近的对等译词是蓝牛羚（学名<i>Boselaphus tragocamelus</i> ）。</Paragraph>
             <Paragraph>其他地方可以采用"白臀羚羊"等短语，或者采用音译。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-2_addax-nasomaculatus">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-2_addax-nasomaculatus.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>旋角羚 (addax nasomaculatus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="mammals_2-2_waterbuck">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-2_waterbuck.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>非洲大羚羊 (kobus megaceros)</Description>
-              </BibleMedia>
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0006_addax">
                   <Collection>WEB</Collection>
@@ -1032,13 +1018,7 @@
             <Paragraph>在非洲大部分地区，较合适的译词是长尾猴属在当地的属名，或者是长尾黑颚猴、白额长尾猴（学名<i>Cercopithecus mona</i> ）或赤猴（<i>erythrocebus patas</i> ）的种名。在亚洲，可以使用长尾叶猴的属名，或任一种常见叶猴的种名。在拉丁美洲，小型卷尾猴的属名或种名是很合适的译词。如果当地语言的选择有限，或者只有一个表示猴子的词语，那么<i>tuki</i> 可以翻译为"小猴子"。在猴子不为人知的地方，翻译者应该音译<i>tuki</i> ，或者按照主要语言或贸易语言中的词语进行音译。</Paragraph>
             <Paragraph>因此，我们建议将<s>01101002200056</s> 和<s>01400902100052</s> 中的希伯来文<i>veqofim vetukiyim</i> 译成"狒狒和猴子"。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-3_vervetmonkey">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-3_vervetmonkey.mp3</FileName>
-                  <Copyright>iNaturalist.org</Copyright>
-                  <Description>长尾黑颚猴 (chlorocebus pygerythrus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0889_vervet_monkeys">
                   <Collection>WEB</Collection>
@@ -1334,13 +1314,7 @@
           <Paragraphs>
             <Paragraph>在<s>04001800601000</s> 和<s>04100904201000</s> 中，用来表示磨盘石的希腊文短语为<i>mulos onikos</i> ，字面意思是"驴磨盘石"，意指由驴拉动而不是靠人力推动的大磨盘石。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-4_donkey">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-4_donkey.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>驴 (equus asinus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0185_donkey">
                   <Collection>WEB</Collection>
@@ -1515,13 +1489,7 @@
             <Paragraph>在南美洲的高海拔地区，如果读者知道眼镜熊（学名<i>Tremarctos ornatus</i> ），则可以使用这个词。南半球的其他地方比较难以翻译，特别是在不知道熊的地区。翻译者一般不能使用当地某种动物的名称，因为比较危险的当地动物通常与熊迥然有别。唯一的选择是按照当地主要语言或贸易语言中的名称，或者按照圣经原文语言的名称进行音译，并添加一个术语简释条目，如："熊是一种非常危险的大型动物，长着巨大的爪子和牙齿。"</Paragraph>
             <Paragraph>在非洲中部和南部的一些地区，棕鬣狗的名称是"mbere"或"bere"，虽然这个词读起来很像英文的"bear"（"熊"），但指的却是两种截然不同的动物。这个词不应该用来表示"熊"，因为鬣狗与巫术有联系，而熊与巫术毫无关联。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-6_brownbear">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-6_brownbear.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>叙利亚棕熊 (ursus arctos)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0066_bears">
                   <Collection>WEB</Collection>
@@ -1768,20 +1736,8 @@
             <Paragraph><s>02306602000062</s> ：希伯来文<i>kirkaroth</i> （单数，<i>kirkarah</i> ）在圣经中只出现过一次，似乎是指用来骑乘的骆驼，而不是用来运货的骆驼。这节经文描述百姓从遥远的异国他乡回来，因此这里的骆驼可能是指中亚的双峰驼。对于大多数语言，这节经文可以使用表示骆驼的常用词。如果目标语言区分了驮畜和骑乘动物，这节经文中的骆驼一词可以译为"骑乘用骆驼"。在熟知双峰驼的地方，这里可以使用表示双峰驼的词。</Paragraph>
             <Paragraph><s>04001902400014 04002302400018 04101002500006 04201802500008</s> ：在这些经文中，一处是把大骆驼与小针眼作对比，另一处是与小蚊子作对比。在一些不熟悉骆驼的语言中，翻译者可以使用人们比较熟悉的大型动物的名称，如"牛"、"马"或"大象"，以保留耶稣的话语对当地读者的冲击力。在这种情况下，需要增加一个脚注，说明希腊文本中使用的是"骆驼"一词。另外，翻译者应避免使用经文最初的读者不知道的动物名称，如"驼鹿"或"袋鼠"等，也不可使用具有负面含义的词语，例如"大猪"。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-8_bactrian">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-8_bactrian.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>双峰驼 (camelus bactrianus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="mammals_2-8_dromedary">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-8_dromedary.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>独峰驼 (camelus dromedarius)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0189_dromedary">
                   <Collection>WEB</Collection>
@@ -2580,13 +2536,7 @@
             <Paragraph>希腊文<i>moschos</i> 是指公牛犊。<s>04400704101000</s> 使用了一个源自<i>moschos</i> 的动词，意思是"造了一个公牛犊"。</Paragraph>
             <Paragraph><s>05800901300020</s> ：这里的最佳对等译词是表示母牛犊的词语或短语。关于"野牛"，参<l target="FAUNA:2.34">2.34野牛 (wild ox)</l> 。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-10_cow">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-10_cow.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>母牛 (bos taurus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0159_cows">
                   <Collection>WEB</Collection>
@@ -2691,20 +2641,8 @@
             <Paragraph>许多译本理解为："拿弗他利是被释放的母鹿，生下漂亮的幼鹿"（比较<a>RSV</a> 、<a>NIV</a> 、<a>TEV</a> 、<a>NAB</a> ），但是，这样理解需要对意为"言语"的词语作出一个非常有争议的修改。把拿弗他利比作鹿可以有两种理解，一种是享受自由，另一种是生育能力。很有可能的是，这一句的希伯来文《马索拉文本》在某个时候被损坏了，而希腊文《七十士译本》反映了文本的较早形式："拿弗他利是枝繁叶茂的笃耨香树，长出了可爱的树冠"（比较<a>NEB</a> 、<a>REB</a> ，以及大多数其他版本的脚注）。《七十士译本》的翻译是依据<i>’elah</i> ，而非<i>’ayalah</i> 。这两个比喻都指向兴旺和生育。<s>01902900900008</s> 也存在类似的问题，那里的文本很可能是<i>’elah</i> （"笃耨香树"），而不是<i>’ayalah</i> （"鹿"）。</Paragraph>
             <Paragraph>在没有鹿和羚羊的地区，翻译者可以借用词语，但应在术语简释中予以说明。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-11_reddeer">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-11_reddeer.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>马鹿 (cervus elaphus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="mammals_2-11_fallowdeer">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-11_fallowdeer.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>黇鹿 (dama dama)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="PTZ-0114_red_deer">
                   <Collection>PRITZ</Collection>
@@ -2838,13 +2776,7 @@
             <Paragraph><s>02306600300020</s> ："献羊羔，好像打折狗项"这个分句应该理解为，第4节提到有些百姓不顺服上帝，因此他们即使献上羔羊等蒙上帝悦纳的祭物，也与献上最不被上帝悦纳、最不洁净的祭物一样。"打折狗项"是上帝不悦纳的祭物这点可以从两个方面来理解：首先，狗是一种不洁净的动物，其次以打断脖子的方式杀狗是错误的，因为血会留在狗的身体里面，按照犹太律法这是不洁净的。</Paragraph>
             <Paragraph>在<s>05000300200006</s> 中，如果把过度重视礼仪上的洁净和割礼的基督徒译作"狗"，几乎不可能让读者领略到这个比喻的讽刺意味。如果目标语言的文化并不把狗视为特别不干净的动物，那么翻译时应该使用"脏狗"等表述。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-12_dog">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-12_dog.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>狗 (canis lupus familiaris</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0184_dogs">
                   <Collection>WEB</Collection>
@@ -3064,20 +2996,8 @@
           <Paragraphs>
             <Paragraph>大多数非洲、中东和亚洲语言都有指称象的词语，许多国际语言的词语都源于希腊文词根<i>elephas</i> 。在没有象的地方，如果人们知道与象有亲缘关系的古代猛犸的化石，也可以用这个词来翻译现今的象。在大多数其他地方，可以从该地区的主要语言中借用一个词。如果这种语言是英文、西班牙文、法文、葡萄牙文、德文或荷兰文，表示大象的词就会类似于<i>elephant</i> 、<i>elefant</i> 、<i>elefantos</i> 或<i>olifant</i> 。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-14_indianelephant">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-14_indianelephant.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>印度象 (elephas maximus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="mammals_2-14_africanelephant">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-14_africanelephant.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>非洲象 (loxodonta africana)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0536_indian_elephant">
                   <Collection>WEB</Collection>
@@ -3590,13 +3510,7 @@
           <Paragraphs>
             <Paragraph>在希伯来文中，<i>gedi</i> 经常与其他表示山羊的词（如<i>‘ez</i> ）一起使用，形成类似<i>gedi ‘izim</i> 的表达，字面意思是"山羊的小羊"。这个较长表达和词语<i>gedi</i> 的意思完全相同。在所有经文中，翻译者都可以使用一个具体的词语或者表示小山羊或幼崽的短语。参上一个条目中的插图。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-16_goat">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-16_goat.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>山羊 (capra hircus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0264_goat_kid">
                   <Collection>WEB</Collection>
@@ -3955,13 +3869,7 @@
             <Paragraph>希伯来文<i>rekesh</i> 最好译为"快马"或"最好的马"。<s>01700801000046 01700801400010</s> 表明，这个词指的是一种特别选育出来的马，显然速度极快，因而特别适合信使骑乘。有学者认为，现代的阿拉伯马品种源于古代的<i>rekesh</i> 。</Paragraph>
             <Paragraph><s>03300101300012</s> ：这节经文描述的是一个非常危急的形势，作者大声疾呼，要拉吉的百姓把他们的车套到最快的马上；这些马可能通常是留给贵族骑乘的。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-18_horse">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-18_horse.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>普氏野马 (equus caballus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0305_horse">
                   <Collection>WEB</Collection>
@@ -4072,13 +3980,7 @@
             <Paragraph><s>02303401400006</s> ：这节经文可能应该解作，"鬣狗必与豺狼相遇……。"</Paragraph>
             <Paragraph><s>02405003900006</s> ：这节经文可能应该解作，"鬣狗和豺狼必住在那里……。"</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-19_hyena">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-19_hyena.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>条纹鬣狗 (hyaena hyaena)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0309_striped_hyena">
                   <Collection>WEB</Collection>
@@ -4417,27 +4319,9 @@
             <Paragraph><s>04201303200014</s> ：在这节经文中，希腊文<i>alōpēx</i> 是比喻用法，因此，重要的是保留这个词的引申含意，而不是指出确切的动物。<i>Alōpēx</i> 略带侮辱，翻译者要做的主要解经决定是：耶稣使用这个词时，是指它的希腊文涵义"狡猾的机会主义者"，还是闪语涵义"无足轻重但自视很高的人"。两者都符合这个语境。如果耶稣是指前者，那么他是在说：即使希律•安提帕是一个狡猾的机会主义者，耶稣也知道他的计划。如果是指后者，那么耶稣是在说希律没有能力阻止他要做的事情。有些解经家认为这两种推断都有，因为希腊文和希伯来文的隐喻都被犹太人所熟知。</Paragraph>
             <Paragraph>如果翻译者决定采用希腊文的喻义，那么，<i>alōpēx</i> 可以翻译为"狡猾的狐狸"或"狡猾的豺狼"。如果采用闪语喻义，可以翻译为"无足轻重的豺狼"。在这两种情况下，翻译者都可以在文本中使用一个象征狡猾的机会主义者的动物（如狒狒），或者一个象征无足轻重但却又自命不凡的动物（如兔子），并在脚注中注明原文词语的意思是狐狸或豺狼。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-22_fox">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-22_fox.mp3</FileName>
-                  <Copyright>Christoph Moning</Copyright>
-                  <Description>狐狸 (vulpes vulpes)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="mammals_2-22_fennec">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-22_fennec.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>耳廓狐 (vulpes zerda)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="mammals_2-22_jackal">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-22_jackal.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>豺狼和蛇 (canis aureus)</Description>
-              </BibleMedia>
+              
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0243_fox">
                   <Collection>WEB</Collection>
@@ -4548,20 +4432,8 @@
           <Paragraphs>
             <Paragraph>在知道金钱豹和猎豹的地方，表示"猎豹"的词可能是<s>03500100800008</s> 的最佳选择。在不知道豹子的地方，可以使用表示美洲豹、山猫、美洲狮、山狮或老虎的词语。在其他地方，可以使用外来词，或者按照希伯来文或当地主要语言进行音译。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-22_leopard">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-22_leopard.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>金钱豹 (panthera pardus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="mammals_2-23_chetaah">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-23_chetaah.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>猎豹 (acinonyx jubatus)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0587_leopard">
                   <Collection>WEB</Collection>
@@ -4933,13 +4805,7 @@
             <Paragraph><a>RSV</a> 、<a>NEB</a> 和<a>REB</a> 的预设是：狮子住在洞里，而且把猎物带到那里面；这段经文中的公狮把猎物撕碎，来喂母狮和幼狮。<a>TEV</a> 的预设相同，但补充了在洞穴中喂狮子幼崽的观点。然而，正如我们所见，狮子并不住在洞里；公狮也不撕碎死尸来喂养幼狮，并且它们当然也不喂母狮，而是和母狮争夺肉食。</Paragraph>
             <Paragraph>更好的解释是：采用与上一段经文同样的方法处理<i>kefir</i> ，将其解作"猎食的狮子"。<i>Ma‘on</i> 在这里似乎指"居住的地方、领地"。<a>NIV</a> 和<a>TEV</a> 把<i>mir‘eh</i> 理解为"吃食的地方"，这也符合上下文。<i>Chor</i> 在这里与<i>me‘onot</i> （"领地"）平行。<i>Chor</i> 通常是"洞"或"洞穴"的意思，可指一些母狮喂养哺乳期母狮的临时洞穴。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-24_lion">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-24_lion.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>公狮 (panthera leo)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0596_lions">
                   <Collection>WEB</Collection>
@@ -5381,13 +5247,7 @@
           <Paragraphs>
             <Paragraph>在非洲和其他知道长角羚或者貂羚和马羚的地区，翻译者可以在所有相关经文中使用表示这些动物之一的词语。在其他地方，可以用"长着长角的羚羊"等表达来翻译<i>te’o</i> ，或考虑使用希伯来文词语的音译，并在脚注和术语简释中进行说明。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-29_oryx">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-29_oryx.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>阿拉伯大羚羊 (oryx leucoryx)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0259_gemsbok">
                   <Collection>WEB</Collection>
@@ -5506,13 +5366,7 @@
             <Paragraph>如果目标语言区分了野猪和家猪，应在<s>01908001401000</s> （《和》80:13）使用表示野猪的词。在<s>06100202200028</s> 中，虽然希腊文指明是母猪，但在这句俗语中，猪的公母并不重要。许多译本都只是译为"猪"。</Paragraph>
             <Paragraph><s>01906803001000</s> （《和》68:31）中的希伯来文表达"芦苇中的野生动物"可能是指野猪，可以译为"芦苇中的野猪"。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="mammals_2-30_pig">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>mammals_2-30_pig.mp3</FileName>
-                  <Copyright>Museum für Naturkunde</Copyright>
-                  <Description>猪 (sus scrofus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0713_pigs">
                   <Collection>WEB</Collection>
@@ -7663,13 +7517,7 @@
           <Paragraphs>
             <Paragraph>如果翻译者决定将<i>shalak</i> 译为"鸬鹚"，那么找到当地的某种鸬鹚应该并不困难，因为鸬鹚分布在世界各地的大型水域附近。事实上，白颈鸬鹚不仅分布在以色列，而且遍布欧洲、亚洲、澳大拉西亚、非洲和北美洲东半部的海岸、湖岸、大型河流和沼泽地附近。非洲南部有一种形态略有不同的白颈鸬鹚，称为白胸鸬鹚，它的胸部和喉咙处为白色，喉囊较小，但学名相同。其他地方会有当地的鸬鹚种类，可以通过它们栖息时张开翅膀晾干的习性来识别。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-4_cormorant">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-4_cormorant.mp3</FileName>
-                  <Copyright>Patrik Åberg</Copyright>
-                  <Description>鸬鹚 (phalacrocorax carbo)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0153_cormorants">
                   <Collection>WEB</Collection>
@@ -7746,13 +7594,7 @@
             <Paragraph>除新西兰和大洋洲之外，全世界各地都发现有画眉鸟（鸫）。如果将<i>‘agur</i> 解作"画眉鸟"，那么不难找到一个当地的对等词。在其他地方，可以使用外来语或音译。</Paragraph>
             <Paragraph>将<i>‘agur</i> 译成"歪脖鸟"问题较大。歪脖鸟只有两种，一种在欧洲东南部，会迁徙到埃及，另一种生活在非洲西部、东部和南部的部分地区。这不是一种很常见的鸟。从翻译和解经的角度来看，译成"鹤"更为可取。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-5_crane">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-5_crane.mp3</FileName>
-                  <Copyright>Jens Kirkeby</Copyright>
-                  <Description>鹤 (grus grus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0160_cranes">
                   <Collection>WEB</Collection>
@@ -7847,20 +7689,8 @@
             <Paragraph><s>01101700400020</s> ：有些解经家认为希伯来文<i>‘orvim</i> 指一个沙漠部落，因为这个希伯来文词语与"阿拉伯人"一词具有相同的辅音。然而，几乎所有圣经译本都保留了"乌鸦"这个传统译法。</Paragraph>
             <Paragraph><s>03600201401000</s> ：在这节经文中，大多数现代译本遵循的是古代译本而非希伯来文本；希伯来文本读作<i>‘orev</i> （"乌鸦"）而不是<i>chorev</i> （"荒凉、毁坏"）。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-6-1_crow">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-6-1_crow.mp3</FileName>
-                  <Copyright>Jean Christophe Pratt</Copyright>
-                  <Description>乌鸦 (corvus corone)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-6-2_raven">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-6-2_raven.mp3</FileName>
-                  <Copyright>Nikolay Sariev</Copyright>
-                  <Description>渡鸦 (corvus corax)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0165_crow">
                   <Collection>WEB</Collection>
@@ -8021,20 +7851,8 @@
             <Paragraph>除了一些常年积雪的地区和一些偏远岛屿之外，鸽子和斑鸠遍布世界各地。在鸽子栖居的几乎所有地方，它们的种类都不止一种，并且几乎所有的地方都有家鸽。一般来说，在翻译时应当尽量使用指称体型较小的野鸽的词语；但是，在提到鸽子和斑鸠用于献祭的经文中，表示家鸽的词和表示野鸽的词都可以使用。</Paragraph>
             <Paragraph><s>01200602500044</s> 中有一个希伯来文表述，字面意思是"鸽子的粪便"，似乎是指人在应急时才吃的某种食物。学者对其所指意见不一："鹰嘴豆"（"chickpeas"；外形有点像鸽子的粪便）、"刺槐豆"（"locust-beans"；<a>NEB</a> 、<a>REB</a> ）、"野葱"（"wild onions"；<a>JB</a> 、<a>TEV</a> 脚注、<a>NAB</a> ），以及某些野花的根。考虑到这词的含义不确定，最好直译为"鸽子粪"，并在脚注中说明，"这很可能是人在应急时才吃的某种野生食物。"</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-7-1_rock-dove">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-7-1_rock-dove.mp3</FileName>
-                  <Copyright>Manuel Grosselet</Copyright>
-                  <Description>野鸽和幼鸽 (columba livia)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-7-2_turtle-dove">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-7-2_turtle-dove.mp3</FileName>
-                  <Copyright>Tero Linjama</Copyright>
-                  <Description>家鸽 (streptopelia turtur)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0186_dove">
                   <Collection>WEB</Collection>
@@ -8255,27 +8073,9 @@
             <Paragraph>在埃及秃鹫或长冠鹰雕生活的非洲地区，这两个名称都适合这节经文。在其他地区，"他的头发像雕的羽毛一样长"可能是最好的表达。</Paragraph>
             <Paragraph><s>03300101600022</s> ：这里可能指的是肉垂秃鹫。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-8-1_egyptian-vulture">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-8-1_egyptian-vulture.mp3</FileName>
-                  <Copyright>Eduardo Realinho</Copyright>
-                  <Description>埃及秃鹫 (neophron percnopterus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-8-2_griffon-vulture">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-8-2_griffon-vulture.mp3</FileName>
-                  <Copyright>Stanislas Wroza</Copyright>
-                  <Description>西域兀鹫 (gyps fulvus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-8-4_bearded-vulture">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-8-4_bearded-vulture.mp3</FileName>
-                  <Copyright>Eduardo Realinho</Copyright>
-                  <Description>胡兀鹫 (gypaetus barbatus barbatus)</Description>
-              </BibleMedia>
+              
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0577_lappet-faced_vulture">
                   <Collection>WEB</Collection>
@@ -8366,20 +8166,8 @@
             <Paragraph>如果目标语言有表示鹅或大鸭子的词语，则可以采用。在撒哈拉以南的非洲，表示大型距翅雁（学名<i>Plectropterus gambensis</i> ）的词语是最接近的对等词。北美洲的加拿大雁，以及新几内亚和澳大利亚的鹊雁（学名<i>Anseranas semipalmata</i> ）是当地的对应鸟类。否则，可以采用"肥大的鸟"或"肥禽"这种比较一般性的表达方式。在有些语言中，可以采用字面意思为"肉鸟"的短语。</Paragraph>
             <Paragraph>因为这个词的确切含义尚存疑问，所以采用"家禽"，甚至"鸡"等统称，都是完全可以接受的。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-9-1_greylag-geese">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-9-1_greylag-geese.mp3</FileName>
-                  <Copyright>Romuald Mikusek</Copyright>
-                  <Description>灰雁 (anser anser)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-9-2_egyptian-geese">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-9-2_egyptian-geese.mp3</FileName>
-                  <Copyright>Jorge Leitão</Copyright>
-                  <Description>埃及雁 (alopochen aegyptiaca)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0275_graylag_goose">
                   <Collection>WEB</Collection>
@@ -8467,20 +8255,8 @@
           <Paragraphs>
             <Paragraph>鹰、大型和小型隼以及雀鹰在世界各地分布广泛，找到当地的对应鸟类并不困难。可以将<i>’ayah</i> 译作当地体型较大的一种鹰或隼；将<i>nets</i> 译作当地体型较小的一种隼或雀鹰。另外，也可以用"大隼"或"大鹰"等短语来表示<i>’ayah</i> ，用"小隼"或"小鹰"来表示<i>nets</i> 。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-10-1_peregrine-falcon">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-10-1_peregrine-falcon.mp3</FileName>
-                  <Copyright>Stanislas Wroza</Copyright>
-                  <Description>游隼 (falco peregrinus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-10-2_kestrel">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-10-2_kestrel.mp3</FileName>
-                  <Copyright>Dominique Guillerme</Copyright>
-                  <Description>红隼和蛇 (falco tinnunculus)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0211_falcon">
                   <Collection>WEB</Collection>
@@ -8564,20 +8340,8 @@
           <Paragraphs>
             <Paragraph>鹭鸶和白鹭分布在世界各地，找到一个当地的对等词应该没有问题。上文提到的所有鹭鸶在撒哈拉以南的非洲地区皆有分布。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-11-1_gray-heron">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-11-1_gray-heron.mp3</FileName>
-                  <Copyright>Luca Fetique</Copyright>
-                  <Description>苍鹭 (ardea cinerea)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-11-2_egret">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-11-2_egret.mp3</FileName>
-                  <Copyright>Cristian Pinto Fernandez</Copyright>
-                  <Description>白鹭 (ardea alba)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0277_grey_heron">
                   <Collection>WEB</Collection>
@@ -8653,13 +8417,7 @@
           <Paragraphs>
             <Paragraph>戴胜遍布非洲大陆、马达加斯加、中东；以及亚洲热带的大草原，但热带雨林地区并没有；在日本和欧洲南部也有这种鸟。在这些地区，不难找到这种鸟的当地名称。在其他地方，通常可以使用与其叫声相似的名称，例如"呼哱鸟"、"扑扑鸟"等。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-12_hoopoe">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-12_hoopoe.mp3</FileName>
-                  <Copyright>Javier García Sáez</Copyright>
-                  <Description>戴胜 (upupa epops)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0300_hoopoe">
                   <Collection>WEB</Collection>
@@ -8737,13 +8495,7 @@
             <Paragraph>寒鸦在中东、南亚和欧洲都有发现。在大多数其他地方，表示小型乌鸦的名称是最好的选择。也可以采用"小乌鸦和大乌鸦"等类短语来翻译寒鸦和乌鸦。</Paragraph>
             <Paragraph>如果将<i>qa’ath</i> 解作猫头鹰，那么最好采用猫头鹰的统称，比采用一个指称猫头鹰亚种的词语要好。但要注意，不要采用与巫术有关的词语，因为希伯来原文没有此意。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-13_jackdaw">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-13_jackdaw.mp3</FileName>
-                  <Copyright>Javier García Sáez</Copyright>
-                  <Description>寒鸦 (coloeus monedula)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0542_jackdaw">
                   <Collection>WEB</Collection>
@@ -8812,13 +8564,7 @@
           <Paragraphs>
             <Paragraph>黑鸢在欧洲东南部、非洲大部分地区、南亚和东南亚、澳大利亚和巴布亚新几内亚都有发现。在非洲的一些地区，它们的近亲黄嘴鸢（学名<i>Milvus migrans parasitus</i> ）比较常见。另一种非常相似的鸢是栗鸢（学名<i>Haliastur Indus</i> ），在南亚和东南亚十分常见。在其他知道鹞鹰的地方，可以把"鹞鹰"用在《以赛亚书》的这节经文中，另外在不洁净鸟类的清单中，可以使用像"各种鹰"这样的集合性短语，而不必尝试区分清单中的每个物种。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-14_black-kite">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-14_black-kite.mp3</FileName>
-                  <Copyright>Ilan Beer</Copyright>
-                  <Description>黑鸢 (milvus migrans)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0567_black_kite">
                   <Collection>WEB</Collection>
@@ -8898,13 +8644,7 @@
           <Paragraphs>
             <Paragraph>鱼鹰几乎遍布世界各地，但在非洲部分地区并不常见，因为那里有更加著名的非洲海雕（学名<i>Haliaetus vocifer</i> ），长着白色的头和尾，并且叫声非常响亮。在非洲的这些地区，可以使用这种更为人所知的鸟类名称来翻译。在没有鱼鹰的语言中，通常可以使用"捕鱼的鹰"或"捕鱼的雕"这样的短语。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-15_osprey">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-15_osprey.mp3</FileName>
-                  <Copyright>Mauricio Cuellar Ramirez</Copyright>
-                  <Description>鱼鹰 (pandion haliaetus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0690_osprey">
                   <Collection>WEB</Collection>
@@ -8983,13 +8723,7 @@
             <Paragraph><s>01803901300004</s> ：这节经文的希伯来文非常难解。解经家的普遍共识是，经文的大致意思是"鸵鸟的翅膀欢然（或快速）拍动，但是当然与鹳的翎毛和羽毛无法相比。"只有<a>KJV</a> 才将<i>renanim</i> 译为"peacock"（"孔雀"）。</Paragraph>
             <Paragraph><s>01803901300004</s> 提到鸵鸟嘲笑马和骑手，这是指出鸵鸟可以跑过马的事实。在有些文化中，可能需要增加一个脚注予以解释。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-16_ostrich">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-16_ostrich.mp3</FileName>
-                  <Copyright>Jeremy Hegge</Copyright>
-                  <Description>雄性鸵鸟 (struthio camelus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0691_ostrich">
                   <Collection>WEB</Collection>
@@ -9076,13 +8810,7 @@
           <Paragraphs>
             <Paragraph>在欧洲的南部和东部，以及整个非洲、南亚和东南亚，都发现有某种雕鸮。在澳大拉西亚，发现了一种略有不同的大型猫头鹰。两种最常见的非洲雕鸮是斑雕鸮（学名<i>Bubo africanus</i> ）和巨雕鸮（学名<i>Bubo lacteus</i> ；在东非称为黑雕鸮）。亚洲雕鸮（学名<i>Bubo indicus</i> ）生活在远离城镇的多树山村。最大的澳大利亚猫头鹰是猛鹰鸮（学名<i>Ninox strenua</i> ）。任何指称这些猫头鹰的词语，或者意为"巨型猫头鹰"的短语，都可以用来翻译不洁净鸟类名单中的对应鸟类。在其他上下文中，采用"大型猫头鹰"之类的短语就足够了。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-17-1_eagle-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-1_eagle-owl.mp3</FileName>
-                  <Copyright>Lars Mogensen</Copyright>
-                  <Description>雕鸮 (bubo bubo)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0193_eagle_owl">
                   <Collection>WEB</Collection>
@@ -9150,13 +8878,7 @@
           <Paragraphs>
             <Paragraph>灰林鸮与林鸮（学名<i>Strigidae</i> ）属于同一个科，并且世界上的许多地方都有和灰林鸮非常相像的猫头鹰。在撒哈拉以南的非洲地区，非洲林鸮（学名<i>Strix woodfordii</i> ）与灰林鸮非常相似，而在澳大利亚，斑布克鹰鸮（学名<i>Ninox novaseelandiae</i> ）是个很合适的对等词。在其他地方，可以采用中型林鸮的名称或者"黄褐色猫头鹰"等短语来翻译这种猫头鹰。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-17-2_eared-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-2_eared-owl.mp3</FileName>
-                  <Copyright>Clive Davies</Copyright>
-                  <Description>耳鸮 (asio otus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0194_eared_owl">
                   <Collection>WEB</Collection>
@@ -9223,13 +8945,7 @@
           <Paragraphs>
             <Paragraph>小猫头鹰（纵纹腹小鸮）分布在欧洲东南部、中东和非洲东北部。在其他地方，翻译者可以使用一种小型猫头鹰的名称或短语"小猫头鹰"来指称这种猫头鹰。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-17-3_little-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-3_little-owl.mp3</FileName>
-                  <Copyright>Dominique Guillerme</Copyright>
-                  <Description>小猫头鹰 (athene noctua)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0601_little_owl">
                   <Collection>WEB</Collection>
@@ -9464,27 +9180,9 @@
             <Paragraph>短耳鸮遍布地中海地区，而沼泽耳鸮（学名<i>Asio capensis</i> ）等类似的耳鸮则遍布整个非洲。在这些地区，找到非常接近的对等词应该并不困难。在其他地方，可以使用当地中型猫头鹰的名称，或者使用"有耳的猫头鹰"等短语。</Paragraph>
             <Paragraph>欧洲夜鹰遍布欧洲和非洲。在非洲、亚洲和澳大拉西亚发现了许多其他种类的夜鹰，如果翻译者决定将<i>tachmas</i> 译为"夜鹰"，通常可以采用当地指称这个物种的词语。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-17-7-1_short-eared-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-7-1_short-eared-owl.mp3</FileName>
-                  <Copyright>Romuald Mikusek</Copyright>
-                  <Description>短耳鸮 (asio flammeus)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-17-7-2_nubian-nightjar">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-7-2_nubian-nightjar.mp3</FileName>
-                  <Copyright>Yoav Perlman</Copyright>
-                  <Description>栖息在地上的夜鹰 (caprimulgus nubicus tamaricis)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-17-7-3_long-eared-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-7-3_long-eared-owl.mp3</FileName>
-                  <Copyright>Lars Mogensen</Copyright>
-                  <Description>灰林鸮 (strix aluco)</Description>
-              </BibleMedia>
+              
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0807_short-eared_owl">
                   <Collection>WEB</Collection>
@@ -9569,13 +9267,7 @@
           <Paragraphs>
             <Paragraph>对于这种猫头鹰，在当地找到对应的种类应该没有多大问题。如果所有名称都不合适，那么可以使用"白脸猫头鹰"这个短语，尽管严格来说，还有一种与仓鸮没有密切关系并且更小的猫头鹰被称为"白脸猫头鹰"。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-17-8_barn-owl">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-17-8_barn-owl.mp3</FileName>
-                  <Copyright>Sonothèque ADVL</Copyright>
-                  <Description>叼着猎物的仓鸮 (tyto alba)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0058_barnowl">
                   <Collection>WEB</Collection>
@@ -9688,13 +9380,7 @@
             <Paragraph>这样，<s>02303401501000</s> 可以前后一致地解作，"<i>qipoz</i> 要在那里做窝，下蛋，孵蛋，并将它的雏鸟聚集在它的遮蔽之下。"在这些选项中，（5）似乎是最好的，不仅符合上下文，还使两次出现的<i>dagar</i> 译法一致。然而，为了表明经文的推论，似乎有必要用脚注来解释雌性石鸡的行为。</Paragraph>
             <Paragraph>在<s>00701501901000</s> ，隐‧哈歌利（En-Haqore；Hakkore）这个地名应该解作"呼求者的水泉"而非"鹧鸪的水泉"，因为这个名称是为了纪念参孙向上帝呼求帮助。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-18_rock-partridge">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-18_rock-partridge.mp3</FileName>
-                  <Copyright>Manuel Grosselet</Copyright>
-                  <Description>欧石鸡 (alectoris chukar)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0764_rock_partridge">
                   <Collection>WEB</Collection>
@@ -9778,13 +9464,7 @@
           <Paragraphs>
             <Paragraph>西鹌鹑遍布非洲、南欧、东南欧和中东。后来，在横贯亚洲大陆到日本的不连续地带中也发现有它们的存在。其他非常相似的物种，花脸鹌鹑（学名<i>Coturnix delegorguei</i> ）和中国鹌鹑（又称"蓝胸鹑"；学名<i>Coturnix chinensis</i> ），在非洲和亚洲同样很常见。蓝胸鹑在澳大利亚也有，被称为王鹌鹑。在北美洲，加州鹌鹑（又称"珠颈斑鹑"）广为人知。在其他不知道真正鹌鹑的地区，可以使用"小鹧鸪"之类的短语来表示这种鸟。<s>00401103100018</s> 中经文的字面意思是"离地面约有二肘"，应该解作"它们在距离地面约一米的高度飞行。"下一节经文应该解作"他们把鹌鹑铺开放在地上"，意即在阳光下晒干。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-19_quail">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-19_quail.mp3</FileName>
-                  <Copyright>Hurtrel</Copyright>
-                  <Description>鹌鹑 (coturnix coturnix)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0738_quails">
                   <Collection>WEB</Collection>
@@ -9861,13 +9541,7 @@
           <Paragraphs>
             <Paragraph>世界各地的海边或任何其他重要水域都可以找到海鸥和燕鸥，因此在这些地区不难找到对等译词。上面提到的两种燕鸥在世界各地都可见到，它们会从一个半球迁徙到另一个半球。黑头鸥在欧洲和非洲都有发现。在世界上比较干旱或者多山的内陆地区，如果看不到海鸥或燕鸥，那么可以使用"海鸟"之类的词语。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-20_seagull">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-20_seagull.mp3</FileName>
-                  <Copyright>Sonothèque ADVL</Copyright>
-                  <Description>海鸥 (larus argentatus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0794_seagull">
                   <Collection>WEB</Collection>
@@ -9976,13 +9650,7 @@
           <Paragraphs>
             <Paragraph>世界各地都有麻雀或类似麻雀的小鸟，找到一个当地的对等词通常并不困难。<s>01910200801000</s> （《和》102:7）中提到"房顶上孤单的雀鸟"，如果是指麻雀，这句话就还有言外之意，因为麻雀很少被人单独看到；这就表明，诗人因为与亲朋好友分离而感到孤独。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-21_sparrow">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-21_sparrow.mp3</FileName>
-                  <Copyright>Török Tamás</Copyright>
-                  <Description>麻雀 (passer domesticus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0825_sparrow">
                   <Collection>WEB</Collection>
@@ -10064,20 +9732,8 @@
             <Paragraph>在少数不知道鹳的地方，可以使用外来语或音译，另外还可以添加脚注，说明这是一种长距离迁徙经过以色列的大鸟。</Paragraph>
             <Paragraph><s>01803901300012</s> ：这节经文的希伯来文本很难解释。大多数注释书支持的文本是："鸵鸟的翅膀快速（或欢然）拍动，但是当然与鹳的翅膀无法相比。"然而，有些学者认为<i>chasidah</i> 应该校订为<i>chaserah</i> （在希伯来文中，这两个词的外形非常相似）；修改之后，这节经文的意思作："鸵鸟的翅膀快速拍动，但它们没有飞羽。"无论在文本中采用哪种解释，都应在脚注中指出另一种可能的解释。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-22-1_white-stork">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-22-1_white-stork.mp3</FileName>
-                  <Copyright>Javier García Sáez </Copyright>
-                  <Description>白鹳 (ciconia ciconia)</Description>
-              </BibleMedia>
-              <BibleMedia Type="MP3" Id="birds_3-22-2_black-stork">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-22-2_black-stork.mp3</FileName>
-                  <Copyright>Patric Lorgé</Copyright>
-                  <Description>黑鹳 (ciconia nigra)</Description>
-              </BibleMedia>
+              
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0911_white_storks">
                   <Collection>WEB</Collection>
@@ -10176,13 +9832,7 @@
             <Paragraph>世界各地都有雨燕、燕子和岩燕。如果当地语言区分了雨燕和燕子，那么<i>deror</i> 应翻译为"燕子"，<i>sus</i> 和<i>sis</i> 应翻译为"雨燕"。然而在大多数语言中，这两个科都是同一个名称，因此只用一个词来翻译三个希伯来文词语。</Paragraph>
             <Paragraph><s>02002600200016</s> 提到燕子可以整天飞行而一次不停的事实。</Paragraph>
           </Paragraphs>
-              <BibleMedia Type="MP3" Id="birds_3-23_swift">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\BIBLEMEDIA</Path>
-                  <FileName>birds_3-23_swift.mp3</FileName>
-                  <Copyright>Uku Paal</Copyright>
-                  <Description>燕子和雨燕 (apus apus)</Description>
-              </BibleMedia>
+              
               <BibleImages>
                 <BibleImage Type="ILL" Id="WEB-0848_swallow">
                   <Collection>WEB</Collection>

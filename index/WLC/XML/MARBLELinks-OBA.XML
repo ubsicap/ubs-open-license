@@ -1,0 +1,2617 @@
+<?xml version="1.0"?>
+<MARBLELinks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MARBLELink Id="o310010010011">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חָזֹון:000001:Vision</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֹבַדְיָה:000008:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אמר:000000:Speak</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֲדֹנָי:000000:Titles</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יהוה:000000:Names of Deities</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010072">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֱדֹום:000001:Names of Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שְׁמוּעָה:000000:Hear</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010102">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:001000:Connection</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יהוה:000000:Names of Deities</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010122">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:צִיר:001000:Messengers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010132">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גֹּוי:000000:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010141">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁלח:000001:Move</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010151">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קום:000008:Engage</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010162">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קום:000005:Conflict</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010010182">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:מִלְחָמָה:000000:Conflict</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010020021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קָטֹן:000002:Insignificant</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010020042">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גֹּוי:000000:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010020051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בזה:000000:Unwilling|Despise|Revile</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010020061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אַתָּה:000000:Object Referents</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030011">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:זָדֹון:000000:Great</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:לֵב:000001:Think</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נשׁא:001001:Foolish</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁכן:000000:Dwell</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030052">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חָגוּ:000000:Parts: Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:סֶלַע:000000:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:מָרֹום:000004:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4246</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ישׁב:000013:Dwell</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אמר:000000:Speak</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030102">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:לֵב:000001:Think</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:מִי:000000:Object Referents</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ירד:000002:Move</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010030131">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֶרֶץ:000000:Land</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גבהּ:000003:High</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040032">
+    <ThematicLinks>
+      <ThematicLink>Fauna:3.8</ThematicLink>
+    </ThematicLinks>
+    <LexicalLinks>
+      <LexicalLink>SDBH:נֶשֶׁר:000000:Birds</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0065_beardedvulture</ImageLink>
+      <ImageLink>WEB-0192_wingspread_eagle</ImageLink>
+      <ImageLink>WEB-0203_egyptian_vulture</ImageLink>
+      <ImageLink>WEB-0278_vulture_flight</ImageLink>
+      <ImageLink>WEB-0279_vulture_takeoff</ImageLink>
+      <ImageLink>WEB-0280_vulture</ImageLink>
+      <ImageLink>WEB-0577_lappet-faced_vulture</ImageLink>
+      <ImageLink>WEB-0673_vulture</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בַּיִן:000000:Space</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:כֹּוכָב:000000:Celestial Bodies</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0832_orion_nebula_stars</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׂים:000001:Space</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4247</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קֵן:000000:Constructions</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ירד:000002:Move</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נְאֻם:000000:Speak</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010040121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יהוה:000000:Names of Deities</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גַּנָּב:000000:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁדד:000000:Impact|Dead|Possess|Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:לַיְלָה:000000:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵיךְ:000000:Descriptive Referents</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:דמה:000001:Non-Exist</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הֲ:000000:Affirmers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גנב:000000:Possess</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:דַּי:000000:Quantity</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050141">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בצר:000001:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050171">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הֲ:000000:Affirmers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010050191">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֹלֵלֹות:000000:Crops</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010060011">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵיךְ:000000:Descriptive Referents</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010060021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חפשׂ:000000:See</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010060031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֵשָׂו:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010060041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בעה:001002:Search</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010060051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:מַצְפֹּון:000000:Objects</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070011">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עַד:000000:Location</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070022">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גְּבוּל:000000:Non-Whole</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁלח:000007:Move</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אִישׁ:000000:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בְּרִית:000000:Vow</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0880_tablet_peace_treaty</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נשׁא:001001:Foolish</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יכל:000002:Succeed</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אִישׁ:000000:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שָׁלֹום:000002:Friends</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:לֶחֶם:000000:Bread|Food</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0527_bread_tandir</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070131">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׂים:000001:Space</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070141">
+    <ThematicLinks>
+      <ThematicLink>Realia:1.4.1</ThematicLink>
+    </ThematicLinks>
+    <LexicalLinks>
+      <LexicalLink>SDBH:מָזֹור:001000:Traps</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010070171">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:תְּבוּנָה:000000:Wise</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080011">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הֲ:000000:Affirmers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080022">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נְאֻם:000000:Speak</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יהוה:000000:Names of Deities</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080062">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אבד:000004:Non-Exist|Dead</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חָכָם:000000:Wise</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080082">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֱדֹום:000001:Names of Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080092">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:תְּבוּנָה:000000:Wise</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080102">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הַר:000001:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010080111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֵשָׂו:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090012">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חתת:000002:Afraid</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גִּבֹּור:000000:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:תֵּימָן:001001:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:כרת:000003:Dead</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אִישׁ:000000:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090072">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הַר:000001:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֵשָׂו:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010090092">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קֶטֶל:000000:Dead</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010100012">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חָמָס:000000:Ferocious|Wrong|Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010100021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אָח:000000:Relatives</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010100031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יַעֲקֹב:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010100041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:כסה:000008:Happen</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010100051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בּוּשָׁה:000000:Shame</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010100062">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:כרת:000003:Dead</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010100072">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֹולָם:000000:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110012">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עמד:000008:Dissociate</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110042">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁבה:000001:Control</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0050_babylon_exil_fugel</ImageLink>
+      <ImageLink>WEB-0206_exile_capture_lachish</ImageLink>
+      <ImageLink>WEB-0544_jehu_obelisk</ImageLink>
+      <ImageLink>WEB-0575_lachish_relief_exile</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:זָר:000000:Classes</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חַיִל:000002:Possess</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110082">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נָכְרִי:000002:Classes</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שַׁעַר:000001:Towns</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>PTZ-0070_city_gate</ImageLink>
+      <ImageLink>WEB-0136_city_gate</ImageLink>
+      <ImageLink>WEB-0422_city_gate_en</ImageLink>
+      <ImageLink>WEB-0422_city_gate_hans</ImageLink>
+      <ImageLink>WEB-0422_city_gate_hant</ImageLink>
+      <ImageLink>WEB-0422_city_gate_prt</ImageLink>
+      <ImageLink>WEB-0422_city_gate_sp</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110131">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יְרוּשָׁלַ͏ִם:000000:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>UBS-0047_jerusalem</ImageLink>
+    </ImageLinks>
+    <MapLinks>
+      <MapLink>31.777444,35.234935</MapLink>
+    </MapLinks>
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110141">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ידד:000000:Move</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110151">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גֹּורָל:000001:Know</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0471_pottery_shard_lots</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110161">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גַּם:000000:Extenders</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110171">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אַתָּה:000000:Object Referents</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010110182">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֶחָד:000000:Quantity|Frequency</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ראה:000000:See</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120032">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4248</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אָח:000000:Relatives</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4248</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120052">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נֶכֶר:000000:Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׂמח:000000:Rejoice</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120092">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בֵּן:000000:Relatives</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יְהוּדָה:000000:Names of People|Names of Groups|Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120112">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אבד:000003:Non-Exist|Dead</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120141">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גדל:000002:Speak</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120151">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:פֶּה:000000:Parts: Creatures</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120162">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010120171">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:צָרָה:000000:Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130032">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שַׁעַר:000001:Towns</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>PTZ-0070_city_gate</ImageLink>
+      <ImageLink>WEB-0136_city_gate</ImageLink>
+      <ImageLink>WEB-0422_city_gate_en</ImageLink>
+      <ImageLink>WEB-0422_city_gate_hans</ImageLink>
+      <ImageLink>WEB-0422_city_gate_hant</ImageLink>
+      <ImageLink>WEB-0422_city_gate_prt</ImageLink>
+      <ImageLink>WEB-0422_city_gate_sp</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עַם:000000:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130052">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵיד:000000:Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ראה:000000:See</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גַּם:000000:Extenders</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אַתָּה:000000:Object Referents</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130112">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:רָעָה:000002:Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130122">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130131">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵיד:000000:Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130151">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁלח:000020:Stance</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130162">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חַיִל:000002:Possess</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130172">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010130181">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵיד:000000:Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עמד:000000:Stance</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140042">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:פֶּרֶק:000001:Roads</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140052">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:כרת:000003:Dead</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:פָּלִיט:000000:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:סגר:000004:Control</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שָׂרִיד:000000:Flee</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140112">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010140121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:צָרָה:000000:Unsafe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹום:000001:Time</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יהוה:000000:Names of Deities</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150072">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גֹּוי:000000:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150082">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֲשֶׁר:000001:Occurrence</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עשׂה:000001:Engage</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עשׂה:000001:Engage</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גְּמוּל:000000:Happen</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150131">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁוב:000054:Chastise</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010150142">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:רֹאשׁ:000000:Parts: Creatures</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010160022">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֲשֶׁר:000001:Occurrence</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010160051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הַר:000000:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010160061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קֹדֶשׁ:000001:Holy</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010160092">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גֹּוי:000000:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010160122">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:לעע:001000:Ingest</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170013">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הַר:000000:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:צִיֹּון:000000:Names of Landforms|Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks>
+      <MapLink>31.777444,35.234935</MapLink>
+    </MapLinks>
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:פְּלֵיטָה:000000:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קֹדֶשׁ:000001:Holy</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170072">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ירשׁ:000002:Possess</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בַּיִת:000003:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יַעֲקֹב:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010170111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:מֹורָשׁ:000000:Objects</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4249</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בַּיִת:000003:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יַעֲקֹב:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵשׁ:000000:Fire</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0221_fire</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180052">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בַּיִת:000003:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יֹוסֵף:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:לֶהָבָה:000000:Fire</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0221_fire</ImageLink>
+      <ImageLink>WEB-0229_flame</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180082">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בַּיִת:000003:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֵשָׂו:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180102">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:קַשׁ:000000:Parts: Plants</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180112">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:דלק:000001:Burn</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180132">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אכל:000002:Non-Exist|Dead</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180161">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שָׂרִיד:000000:Flee</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180172">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בַּיִת:000003:Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180181">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֵשָׂו:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180201">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יהוה:000000:Names of Deities</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010180211">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:דבר:001000:Speak</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190012">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ירשׁ:000002:Possess</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190022">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נֶגֶב:000000:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>UBS-0040_holy_land_map_en</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_hans</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_hant</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_prt</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_sp</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190031">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הַר:000001:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֵשָׂו:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190063">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שְׁפֵלָה:000000:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:פְּלִשְׁתִּי:000000:Names of Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190092">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ירשׁ:000002:Possess</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190101">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שָׂדֶה:000002:Land</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֶפְרַיִם:000000:Names of People|Names of Groups|Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190132">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190141">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שָׂדֶה:000002:Land</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190151">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שֹׁמְרֹון:000001:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190162">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בִּנְיָמִן:000000:Names of People|Names of Groups|Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190171">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010190182">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גִּלְעָד:000001:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks>
+      <MapLink>32.042523,35.724241</MapLink>
+    </MapLinks>
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200012">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גָּלוּת:000001:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200022">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:חֵיל:000001:Towns</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4250</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200042">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:בֵּן:000000:Relatives</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200051">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יִשְׂרָאֵל:000000:Names of People|Names of Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֲשֶׁר:000000:Description</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4251</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:כְּנַעֲנִי:000000:Names of Groups</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עַד:000000:Location</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200091">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:צָרְפַת:000000:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks>
+      <MapLink>33.4333,35.3</MapLink>
+    </MapLinks>
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200102">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:גָּלוּת:000001:People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200111">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יְרוּשָׁלַ͏ִם:000000:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>UBS-0047_jerusalem</ImageLink>
+    </ImageLinks>
+    <MapLinks>
+      <MapLink>31.777444,35.234935</MapLink>
+    </MapLinks>
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200121">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֲשֶׁר:000000:Description</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200132">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:סְפָרַד:000000:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks>
+      <MapLink>38.476826,28.114131</MapLink>
+    </MapLinks>
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200141">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ירשׁ:000002:Possess</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200151">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200161">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עִיר:000000:Towns</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010200172">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:נֶגֶב:000000:Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>UBS-0040_holy_land_map_en</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_hans</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_hant</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_prt</ImageLink>
+      <ImageLink>UBS-0040_holy_land_map_sp</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210012">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עלה:000004:Move</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210021">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:ישׁע:000001:Safe</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks>
+      <TextualLink>HOTTP4252</TextualLink>
+    </TextualLinks>
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210032">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הַר:000000:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210041">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:צִיֹּון:000000:Names of Landforms|Names of Locations</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks>
+      <MapLink>31.777444,35.234935</MapLink>
+    </MapLinks>
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210052">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:שׁפט:000004:Control</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks>
+      <ImageLink>WEB-0861_tel_arad_judgment_seat</ImageLink>
+    </ImageLinks>
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210061">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:אֵת:002000:Identifiers</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210071">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:הַר:000001:Landforms</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210081">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:עֵשָׂו:000000:Names of People</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210102">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:יהוה:000000:Names of Deities</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+  <MARBLELink Id="o310010210112">
+    <ThematicLinks />
+    <LexicalLinks>
+      <LexicalLink>SDBH:מְלוּכָה:000000:Control</LexicalLink>
+    </LexicalLinks>
+    <TextualLinks />
+    <ImageLinks />
+    <MapLinks />
+    <ArticleLinks />
+    <SectionLinks />
+  </MARBLELink>
+</MARBLELinks>
