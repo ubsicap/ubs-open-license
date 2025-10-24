@@ -17,7 +17,8 @@ This collection contains a metadata file (ubs-release.xml) that has background i
 
 These are the three sub collections:
 
-* UBS - 85 images, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/ubs.zip
-* PRITZ - 161 images taken by Ray Pritz, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/pritz.zip 
-* WEB - 1008 open access images found on the web, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/web.zip
+* UBS - 85 images, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/UBS.zip
+* PRITZ - 161 images taken by Ray Pritz, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/PRITZ.zip 
+* WEB - 1008 open access images found on the web, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/WEB.zip
+* OPEN-AI - 158 images developed with ChatGPT using OpenAI, which can be downloaded here: https://d22edu6iq8vokk.cloudfront.net/collections/OPEN-AI.zip
 
