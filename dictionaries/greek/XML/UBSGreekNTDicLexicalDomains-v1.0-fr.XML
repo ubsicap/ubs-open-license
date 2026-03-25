@@ -11793,7 +11793,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Lieux</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>2</Level>
     <Prototype />
     <Reference />
