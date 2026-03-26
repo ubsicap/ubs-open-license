@@ -7923,7 +7923,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Half, Third, Fourth [Fractional Part]</Label>
+        <Label>Moitié, tiers, quart [fraction]</Label>
         <Description />
         <Opposite />
         <Comment />
