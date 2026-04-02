@@ -40,3 +40,12 @@ This resource is available in the languages English, French, Spanish, and Chines
 
 The data can be downloaded in either XML or JSON.
 
+UPDATES HEBREW DICTIONARY:
+
+version 0.9 - first release
+version 0.9.1 - entries added
+version 0.9.2 - entries added (now at 99%)
+
+UPDATES GREEK DICTIONARY:
+
+version 1.0 - first release
