@@ -7459,15 +7459,6 @@
                   <Caption>香菖蒲</Caption>
                   <Description />
                 </BibleImage>
-                <BibleImage Type="ILL" Id="calamus-alt">
-                  <Collection />
-                  <Path>marble-images-flora-fauna-realia\FAUNA</Path>
-                  <FileName>calamus-alt.jpg</FileName>
-                  <Copyright>H. Zell (Wikimedia Commons)</Copyright>
-                  <Definition Id="" LanguageCode="zh-Hant"></Definition>
-                  <Caption>香菖蒲</Caption>
-                  <Description />
-                </BibleImage>
               </BibleImages>
         </Section>
     </Sections>
