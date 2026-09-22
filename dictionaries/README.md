@@ -45,6 +45,7 @@ UPDATES HEBREW DICTIONARY:
 version 0.9 - first release
 version 0.9.1 - entries added
 version 0.9.2 - entries added (now at 99%)
+version 0.9.3 - entries added (now at 99%)
 
 UPDATES GREEK DICTIONARY:
 

@@ -1,0 +1,6532 @@
+<?xml version="1.0"?>
+<Domains xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>物體</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>動物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>野生動物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>חַיָּה</Prototype>
+    <Reference />
+    <Code>001001002001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>馴養動物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>בְּהֵמָה</Prototype>
+    <Reference />
+    <Code>001001002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>小型動物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>רֶמֶשׂ</Prototype>
+    <Reference />
+    <Code>001001002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>水生動物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>דָּג</Prototype>
+    <Reference />
+    <Code>001001002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>鳥類</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>עֹוף</Prototype>
+    <Reference />
+    <Code>001001002005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>群聚生物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>שֶׁרֶץ</Prototype>
+    <Reference />
+    <Code>001001002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>人</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype>אָדָם</Prototype>
+    <Reference />
+    <Code>001001003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>階級</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>仇敵</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>朋友</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>群體</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>領袖</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>信使</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>官員</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>祭司</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>職業</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>先知</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>妓女</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>親屬</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>士兵</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>見證人</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001003014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>地面上的地方</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>天體</Label>
+        <Description>地球上空的所有天體，如太陽、月亮、星星、星座等。</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>陸地</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>地形</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>景觀</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>物質</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>空氣</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>瀝青</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>布料</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>雲</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>塵土</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>火</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>אֵשׁ</Prototype>
+    <Reference />
+    <Code>001002005006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>液體</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>金屬</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>礦物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>塗料</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>雨</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>肥皂</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>香料</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>烈酒</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>רוּחַ</Prototype>
+    <Reference />
+    <Code>001002005015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>石頭</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>אֶבֶן</Prototype>
+    <Reference />
+    <Code>001002005016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>木頭</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002005017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>地面以下的地方</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002007001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002007002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>水體</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>地面上的地方</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>產物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>人工製品</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>כְּלִי</Prototype>
+    <Reference />
+    <Code>001003001001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>旗幟</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype>נֵס</Prototype>
+    <Reference />
+    <Code>001003001001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>衣物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 容器</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>繩子</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>覆蓋物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 敬拜物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>熔爐</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype>תַּנּוּר</Prototype>
+    <Reference />
+    <Code>001003001001007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>家具擺設</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>寶石</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>塑像</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>首飾</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>燈</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>樂器</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>卷軸</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>船</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>工具</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 陷阱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>車輛</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>武器</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001001020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>身體的產物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>食物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>餅</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype>לֶחֶם</Prototype>
+    <Reference />
+    <Code>001003001003001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 農作物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003001003002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>乳製品</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype>חָלָב</Prototype>
+    <Reference />
+    <Code>001003001003003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>果子</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype>פְּרִי</Prototype>
+    <Reference />
+    <Code>001003001003004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>酒</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype>יַיִן</Prototype>
+    <Reference />
+    <Code>001003001003005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>建造物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>建築物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>敬拜場所</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>防御工事</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>紀念碑</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>港口</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>監獄</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>馬廄</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>帳棚</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>אֹהֶל</Prototype>
+    <Reference />
+    <Code>001003002009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>墳墓</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>קֶבֶר</Prototype>
+    <Reference />
+    <Code>001003002010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>城鎮</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>עִיר</Prototype>
+    <Reference />
+    <Code>001003002011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>圍牆</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>חֹומָה</Prototype>
+    <Reference />
+    <Code>001003002012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 水井和蓄水池</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>בֹּאר</Prototype>
+    <Reference />
+    <Code>001003002013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>事件</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>描述</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>屬性</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>有能力</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>敏捷</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>活著</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>睡著</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>醒著</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>壞的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>禿頭</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>鞠躬</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>燃燒</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 容量</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>潔淨</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>關閉</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 冷的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>顏色</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>普通</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>熟的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>黑暗</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 死的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不同</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>維度</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>乾的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001021</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001022</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001023</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>影響</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001024</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>攝取</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001025</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不攝取</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001026</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>排洩</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001027</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 肥的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001028</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001029</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001030</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>好的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001031</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>重的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001032</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>聖潔</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001033</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 熱的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001034</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 高的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001035</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001036</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>大的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001037</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 小的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001038</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>長的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001039</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 低的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001040</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>年老</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001041</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>打開</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001042</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>貧窮</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001043</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001044</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>懷孕</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001045</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 數量</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001046</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>熄滅</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001047</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>生的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001048</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 限制</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001049</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>富足</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001050</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>性</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001051</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 形狀</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001052</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>發亮</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001053</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>短的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001054</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>生病</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001055</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>類似</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001056</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>柔軟</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001057</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 堅硬</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001058</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>抽動</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001059</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 階段</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001060</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>姿勢</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001061</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 穩定</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001062</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>強壯</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001063</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>瘦的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001064</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不能</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001065</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不潔</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001066</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 不穩</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001067</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001068</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>軟弱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001069</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>重量</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001070</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>濕的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001071</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>書寫</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001072</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>年輕</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001073</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>態度</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>害怕</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>憤怒</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>自信</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>殘忍</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>鄙視</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>勤奮</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>邪惡</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>忠實</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>殘暴</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>愚蠢</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>慷慨</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>偉大</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>悲傷</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>憎恨</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>微不足道</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>公正</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>懶惰</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>愛</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>仁慈</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 耐心</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>準備好</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002021</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>喜樂</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002022</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>寬慰</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002023</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>尊重</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002024</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>羞愧</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002025</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>馴服</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002026</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不忠</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002027</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>願意</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002028</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>聰明</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002029</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>毫無價值</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002030</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不願意</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001002031</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>修飾</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>豐富</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>改變</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 完整</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>複雜</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>容易</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>超凡</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>假的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>快</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>困難</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>緊迫</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 強烈</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>鬆懈</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>正確</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>簡單</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>慢</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>瑣碎</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>真的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>很好</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>錯誤</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001003019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>位置</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 地點</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>安排</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>吹</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>包含</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不包含</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>居住</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>尋找</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>逃走</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>流動</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>非流動</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>隱藏</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>跳躍</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>移動</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>הלךְ</Prototype>
+    <Reference />
+    <Code>002002001012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>非移動</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>種植</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>搜索</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>空間</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不在空間</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>追趕</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>轉向</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002001020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>存在</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>行動</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不行動</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>出生</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 混沌</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>存在</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 消失</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>秩序</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>角色</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>非角色</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>時間</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>節日</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002002011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>出現</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>持久</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002003001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不持久</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002003002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 發生</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002003003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不發生</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002002003004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>聯繫</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>連接</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>繫上</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>捆綁</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>攜帶</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>交配</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>覆蓋</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>拆下</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 穿衣服</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>懸掛</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>握住</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>親吻</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>混合</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>玩</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>純的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 釋放</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 磨擦</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>脫衣服</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>暴露</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>編織</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 整體</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001021</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>摔跤</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001022</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>關聯</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>敬拜</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>關聯</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>祝福</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 照顧</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>懲戒</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 衝突</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>控制</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>詛咒</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>分離</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>交換</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>放棄</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>釋放</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>聚集</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>僱用</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>會面</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>忽視</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 不擁有</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 擁有</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>和解</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>獻祭</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002021</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>分散</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002022</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 服侍</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002023</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>參與</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>影響</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>承擔</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 開始</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 編寫</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>繼續</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 延遲</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 占卜</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>結束</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>從事</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不從事</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>失敗</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>有罪</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>無罪</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>法律</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>興旺</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>犯罪</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>安全</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>成功</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>嘗試</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003021</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不安全</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003022</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>敦促</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003003023</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>感知</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>感覺</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>感到</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>慾望</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>飢餓</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>口渴</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001001003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>觸摸</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不覺得</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>聽見</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 聽不見</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 看見</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>看不見</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>嗅</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>嘗味</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>發聲</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>要求</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype>שׁאל</Prototype>
+    <Reference />
+    <Code>002004001009001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>埋怨</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>語言</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不說話</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>喊叫</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>唱歌</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>聲音</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>說話</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>讚美</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>禱告</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>指責</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>辱罵</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>許願</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004001009013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>認知</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>感受</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>願望</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label> 原因</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>比較</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>設計</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>估計</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>判斷</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>知道</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>ידע</Prototype>
+    <Reference />
+    <Code>002004002007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不知道</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>量度</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>שֵׁם</Prototype>
+    <Reference />
+    <Code>002004002010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>局部</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>試驗</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>思考</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>不思考</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>異象</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002004002015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>指稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>003</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>對象指稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>書籍名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>星座名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>建造物名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>神明名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>文件名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>群體名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>人名</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>地形名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>語言名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>地點名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>道路名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>超自然生物名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>時間名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>樹木名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>水體名稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>自己本身</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>稱謂</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001017001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>003001017002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>事件指稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>003002</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003002001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>環境指稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>描述性指稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003002003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003002004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>空間指稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003002005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>時間指稱</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>003002006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>004</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>肯定標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>差異標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>識別標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>擴展標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>評價標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>否定標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>限制標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>規定標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hant">
+        <Label>時間標記</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>2</Level>
+    <Prototype />
+    <Reference />
+    <Code>004009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+</Domains>
