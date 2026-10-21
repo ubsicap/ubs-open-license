@@ -2,9 +2,9 @@
 <Domains xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Ability</Label>
-        <Description>All terms relating to the question as to whether living beings have the ability to carry out a certain activity or not, either as a result of a physical disability or due to another cause or reason.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>能力</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -17,14 +17,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Abundance</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -34,9 +27,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Access</Label>
-        <Description>All terms relating to the question whether certain locations are accessible or not.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>通道</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -50,9 +43,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Action</Label>
-        <Description>This contextual domain is only used in extensions of meaning, such as Body &gt; Action. It covers cases where a part of the body is used to denote the action that it performs. The expression "God's hand", for example, can be used to describe hardship and suffering</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>动作</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -66,9 +59,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Adoption</Label>
-        <Description>All terms related to the process by which humans officially accept a child that is not their direct offspring as theirs.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>采纳</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -82,9 +75,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Affection</Label>
-        <Description>All terms relating to the degree of affection between individuals or groups that have a certain relationship together</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>情感</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -98,9 +91,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Age</Label>
-        <Description>All terms relating to age and everything that is associated with it, such as wisdom, status, grey hair, weakness of body, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>年纪</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -114,9 +107,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Aggression</Label>
-        <Description>All terms relating to people and deities performing acts of aggression to other people</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>侵略</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -130,9 +123,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Agriculture</Label>
-        <Description>All terms relating to agriculture</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>农耕</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -146,9 +139,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Alcohol</Label>
-        <Description>All terms relating to alcoholic beverages and the effect they have on those who consume them</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>酒</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -162,9 +155,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Animal</Label>
-        <Description>All terms relating to animal behavior</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>动物</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -178,9 +171,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Animal Husbandry</Label>
-        <Description>All terms relating to the context of people keeping domestic animals for a living</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>畜牧</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -194,9 +187,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Anointing</Label>
-        <Description>All terms relating to the process of anointing people to formally commission them to take on a certain role.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>受膏</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -210,9 +203,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Apparition</Label>
-        <Description>All terms relating to appearances of supernatural beings and the way humans respond to that</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>幽灵</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -226,9 +219,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Assembly</Label>
-        <Description>All terms relating to communities of people being assembled for religious and other purposes</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>集会</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -242,9 +235,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Authority</Label>
-        <Description>All terms relating to the relationship between someone in authority and the people entrusted to their care.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>权力</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -258,9 +251,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Beauty</Label>
-        <Description>All terms relating to physical beauty.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>美丽</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -274,9 +267,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Behavior</Label>
-        <Description>All terms relating to one's mode of conduct or behavior, which is often depicted as a metaphorical journey.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>行为</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -290,9 +283,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Blessing and Cursing</Label>
-        <Description>All terms relating to humans and deities pronouncing a blessing or a curse on both animate and inanimate objects, including the consequences thereof.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>祝福和诅咒</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -306,9 +299,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Body</Label>
-        <Description>All terms relating to the body of animals and human being, including all related natural processes.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>身体</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -321,14 +314,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Bribery</Label>
-        <Description>All terms relating to the process by which humans pay others to receive favors and services that should be available for free.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -338,9 +324,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Building</Label>
-        <Description>All terms relating to a building including everything that is in it</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>建筑</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -354,9 +340,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Burial</Label>
-        <Description>All terms relating to funerals and burial and all rituals surrounding these events</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>葬礼</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -370,9 +356,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Cannibalism</Label>
-        <Description>All terms relating to humans eating the flesh of other humans, usually in cases of famine.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>同类相食</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -386,9 +372,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Calendar</Label>
-        <Description>All terms relating to the way a community divides the year into seasons, months, and other periods of time, including the activities associated with them.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>日历</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -402,9 +388,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Care and Neglect</Label>
-        <Description>All terms relating to the way people and deities take care of the needs of others and themselves.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>照顾和忽视</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -418,9 +404,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Census</Label>
-        <Description>All terms relating to census</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>人口普查</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -434,9 +420,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Chaos</Label>
-        <Description>All terms relating to the conditions on earth before the events described in the first chapter of Genesis.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>混沌</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -450,9 +436,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Crafts</Label>
-        <Description>All terms relating to crafts and the required skills.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>工艺</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -466,9 +452,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Creation</Label>
-        <Description>All terms relating to God's creation of heaven and earth.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>创造</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -481,14 +467,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Childbirth</Label>
-        <Description>All terms relating to menstruation, conception, pregnancy, and childbirth. For terms relating to children as the perpetuation of one's family line, see |uPosterity|u*. For terms relating to children as part of one's family, see |uKinship|u*</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -498,9 +477,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Circumcision</Label>
-        <Description>All terms relating to the custom of circumcision.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>生育</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -514,8 +493,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Circumstance</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>割礼</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -529,14 +508,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Citizen vs. Foreigner</Label>
-        <Description>All terms relating to people's status within a community as to whether they are insiders or outsiders.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -546,9 +518,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Clothing</Label>
-        <Description>All terms relating to being dressed, wearing ornaments, and applying perfumes and other cosmetics</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>居民与外人</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -562,9 +534,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Color</Label>
-        <Description>All terms relating to color.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>衣着</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -578,9 +550,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Commerce</Label>
-        <Description>All terms relating to trading, including the people, their activities, and their merchandise.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>颜色</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -594,9 +566,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Compassion</Label>
-        <Description>All terms relating to compassion and cruelty.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>商业</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -610,9 +582,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Competition</Label>
-        <Description>All terms relating to people striving for superiority in a certain field.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>同情</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -626,9 +598,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Control</Label>
-        <Description>All terms relating to different individuals or parties in control of others, outside of the regular and legal path of Authority</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>竞争</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -642,9 +614,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Communication</Label>
-        <Description>All terms relating to efforts of deities, people, and animals to communicate among themselves and with others, either or not verbally.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>控制</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -658,9 +630,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Community</Label>
-        <Description>All terms relating to groups of people with a common ancestor or coming from one single area</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>沟通</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -674,9 +646,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Confidence and Fear</Label>
-        <Description>All terms relating to confidence and fear,</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>社群</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -690,9 +662,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Conflict</Label>
-        <Description>All terms relating to conflicts, including their consequences, and efforts to come to a resolution.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>信心和恐惧</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -706,9 +678,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Construction</Label>
-        <Description>All terms relating to buildings and other construction, including the processes of building.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>冲突</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -722,9 +694,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Covenant</Label>
-        <Description>All terms relating to covenants, including all rituals and stipulations.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>建造物</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -738,9 +710,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Courts and Legal Procedures</Label>
-        <Description>All terms relating to courts and legal procedures where conflicts are settled and crimes are punished.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>盟约</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -754,9 +726,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Decoration</Label>
-        <Description>All terms relating to the decoration of objects</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>装饰</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -770,9 +742,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Destruction</Label>
-        <Description>All terms relating to the destruction of objects</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>摧毁</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -786,9 +758,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Divine</Label>
-        <Description>All terms relating to God and other supernatural beings, their characteristics and activities.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>神圣的</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -801,14 +773,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Dreaming</Label>
-        <Description>All terms related to people experiencing dreams while asleep</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -818,9 +783,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Drought</Label>
-        <Description>All terms relating to a prolonged absence or rain and its consequences for the land and the people living there</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>干旱</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -833,14 +798,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Entertainment</Label>
-        <Description>All terms related to people entertaining others or themselves</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -850,9 +808,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Errand</Label>
-        <Description>All terms relating to people in authority sending other people on an errand</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>差事</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -866,9 +824,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Euphemism</Label>
-        <Description>All terms used as part of euphemisms.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>委婉语</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -882,9 +840,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Exile</Label>
-        <Description>All terms relating to people being expelled from their native land for a longer or shorter period of time</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>流放</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -897,14 +855,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Exorcism</Label>
-        <Description>All terms relating to exorcism.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -914,9 +865,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Faithfulness</Label>
-        <Description>All terms relating to the context of חֶסֶד וְאְֶמֶת: faithfulness, trustworthiness, truth, loyalty, solidarity, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>信实</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -930,9 +881,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Family</Label>
-        <Description>All terms relating to kinship.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>家庭</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -946,9 +897,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Famine</Label>
-        <Description>All terms belonging to a prolonged absence of food and all its consequences for the people and the economy</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>饥荒</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -962,9 +913,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Fasting</Label>
-        <Description>All terms relating to people abstaining from food for religious and other purposes.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>禁食</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -978,9 +929,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Festival</Label>
-        <Description>All terms relating to official religious celebrations, such as Shabbat, New Moon, Passover, Sukkoth, etc.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>节期</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -994,9 +945,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Fire</Label>
-        <Description>All terms relating to fire, its behavior, and its consequences</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>火</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1010,9 +961,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Fleeing</Label>
-        <Description>All objects and events relating to people fleeing from their enemies</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>逃走</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1025,14 +976,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Flood</Label>
-        <Description>All terms relating to events when land is flooded by water.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1042,9 +986,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Food</Label>
-        <Description>All terms relating to the production and consumption of food</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>食物</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1057,14 +1001,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Forgiveness</Label>
-        <Description>All terms relating to atonement, reconciliation, and forgiveness.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1073,14 +1010,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Fragrance</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1090,9 +1020,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Freedom and Bondage</Label>
-        <Description>All terms relating to the question as to whether humans are free or live in slavery.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>自由和束缚</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1105,14 +1035,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Genealogy</Label>
-        <Description>All terms relating to genealogy</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1122,9 +1045,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Generosity and Greed</Label>
-        <Description>All terms relating to people's willingness to give to others.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>家谱</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1138,9 +1061,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Geography</Label>
-        <Description>All terms relating to the geography of the world.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>慷慨和贪婪</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1154,9 +1077,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Group</Label>
-        <Description>All terms relating to group behavior.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>地理</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1170,10 +1093,10 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Hardship</Label>
-        <Description>All terms relating to suffering and hardship.</Description>
-        <Opposite>Well-Being</Opposite>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>群体</Label>
+        <Description />
+        <Opposite />
         <Comment />
       </SemanticDomainLocalization>
     </SemanticDomainLocalizations>
@@ -1186,9 +1109,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Health and Sickness</Label>
-        <Description>All terms relating to health and sickness, such as diseases, wounds, treatment, medication, healing, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>艰难</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1202,9 +1125,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Heights and Depths</Label>
-        <Description>All terms relating to of heights and depths, including people's efforts to climb up and down.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>健康和疾病</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1218,9 +1141,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Hiding and Searching</Label>
-        <Description>All contexts relating to people and things being hidden in secret locations, including efforts to revover them</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>高度和深度</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1234,9 +1157,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>History</Label>
-        <Description>All terms relating to history.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>隐藏和搜寻</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1249,14 +1172,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Holy and Common</Label>
-        <Description>All terms relating to the question as to whether supernatural beings, humans, animals and objects belong to the realm of God or to the realm of ordinary humans.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1266,9 +1182,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Hospitality</Label>
-        <Description>All terms relating to people receiving guests and their responsibilities towards them.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>神圣和普通</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1281,14 +1197,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Household</Label>
-        <Description>All terms relating to a person's household and all related activities.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1298,9 +1207,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Human</Label>
-        <Description>All terms referring to the realm of humans as contrasted to deities, animals, and inanimate objects</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>好客</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1313,14 +1222,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Humility and Pride</Label>
-        <Description>All terms relating to attitudes of self-esteem, ranging from humble to proud</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1330,9 +1232,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Hunting and Fishing</Label>
-        <Description>All terms relating to hunting, fishing, and gathering</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>人</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1346,9 +1248,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Idolatry</Label>
-        <Description>All terms relating to idolatry as a form of worship forbidden in the Old Testament</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>谦卑和骄傲</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1362,9 +1264,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Incest</Label>
-        <Description>All terms relating to incestuous relationships</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>打猎和捕鱼</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1378,8 +1280,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Industry</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>偶像崇拜</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1394,9 +1296,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Infrastructure</Label>
-        <Description>All terms relating to roads and other forms of infrastructure</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>乱伦</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1409,14 +1311,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Inheritance</Label>
-        <Description>?</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1426,9 +1321,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Insulting</Label>
-        <Description>This domain comprises all terms used in insults</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>基础建设</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1442,8 +1337,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Intensity</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>继承</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1458,8 +1353,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Interest</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>侮辱</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1474,9 +1369,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Irony</Label>
-        <Description>Frame of irony and sarcasm</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>强烈</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1489,14 +1384,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Journey</Label>
-        <Description>All terms belonging to the frame of people traveling, either in groups or alone, including the preparations they make, their means or going (vehicle, donkey, horse), etc</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1506,9 +1394,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Joy and Grief</Label>
-        <Description>All terms relating to the emotions of joy and grief</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>讽刺</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1522,9 +1410,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Jubilee</Label>
-        <Description>All terms belonging to the frame of the year of Jubilee</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>旅程</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1538,9 +1426,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Justice</Label>
-        <Description>All terms relating to justice and just behavior in government, court, and human relations</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>喜乐和悲伤</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1554,8 +1442,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Kissing</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>禧年</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1570,8 +1458,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Lamp</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>正义</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1585,14 +1473,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Land</Label>
-        <Description>All terms referring to land</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1602,9 +1483,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Law</Label>
-        <Description>All terms belonging to the frame of the law, both of God and of humans</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>灯</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1618,9 +1499,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Life and Death</Label>
-        <Description>All terms relating to the life span of animate objects</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>土地</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1634,9 +1515,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Light and Darkness</Label>
-        <Description>All terms relating to light and darkness and what is in between</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>法律</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1650,9 +1531,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Liquids</Label>
-        <Description>All terms belonging to the frame of liquids and their behavior, such as flowing, pouring, freezing, etc. This frame partly overlaps with the frame of |uWater|u*, though the latter only deals with bodies of water found in nature</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>生死</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1666,9 +1547,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Loan</Label>
-        <Description>All terms belonging to the frame of a loan</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>光暗</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1682,9 +1563,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Lot</Label>
-        <Description>Frame of casting lots in order to determine what is God's will regarding a certain matter. This includes cases where this is done in order to determine who is guilty, or in order to divide land</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>液体</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1698,9 +1579,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Magic</Label>
-        <Description>All terms belonging to the frame of magic activities, such as sorcery, sorcery, casting spells, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>贷款</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1714,9 +1595,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Marriage</Label>
-        <Description>All terms relating to marriage</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>抽签</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1730,8 +1611,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Mediation</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>法术</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1746,8 +1627,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Mind</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>婚姻</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1761,14 +1642,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Mining</Label>
-        <Description>All terms relating to mining</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1778,8 +1652,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Money</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>心思</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1794,9 +1668,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Monument</Label>
-        <Description>All terms relating to monuments and other symbols used to commemorate important people or events</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>采矿</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1809,14 +1683,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Mourning</Label>
-        <Description>All terms relating to mourning, such as weeping, rending one's garments, etc</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1826,9 +1693,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Motion</Label>
-        <Description>All terms relating to movement</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>纪念碑</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1842,9 +1709,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Music and Dance</Label>
-        <Description>?</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>哀悼</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1858,8 +1725,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Naming</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>运动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1874,8 +1741,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Nazirite</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>音乐和舞蹈</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1889,14 +1756,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Nation</Label>
-        <Description>All terms relating to nations and their behavior; for relationships between nations, see: Politics</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -1906,9 +1766,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Nature</Label>
-        <Description>All terms that have to do with objects found in nature. It is often redundant to used this contextual domain. It is especially useful in cases where there is a contextual metaphor. There are cases, for example, where a harlot is compared to a deep pit. Th</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>拿细耳人</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1922,9 +1782,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Navigation</Label>
-        <Description>Frame of navigation, including ships, sailors, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>民族</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1938,9 +1798,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Nomad</Label>
-        <Description>All terms relating to nomadic people and their way of living, traveling, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>大自然</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1954,9 +1814,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Oath</Label>
-        <Description>All terms relating to taking oaths, vows, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>航海</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1970,9 +1830,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Office</Label>
-        <Description>All terms relating to people working at a king's court</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>游牧民族</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1986,8 +1846,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Oppression</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>誓言</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2002,9 +1862,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Permanence</Label>
-        <Description>All terms belonging to the frame revolving around the question whether things or conditions last or not</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>官员</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2017,14 +1877,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Parenthood</Label>
-        <Description>All terms belonging to the frame of the relationship of parents towards their children</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -2034,8 +1887,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Physical Contamination</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>永久</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2050,9 +1903,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Plague</Label>
-        <Description>All terms belonging to the frame of plagues, such as epidemics, natural disasters, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>为人父母</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2066,9 +1919,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Plan</Label>
-        <Description>All terms belonging to the process of making plans, whether good or evil</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>物理污染</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2082,9 +1935,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Plant</Label>
-        <Description>All terms belonging to the frame of plants, their behavior, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>瘟疫</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2098,9 +1951,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Pledge</Label>
-        <Description>All terms belonging to the frame of giving or receiving securities for loans</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>计画</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2114,9 +1967,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Politics</Label>
-        <Description>All terms belonging to the frame of the relationships between nations</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>植物</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2130,9 +1983,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Possession</Label>
-        <Description>All terms belonging to the frame of possession, including buying, selling, theft, loans, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>抵押</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2146,9 +1999,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Posterity</Label>
-        <Description>All terms belonging to the frame of having offspring and the need to preserve one's family line. For terms relating to conception, pregnancy, and childbirth, see Childbirth. For terms relating to children as part of one's family, see |uKinship|u*</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>政治</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2162,9 +2015,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Prayer</Label>
-        <Description>All terms belonging to the frame of people that are praying</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>拥有</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2178,9 +2031,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Priesthood</Label>
-        <Description>All terms belonging to the frame of priests, their function, dress, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>后代</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2194,9 +2047,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Prophecy</Label>
-        <Description>The frame of a prophet or seer and the activity of going in trance and prophesying</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>祷告</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2210,8 +2063,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Prostitution</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>祭司职分</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2226,9 +2079,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Providence</Label>
-        <Description>All terms belonging to the frame of God who is actively involved with the people under his care; related to Judgment</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>预言</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2241,14 +2094,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Punishment</Label>
-        <Description>All terms belonging to the frame of people being punished by other people for their misdemeanors; when God punishes someone the frame Judgment is used.</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -2258,9 +2104,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Quality</Label>
-        <Description>Frame of quality</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>照管</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2274,9 +2120,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Quantity</Label>
-        <Description>Frame of quantity</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>惩罚</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2290,9 +2136,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Reality</Label>
-        <Description>All terms relating to the actual taking place of events.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>质量</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2306,8 +2152,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Recompense</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>数量</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2322,8 +2168,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Redemption</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>现实</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2338,9 +2184,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Refuge</Label>
-        <Description>All terms belonging to the frame of people looking for refuge when in fear of death, by fleeing to a city of refuge and/or taking hold of the horns of the altar</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>赏罚</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2353,14 +2199,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Relationship</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -2370,8 +2209,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Remembrance</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>避难</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2386,9 +2225,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Respect</Label>
-        <Description>All terms belonging to the frame of people showing respect for other people and/or their achievements</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>关系</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2402,9 +2241,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Responsibility</Label>
-        <Description>All terms belonging to the frame of responsibility for one's actions</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>纪念</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2418,9 +2257,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Representation</Label>
-        <Description>All terms relating to representation, such as objects representing people or other objects, or people representing a tribe, clan, or other family unit</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>尊敬</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2434,8 +2273,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Ritual Contamination</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>责任</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2450,9 +2289,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Royalty</Label>
-        <Description>All terms relating to kings, including their names, attributes, consecration rituals, privileges, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>代表</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2466,8 +2305,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Sacrifices and Offerings</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>礼仪上的污染</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2482,8 +2321,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Sanctuary</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>王权</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2498,9 +2337,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Satisfaction</Label>
-        <Description>?</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>献祭和祭品</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2514,9 +2353,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Security</Label>
-        <Description>All terms relating to feeling secure</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>圣所</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2530,9 +2369,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Secrecy</Label>
-        <Description>All terms belonging to the frame concerning the question whether certain knowledge is public or restricted</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>满意，满足</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2546,9 +2385,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Self</Label>
-        <Description>All references to self; used primarily to denote relationships between humans or deities and and their selves.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>安全</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2562,9 +2401,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Senses</Label>
-        <Description>All terms involving the senses</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>保密</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2578,9 +2417,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Sex</Label>
-        <Description>All terms belonging to the frame of people having sexual relations</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>自己</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2594,9 +2433,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Shape</Label>
-        <Description>All terms relating to the shape of objects</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>感官</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2610,9 +2449,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Shepherding</Label>
-        <Description>All terms relating to humans taking care of domestic animals, including all related objects and activities</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>性</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2626,9 +2465,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Siege</Label>
-        <Description>All terms relating to a siege</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>形状</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2642,8 +2481,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Significance</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>牧养</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2658,8 +2497,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Signs and Wonders</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>围攻</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2674,8 +2513,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Similarity and Difference</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>重要性</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2689,14 +2528,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Size</Label>
-        <Description>All terms relating to the size of objects</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -2706,9 +2538,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Slander</Label>
-        <Description>All terms belonging to the frame of gossip and slander</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>相同和相异</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2722,9 +2554,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Slavery</Label>
-        <Description>All objects and events belonging to the context of slavery</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>大小</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2738,9 +2570,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Sleeping</Label>
-        <Description>All terms relating to sleeping, dreaming, waking up, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>诽谤</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2754,8 +2586,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Sound</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>奴役</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2770,8 +2602,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Space</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>睡觉</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2786,9 +2618,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Speed</Label>
-        <Description>All terms relating to speed</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>声音</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2802,8 +2634,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Stage</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>空间</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2818,9 +2650,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Stances</Label>
-        <Description>All terms relating to stances of the body</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>速度</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2834,9 +2666,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>State</Label>
-        <Description>All terms relating to the physical state of an object, i.e. whether it is whole, divided, or impacted.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>阶段</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2850,9 +2682,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Status</Label>
-        <Description>All terms relating to one's position within the society</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>姿势</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2866,9 +2698,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Storage</Label>
-        <Description>All terms relating to storage of objects</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>状态</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2882,9 +2714,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Strength</Label>
-        <Description>All terms relating to physical weakness and strength</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>地位</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2898,9 +2730,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Success and Failure</Label>
-        <Description>All terms relating to the question whether certain actions fail or are successful</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>储存</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2914,9 +2746,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Swimming</Label>
-        <Description>All terms relating to swimming</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>力量</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2930,9 +2762,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Symbol</Label>
-        <Description>All terms relating to symbols</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>成功和失败</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2946,8 +2778,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Taxes, Tribute, and Tithes</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>游泳</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2962,9 +2794,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Temper</Label>
-        <Description>All terms relating to someone's temper, including terms referring to patience</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>象征符号</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -2977,14 +2809,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Temperature</Label>
-        <Description>All terms belonging to the frame of temperature, ranging from cold to hot; related to and partially overlapping with: Weather, Wind</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -2994,9 +2819,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Tent</Label>
-        <Description>All terms relating to tents and other temporary constructions</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>脾气</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3010,9 +2835,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Testimony</Label>
-        <Description>All terms relating to people testifying about good or evil that was done to themselves or someone else</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>温度</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3026,9 +2851,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Time</Label>
-        <Description>?</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>帐棚</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3042,9 +2867,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Tool</Label>
-        <Description>?</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>见证</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3058,9 +2883,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Town</Label>
-        <Description>All terms belonging to the frame of a towns and other population centers, including everything that is part of it, such as walls, ramparts, gates, bars, etc</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>时间</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3074,8 +2899,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Transaction</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>工具</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3090,8 +2915,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Translation</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>城镇</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3105,14 +2930,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Truth and Falsehood</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -3121,14 +2939,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Universe</Label>
-        <Description>All terms belonging to the frame of the universe</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -3138,9 +2949,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Value</Label>
-        <Description>All terms relating to the value attached to certain objects or events by animate beings</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>真理和谎言</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3154,9 +2965,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Vehicle</Label>
-        <Description>All terms related to modes of transportation with wheels, such as carts and chariots</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>宇宙</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3170,9 +2981,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Warfare</Label>
-        <Description>All terms belonging to the frame of warfare and related military activities</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>价值</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3186,9 +2997,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Water</Label>
-        <Description>All terms belonging to the frame of natural bodies of water and their behavior; partly overlaps with Liquids.</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>车辆</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3202,8 +3013,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Weight</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>战争</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3218,9 +3029,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Writing</Label>
-        <Description>All terms related to writing</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>水</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3234,8 +3045,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Wealth and Poverty</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>重量</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3250,9 +3061,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Weather</Label>
-        <Description>All terms belonging to the frame of weather and climate; related to and partially overlapping with: Temperature, Wind</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>书写</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3266,8 +3077,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Weaving</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>富有和贫穷</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3282,9 +3093,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Weeping</Label>
-        <Description>All terms belonging to the context of weeping</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>天气</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3297,14 +3108,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Well</Label>
-        <Description>All terms relating to wells, cisterns, and other places where one can get water</Description>
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -3314,9 +3118,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Well-Being</Label>
-        <Description>A condition in which there is peace and security in all aspects of life and one's mind is at rest, as in the Hebrew concept of שָׁלוֹם</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>哭泣</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3330,8 +3134,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Willingness</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>井</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3346,9 +3150,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Wind</Label>
-        <Description>All terms belonging to the frame of the wind and what it does or can do to nature; related to and partially overlapping with: Temperature, Weather</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>福祉</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3362,9 +3166,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Wisdom</Label>
-        <Description>All terms relating to wisdom, knowledge, and understanding, including all terminology relating to efforts to impart these virtues to other people, and people's reaction to those efforts</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>愿意</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3378,8 +3182,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Wood</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>风</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3394,9 +3198,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Work</Label>
-        <Description>All terms belonging to the frame of work, including remuneration</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>智慧</Label>
+        <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -3409,14 +3213,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Worship</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>1</Level>
     <Prototype />
     <Reference />
@@ -3426,8 +3223,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="en">
-        <Label>Wrestling</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>工作</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3437,6 +3234,22 @@
     <Prototype />
     <Reference />
     <Code>215</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>敬拜</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>216</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>

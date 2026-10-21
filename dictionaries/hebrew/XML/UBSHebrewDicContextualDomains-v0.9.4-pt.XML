@@ -1,0 +1,3452 @@
+<?xml version="1.0"?>
+<Domains xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Capacidade</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Abundância</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Acesso</Label>
+        <Description>Todos os termos relacionados à questão da acessibilidade ou não de lugares.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Ação</Label>
+        <Description>Este domínio contextual é usado somente em extensões de sentido, tais como Corpo &gt; Ação. Abrange os casos em que uma parte do corpo é usada para denotar a ação que ela realiza. A expressão "a mão de Deus", por exemplo, pode ser usada para descrever dificuldades e sofrimento.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Adoção</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Afeto</Label>
+        <Description>Todos os termos relacionados ao grau de afeto entre indivíduos ou grupos em seus relacionamentos mútuos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Idade Avançada</Label>
+        <Description>Tudo que tem relação com a idade avançada no ser humano, tal como sabedoria, status, cabelos brancos, fraqueza corporal, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Agressão</Label>
+        <Description>Todos os termos relacionados a pessoas agredindo outras pessoas</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Agricultura</Label>
+        <Description>Todos os termos relacionados à agricultura</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Álcool</Label>
+        <Description>Todos os termos relacionados a bebidas alcoólicas e ao seu efeito sobre quem as consome</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Animal</Label>
+        <Description>Todos os termos relacionados ao comportamento animal</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Pecuária</Label>
+        <Description>Todos os termos relacionados ao contexto de pessoas criando animais domésticos para viver disso.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Ungir</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Aparição</Label>
+        <Description>Todos os termos relacionados a aparições de seres sobrenaturais e o modo como os humanos respondem a isso</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Assembléia</Label>
+        <Description>Todos os termos relacionados a comunidades de pessoas reunidas com propósitos religiosos ou outros</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Autoridade</Label>
+        <Description>Todos os termos que têm a ver com a relação entre alguém em posição de autoridade e as pessoas entregues ao seu cuidado. O contrário de ""Submissão""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Beleza</Label>
+        <Description>Todos os termos relacionados à beleza (física)</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>017</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Comportamento</Label>
+        <Description>Todos os termos relacionados à conduta ou comportamento de uma pessoa, o que muitas vezes é descrito na Bíblia Hebraica como uma jornada</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>018</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Bênção e Maldição</Label>
+        <Description>Todos os termos que têm a ver com seres animados pronunciando uma bênção tanto sobre objetos animados como inanimados.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>019</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Corpo</Label>
+        <Description>Todos os termos relacionados ao corpo de animais e do ser humano, incluindo todos os processos naturais a ele relacionados. Ver também ""Doença""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>020</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Suborno</Label>
+        <Description>Todos os termos relacionados ao processo pelo qual pessoas pagam a outras para receber favores e serviços que deveriam ser gratuitos.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>021</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Edifício</Label>
+        <Description>Todos os termos relacionados com uma construção ou prédio, incluindo tudo que está dentro dele</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>022</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Funerais</Label>
+        <Description>Todos os termos relacionados a funeral e enterro, incluindo todos os ritos que deles fazem parte</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>023</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Canibalismo</Label>
+        <Description>Todos os termos relacionados a seres humanos que comem a carne de outros seres humanos, geralmente em casos de fome.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>024</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Calendário</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>025</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Cuidado e Negligência</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>026</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Censo</Label>
+        <Description>Todos os termos relacionados a censos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>027</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Caos</Label>
+        <Description>Todos os termos relacionados a condições na terra ou no universo antes dos eventos descritos em Gênesis 1</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>028</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Ofício</Label>
+        <Description>Todos os termos pertencentes ao quadro de ofícios e das habilidades por eles requeridas</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>029</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Criação</Label>
+        <Description>Todos os termos pertencentes ao quadro da criação divina do mundo</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>030</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Crime</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>031</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Nascimento</Label>
+        <Description>Todos os termos relacionados a menstruação, concepção, gravidez e parto. Para termos relacionados a crianças como perpetuação da linhagem, ver ""Posteridade"". Para termos relacionados a crianças como parte de uma família, ver ""Parentesco"".</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>032</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Circuncisão</Label>
+        <Description>Todos os termos relacionados ao quadro geral da circuncisão</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>033</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Circunstância</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>034</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Cidadão x Estrangeiro</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>035</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Vestuário</Label>
+        <Description>O quadro geral do vestir-se, ornamentar-se, fazer uso de perfumes e cosméticos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>036</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Cor</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>037</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Comércio</Label>
+        <Description>O quadro geral de mercadores/as, suas atividades, suas mercadorias, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>038</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Compaixão</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>039</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Competição</Label>
+        <Description>O quadro de pessoas em busca de superioridade em certa área</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>040</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Controle</Label>
+        <Description>Quadros nos quais um indivíduo ou um grupo ou partido tem controle sobre outro, fora do caminho regular e legal de ""Autoridade""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>041</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Comunicação</Label>
+        <Description>Todos os termos pertencentes ao quadro de comunicação. Relacionado com ""Difamação""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>042</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Comunidade</Label>
+        <Description>Todos os termos relacionados a grupos de pessoas ligadas por um ancestral comum ou provenientes de uma mesma área</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>043</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Confiança e Medo</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>044</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Conflito</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas em conflito</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>045</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Construção</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas construindo um edifício ou outra construção.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>046</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Aliança</Label>
+        <Description>Todos os termos pertencentes ao contexto geral de alianças</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>047</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Decoração</Label>
+        <Description>Todos os termos relacionados a decoração de objetos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>048</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Destruição</Label>
+        <Description>Todos os termos relacionados a destruição de objetos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>049</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Divino</Label>
+        <Description>Todos os termos relacionados a Deus e outros seres sobrenaturais, suas características e atividades.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>050</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sonhos</Label>
+        <Description>Todos os termos relacionados a pessoas que têm sonhos enquanto dormem.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>051</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Seca</Label>
+        <Description>Todos os termos relacionados à ausência prolongada de chuva e suas conseqüências para a terra e para as pessoas que nela vivem</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>052</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Entretenimento</Label>
+        <Description>Todos os termos relacionados a pessoas que entretêm outras pessoas ou a si mesmas.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>053</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Missão</Label>
+        <Description>Quadro geral de pessoa em autoridade enviando pessoas com uma missão</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>054</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Eufemismo</Label>
+        <Description>Todos os termos usados como parte de eufemismos.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>055</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Exílio</Label>
+        <Description>Todos os termos relacionados a pessoas sendo expulsas de sua pátria por um período de tempo</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>056</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Exorcismo</Label>
+        <Description>Todos os termos relacionados ao exorcismo.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>057</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Fidelidade</Label>
+        <Description>Todos os termos relacionados a fidelidade, confiabilidade, lealdade, solidariedade, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>058</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Família</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>059</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Fome</Label>
+        <Description>Todos os termos relacionados à ausência prolongada de comida e suas conseqüências para as pessoas e para a economia</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>060</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Jejum</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>061</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Festas</Label>
+        <Description>Todos os termos relacionados a festas e celebrações regulares do povo</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>062</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Fogo</Label>
+        <Description>Todos os termos relacionados ao fogo, seu comportamento e suas conseqüências</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>063</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Fugir</Label>
+        <Description>Todos os objetos e eventos relacionados a pessoas fugindo de seus inimigos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>064</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Inundação</Label>
+        <Description>Todos os termos relacionados a eventos em que a terra é inundada pela água.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>065</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Alimentação</Label>
+        <Description>Todos os termos relacionados à produção e consumo de alimentos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>066</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Perdão</Label>
+        <Description>Todos os termos relacionados à expiação, reconciliação e perdão.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>067</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Fragrância</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>068</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Liberdade e Escravidão</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>069</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>070</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Genealogia</Label>
+        <Description>Todos os termos relacionados a genealogia</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>071</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Generosidade e Ganância</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>072</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Geografia</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>073</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Grupo</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>074</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Dificuldade</Label>
+        <Description>Todos os termos relacionados a sofrimento e dificuldade.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>075</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Saúde e Doença</Label>
+        <Description>Todos os termos pertencentes ao quadro geral de saúde e doença, tal como doenças, ferimentos, tratamentos, remédios, cura, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>076</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Altos e Baixos</Label>
+        <Description>Todos os termos pertencentes ao quadro de altos e baixos, o que inclui o sentido figurado de status, humildade e orgulho, prosperidade, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>077</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Esconder e Procurar</Label>
+        <Description>Todos os contextos relacionados a pessoas e coisas escondidas em lugares secretos, incluindo os esforços para encontrá-las.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>078</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>História</Label>
+        <Description>Todos os termos relacionados à história.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>079</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sagrado e Comum</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>080</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Lar</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>081</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Hospitalidade</Label>
+        <Description>Quadro de pessoas recebendo hóspedes, com as responsabilidades que fazem parte disso</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>082</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Casa</Label>
+        <Description>Todos os termos relacionados à casa de uma pessoa e todas as atividades relacionadas.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>083</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Humano</Label>
+        <Description>Todos os termos referentes ao âmbito dos seres humanos, em contraste com divindades, animais e objetos inanimados.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>084</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Humildade e Orgulho</Label>
+        <Description>Todos os termos relacionados a atitudes ligadas à auto-estima, da humildade ao orgulho</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>085</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Caça e Pesca</Label>
+        <Description>Todos os termos relacionados a caça, pesca e coleta.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>086</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Idolatria</Label>
+        <Description>Todos os termos relacionados a idolatria como forma de culto proibida</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>087</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Incesto</Label>
+        <Description>Todos os termos relacionados a relacionamentos incestuosos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>088</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Indústria</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>089</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Infra-estrutura</Label>
+        <Description>Todos os termos relacionados a estradas e outras formas de infra-estrutura</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>090</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Herança</Label>
+        <Description>?</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>091</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Insultar</Label>
+        <Description>Este campo inclui todos os termos relacionados a e usados como insulto</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>092</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Intensidade</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>093</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Juros</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>094</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Ironia</Label>
+        <Description>Quadro de ironia e sarcasmo</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>095</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Viagem</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas viajando, seja em grupos ou sozinhas, incluindo os preparativos, os meios de viagem (veículo, mula, cavalo), etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>096</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Alegria e Tristeza</Label>
+        <Description>Todos os termos relacionados às emoções de alegria e tristeza.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>097</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Jubileu</Label>
+        <Description>Todos os termos pertencentes ao quadro do ano do Jubileu</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>098</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Justiça</Label>
+        <Description>Todos os termos relacionados a justiça e comportamento justo no governo, nos tribunais e nas relações humanas</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>099</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Beijo</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>100</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Lâmpada</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>101</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Terra</Label>
+        <Description>Todos os termos referentes à terra ou região onde se encontra estabelecido um povo</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>102</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Lei</Label>
+        <Description>Todos os termos pertencentes ao quadro geral de lei, tanto de Deus como dos humanos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>103</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Vida e Morte</Label>
+        <Description>Todos os termos relacionados ao período de vida de objetos animados</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>104</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Luz e Escuridão</Label>
+        <Description>Todos os termos relacionados a luz e escuridão e às graduações intermediárias</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>105</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Líquidos</Label>
+        <Description>Todos os termos pertencentes ao quadro geral de líquidos e o modo como se comportam, tal como fluir, derramar, congelar, etc. Este quadro se sobrepõe parcialmente ao quadro de ""Água"", mesmo que este último abranja apenas lençóis de água na natureza</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>106</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Empréstimo</Label>
+        <Description>Todos os termos pertencentes ao quadro de empréstimos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>107</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sortes</Label>
+        <Description>Quadro de lançar sortes com o propósito de determinar qual é a vontade de Deus em relação a uma certa questão</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>108</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Magia</Label>
+        <Description>Todos os termos pertencentes ao quadro de atividades ligadas à magia, tais como bruxaria, feitiços, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>109</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Casamento</Label>
+        <Description>Todos os termos relacionados a casamento</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>110</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Mediação</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>111</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Mente</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>112</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Mineração</Label>
+        <Description>Todos os termos relacionados a mineração</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>113</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Dinheiro</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>114</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Monumentos</Label>
+        <Description>Todos os termos relacionados a monumentos e outros símbolos usados para comemorar pessoas ou eventos importantes</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>115</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Lamentação</Label>
+        <Description>Todos os termos relacionados a lamentação, como chorar, rasgar as roupas, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>116</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Movimento</Label>
+        <Description>Todos os termos relacionados a movimento</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>117</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Música e Dança</Label>
+        <Description>?</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>118</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Nomes</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>119</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Nazireu</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>120</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Nação</Label>
+        <Description>Todos os termos relacionados a nações e suas condutas. Para as relações entre nações, ver ""Política""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>121</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Natureza</Label>
+        <Description>Todos os termos que têm a ver com objetos encontrados na natureza. Este campo contextual muitas vezes é redundante. É útil especialmente em casos onde se empregam metáforas contextuais. Tome-se como exemplo um caso em que uma prostituta é comparada a um p</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>122</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Navegação</Label>
+        <Description>Quadro para navegação, incluindo navios, tripulantes, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>123</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Nômade</Label>
+        <Description>Todos os termos relacionados a povos nômades e seu modo de viver, de viajar, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>124</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Juramento</Label>
+        <Description>Todos os termos relacionados a juramentos, votos, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>125</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Servidores do Rei/Rainha</Label>
+        <Description>Todos os termos relacionados a pessoas trabalhando numa corte real</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>126</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Opressão</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>127</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Permanência</Label>
+        <Description>Todos os termos relacionados ao quadro em torno da questão de se coisas ou condições são permanentes ou não</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>128</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Pais e Filhos</Label>
+        <Description>Todos os termos pertencentes ao quadro de relações de pais e mães com seus filhos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>129</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Contaminação Física</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>130</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Praga</Label>
+        <Description>Todos os termos pertencentes ao quadro de pragas, tal como epidemias, desastres naturais, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>131</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Plano</Label>
+        <Description>Todos os termos pertencentes ao processo de fazer planos, sejam estes bons ou maus</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>132</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Planta</Label>
+        <Description>Todos os termos pertencentes ao quadro de plantas, seu comportamento, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>133</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Garantia</Label>
+        <Description>Todos os termos pertencentes ao quadro de dar ou receber garantias por empréstimos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>134</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Política</Label>
+        <Description>Todos os termos pertencentes ao quadro de relações entre nações</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>135</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Posses</Label>
+        <Description>Todos os termos pertencentes ao quadro de posses, incluindo comprar, vender, roubo, empréstimos, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>136</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Posteridade</Label>
+        <Description>Todos os termos pertencentes ao quadro de ter descendência e da necessidade de preservar a linhagem familiar. Termos relacionados à concepção, gravidez e parto pertencem ao campo semântico "Nascimento". Termos relacionados a crianças como parte da própria família pertencem ao campo semântico "Parentesco"</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>137</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Oração</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas orando</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>138</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sacerdócio</Label>
+        <Description>Todos os termos pertencentes ao quadro ""sacerdotes"", sua função, vestes, etc.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>139</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Profecia</Label>
+        <Description>O quadro de profeta ou visionário, e a atividade de entrar em transe e profetizar</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>140</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Prostituição</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>141</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Providência</Label>
+        <Description>Todos os termos pertencentes ao quadro de Deus que está ativamente envolvido com as pessoas sob seu cuidado. Relacionado ao campo ""Julgamento""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>142</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Punição</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas sendo punidas por outras pessoas. Quando quem pune é Deus, é usado o campo semântico ""Julgamento""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>143</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Qualidade</Label>
+        <Description>Quadro da qualidade</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>144</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Quantidade</Label>
+        <Description>Quadro da quantidade</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>145</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Realidade</Label>
+        <Description>Todos os termos relacionados à ocorrência real dos eventos.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>146</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Recompensa</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>147</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Redenção</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>148</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Refúgio</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas buscando refúgio por medo de morrer, seja em uma cidade de refúgio ou agarrando-se às pontas do altar</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>149</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Relacionamento</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>150</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Relembrar</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>151</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Respeito</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas mostrando respeito por outras pessoas e/ou seus méritos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>152</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Responsabilidade</Label>
+        <Description>Todos os termos pertencentes ao quadro de responsabilidade pelas próprias ações</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>153</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Representação</Label>
+        <Description>Todos os termos relacionados a representação, tal como objetos representando pessoas ou outros objetos, ou pessoas representando uma tribo, clã ou outra unidade familiar</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>154</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Contaminação Ritual</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>155</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Realeza</Label>
+        <Description>Todos os termos relacionados à realeza, incluindo nomes, atributos, rituais de consagração ou entronização, privilégios, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>156</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sacrifícios e Ofertas</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>157</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Santuário</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>158</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Satisfação</Label>
+        <Description>?</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>159</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Segurança</Label>
+        <Description>Todos os termos relacionados a sentir-se seguro</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>160</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Segredo</Label>
+        <Description>Todos os termos pertencentes ao quadro relacionado à questão de se determinado conhecimento é público ou restrito</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>161</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Ser, Alma</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>162</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sentidos</Label>
+        <Description>Todos os termos relacionados aos sentidos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>163</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sexo</Label>
+        <Description>Todos os termos pertencentes ao quadro de pessoas tendo relações sexuais</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>164</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Forma</Label>
+        <Description>Todos os termos relacionados à forma de objetos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>165</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Pastoreio</Label>
+        <Description>Todos os termos relacionados a humanos cuidando de animais domésticos, incluindo todos os objetos e atividades relacionados</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>166</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Cerco</Label>
+        <Description>Todos os termos relacionados a cerco militar ou bélico</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>167</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Significância</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>168</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sinais e Maravilhas</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>169</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Similaridade e Diferença</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>170</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Tamanho</Label>
+        <Description>Todos os termos relacionados ao tamanho de objetos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>171</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Calúnia</Label>
+        <Description>Todos os termos pertencentes ao quadro de falatório e difamação</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>172</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Escravidão</Label>
+        <Description>Todos os objetos e eventos pertencentes ao contexto de escravidão</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>173</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Dormir</Label>
+        <Description>Todos os termos relacionados a dormir, sonhar, acordar, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>174</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Som</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>175</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Espaço</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>176</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Velocidade</Label>
+        <Description>Todos os termos relacionados a velocidade</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>177</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Estágio</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>178</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Postura</Label>
+        <Description>Todos os termos relacionados à postura corporal</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>179</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Estado</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>180</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Status</Label>
+        <Description>Todos os termos relacionados à posição social de pessoas</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>181</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Armazenamento</Label>
+        <Description>Todos os termos relacionados a armazenamento de objetos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>182</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Força</Label>
+        <Description>Todos os termos relacionados a força ou fraqueza física</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>183</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sucesso e Fracasso</Label>
+        <Description>Todos os termos relacionados à questão de se certas ações têm êxito ou não</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>184</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Nadar</Label>
+        <Description>Todos os termos relacionados a nadar</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>185</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Símbolo</Label>
+        <Description>Todos os termos relacionados a símbolos</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>186</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Impostos, Tributo e Dízimos</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>187</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Temperamento</Label>
+        <Description>Todos os termos relacionados ao temperamento de alguém, incluindo termos referentes à paciência</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>188</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Temperatura</Label>
+        <Description>Todos os termos pertencentes ao quadro de temperatura, de frio a quente. Está relacionado e se sobrepõe parcialmente aos campos ""Clima"" e ""Vento""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>189</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Tenda</Label>
+        <Description>Todos os termos relacionados a tendas ou outras construções temporárias</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>190</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Testemunho</Label>
+        <Description>Todos os termos relacionados a pessoas testemunhando a respeito de bem ou mal que tenha sido feito a elas próprias ou a outra(s) pessoa(s)</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>191</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Tempo</Label>
+        <Description>?</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>192</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Ferramenta</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>193</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Cidade</Label>
+        <Description>Todos os termos pertencentes ao quadro de cidades e outros centros populacionais, incluindo tudo que é parte deles, como muros, rampas, portões, trancas, etc</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>194</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Transação</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>195</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Tradução</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>196</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Verdade e Falsidade</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>197</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Universo</Label>
+        <Description>Todos os termos pertencentes ao quadro ""universo""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>198</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Valor</Label>
+        <Description>Todos os termos relacionados ao valor atribuído a determinados objetos ou eventos por seres animados</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>199</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Veículo</Label>
+        <Description>Todos os termos relacionados a meios de transporte com rodas, tais como carroças e carros</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>200</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Guerra</Label>
+        <Description>Todos os termos pertencentes ao quadro de guerra e atividades militares relacionadas</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>201</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Água</Label>
+        <Description>Todos os termos pertencentes ao quadro de lençóis naturais de água e seu comportamento. Sobrepõe-se parcialmente a ""Líquidos""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>202</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Peso</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>203</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Escrever</Label>
+        <Description>Todos os termos relacionados a escrever</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>204</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Riqueza e Pobreza</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>205</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Clima</Label>
+        <Description>Todos os termos pertencentes ao quadro de condições climáticas. Relacionado e parcialmente sobreposto a ""Temperatura"", ""Vento""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>206</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Tecelagem</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>207</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Chorar</Label>
+        <Description>Todos os termos pertencentes ao contexto de chorar</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>208</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Poço</Label>
+        <Description>Todos os termos relacionados a poços, cisternas e outros lugares onde se pode obter água</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>209</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Bem-Estar</Label>
+        <Description>Uma condição em que há paz e segurança em todos os aspectos da vida e a mente está em repouso, como no conceito hebraico de שָׁלוֹם</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>210</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Disposição</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>211</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Vento</Label>
+        <Description>Todos os termos pertencentes ao quadro de vento e o que ele faz ou pode fazer à natureza. Relacionado e parcialmente sobreposto a ""Temperatura"" e ""Clima""</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>212</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Sabedoria</Label>
+        <Description>Todos os termos relacionados a sabedoria, conhecimento e compreensão, incluindo toda a terminologia relacionada a esforços no sentido de comunicar isto a outras pessoas, e as reações das pessoas a estes esforços</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>213</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Madeira</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>214</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Trabalho</Label>
+        <Description>Todos os termos pertencentes ao quadro de trabalho, incluindo remuneração</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>215</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="pt">
+        <Label>Adoração</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>1</Level>
+    <Prototype />
+    <Reference />
+    <Code>216</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+</Domains>

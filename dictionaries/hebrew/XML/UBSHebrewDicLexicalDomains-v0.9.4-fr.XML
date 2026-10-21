@@ -17,16 +17,30 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Êtres</Label>
+        <Description>Tous les êtres surnaturels, les humains et les animaux.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>2</Level>
     <Prototype />
     <Reference />
     <Code>001001</Code>
-    <HasSubDomains>false</HasSubDomains>
+    <HasSubDomains>true</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Divinités</Label>
+        <Description>Tous les êtres surnaturels et leurs manifestations.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>3</Level>
     <Prototype />
     <Reference />
@@ -165,7 +179,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Catégories</Label>
+        <Label>Classes sociales</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -261,7 +275,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Responsables</Label>
+        <Label>Fonctionnaires</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -389,7 +403,39 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Régions de la Terre</Label>
+        <Label>Esprits</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Parties du corps</Label>
+        <Description>Tous les termes désignant les parties du corps des humains et des animaux, et — généralement par extension — des divinités.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Monde naturel</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -419,11 +465,34 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Ciel</Label>
+        <Description>Tous les termes désignant la région au-dessus de la terre, à l'exception des corps célestes tels que le soleil, la lune et les étoiles.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>3</Level>
     <Prototype />
     <Reference />
     <Code>001002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Terre</Label>
+        <Description>Tous les termes relatifs à la terre en relation avec les personnes qui y habitent ou qui s'y engagent d'une autre manière.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002003</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -439,7 +508,7 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
-    <Code>001002003</Code>
+    <Code>001002004</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -455,7 +524,7 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
-    <Code>001002004</Code>
+    <Code>001002005</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -471,7 +540,7 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
-    <Code>001002005</Code>
+    <Code>001002006</Code>
     <HasSubDomains>true</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -487,14 +556,14 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005001</Code>
+    <Code>001002006001</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Bitume ?</Label>
+        <Label>Bitume</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -503,7 +572,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005002</Code>
+    <Code>001002006002</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -519,7 +588,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005003</Code>
+    <Code>001002006003</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -535,7 +604,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005004</Code>
+    <Code>001002006004</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -551,7 +620,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005005</Code>
+    <Code>001002006005</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -567,7 +636,7 @@
     <Level>4</Level>
     <Prototype>אֵשׁ</Prototype>
     <Reference />
-    <Code>001002005006</Code>
+    <Code>001002006006</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -583,7 +652,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005007</Code>
+    <Code>001002006007</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -599,7 +668,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005008</Code>
+    <Code>001002006008</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -615,7 +684,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005009</Code>
+    <Code>001002006009</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -631,7 +700,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005010</Code>
+    <Code>001002006010</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -647,16 +716,23 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005011</Code>
+    <Code>001002006011</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Fumée</Label>
+        <Description>Tous les termes désignant les gaz et vapeurs produits par le feu.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005012</Code>
+    <Code>001002006012</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -672,7 +748,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005013</Code>
+    <Code>001002006013</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -688,23 +764,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005014</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Esprit</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype>רוּחַ</Prototype>
-    <Reference />
-    <Code>001002005015</Code>
+    <Code>001002006014</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -720,7 +780,7 @@
     <Level>4</Level>
     <Prototype>אֶבֶן</Prototype>
     <Reference />
-    <Code>001002005016</Code>
+    <Code>001002006015</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -736,7 +796,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002005017</Code>
+    <Code>001002006016</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -752,34 +812,55 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
-    <Code>001002006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations />
-    <Level>3</Level>
-    <Prototype />
-    <Reference />
     <Code>001002007</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Végétation</Label>
+        <Description>Toute la végétation.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002008</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Plantes</Label>
+        <Description>Toutes les plantes.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002007001</Code>
+    <Code>001002008001</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Arbres</Label>
+        <Description>Tous les arbres.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002007002</Code>
+    <Code>001002008002</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -795,14 +876,14 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
-    <Code>001002008</Code>
+    <Code>001002009</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Régions de la Terre</Label>
+        <Label>Monde artificiel</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -850,22 +931,6 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Bannières</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>5</Level>
-    <Prototype>נֵס</Prototype>
-    <Reference />
-    <Code>001003001001001</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
         <Label>Vêtements</Label>
         <Description />
         <Opposite />
@@ -875,7 +940,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001002</Code>
+    <Code>001003001001001</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -891,7 +956,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001003</Code>
+    <Code>001003001001002</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -907,7 +972,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001004</Code>
+    <Code>001003001001003</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -923,14 +988,14 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001005</Code>
+    <Code>001003001001004</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Objects cultuels</Label>
+        <Label>Objets cultuels</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -939,7 +1004,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001006</Code>
+    <Code>001003001001005</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -955,7 +1020,7 @@
     <Level>5</Level>
     <Prototype>תַּנּוּר</Prototype>
     <Reference />
-    <Code>001003001001007</Code>
+    <Code>001003001001006</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -971,7 +1036,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001008</Code>
+    <Code>001003001001007</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -987,7 +1052,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001009</Code>
+    <Code>001003001001008</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1003,7 +1068,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001010</Code>
+    <Code>001003001001009</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1019,7 +1084,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001011</Code>
+    <Code>001003001001010</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1035,7 +1100,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001012</Code>
+    <Code>001003001001011</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1051,7 +1116,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001013</Code>
+    <Code>001003001001012</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1067,7 +1132,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001014</Code>
+    <Code>001003001001013</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1083,16 +1148,23 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001015</Code>
+    <Code>001003001001014</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Signes</Label>
+        <Description>Tous les signes visibles, tels que les drapeaux, les bannières, les étendards et autres objets qui font office de signes visibles.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001016</Code>
+    <Code>001003001001015</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1108,7 +1180,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001017</Code>
+    <Code>001003001001016</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1124,7 +1196,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001018</Code>
+    <Code>001003001001017</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1140,7 +1212,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001019</Code>
+    <Code>001003001001018</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1156,7 +1228,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>001003001001020</Code>
+    <Code>001003001001019</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1211,7 +1283,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Culture</Label>
+        <Label>Cultures</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1323,7 +1395,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Fortifications</Label>
+        <Label>Tas de fumier</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1339,7 +1411,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Monuments</Label>
+        <Label>Fortifications</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1355,7 +1427,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Ports</Label>
+        <Label>Mines et Carrières</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1371,7 +1443,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Prisons</Label>
+        <Label>Monuments</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1385,7 +1457,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Ports</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1396,7 +1475,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Stalles</Label>
+        <Label>Prisons</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1412,6 +1491,47 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Routes</Label>
+        <Description>Toutes les constructions d'infrastructure qui facilitent le voyage et le transport d'un lieu à un autre.</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Stalles</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
         <Label>Tentes</Label>
         <Description />
         <Opposite />
@@ -1421,7 +1541,7 @@
     <Level>4</Level>
     <Prototype>אֹהֶל</Prototype>
     <Reference />
-    <Code>001003002009</Code>
+    <Code>001003002012</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1437,7 +1557,7 @@
     <Level>4</Level>
     <Prototype>קֶבֶר</Prototype>
     <Reference />
-    <Code>001003002010</Code>
+    <Code>001003002013</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1453,7 +1573,7 @@
     <Level>4</Level>
     <Prototype>עִיר</Prototype>
     <Reference />
-    <Code>001003002011</Code>
+    <Code>001003002014</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1469,7 +1589,7 @@
     <Level>4</Level>
     <Prototype>חֹומָה</Prototype>
     <Reference />
-    <Code>001003002012</Code>
+    <Code>001003002015</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1485,7 +1605,7 @@
     <Level>4</Level>
     <Prototype>בֹּאר</Prototype>
     <Reference />
-    <Code>001003002013</Code>
+    <Code>001003002016</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -1540,7 +1660,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Capacité</Label>
+        <Label>Capable</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1556,7 +1676,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Agilité</Label>
+        <Label>Agile</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1588,7 +1708,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Sommeil</Label>
+        <Label>Endormi</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1604,7 +1724,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Réveil</Label>
+        <Label>Éveillé</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1652,7 +1772,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Arc</Label>
+        <Label>S'incliner</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1668,8 +1788,8 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Brûlure</Label>
-        <Description />
+        <Label>Brûler</Label>
+        <Description>Événements impliquant le feu, ex. בער</Description>
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -1874,7 +1994,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Expressions Faciales</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1883,7 +2010,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Identifier</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1908,14 +2042,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Ingestion</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1926,7 +2053,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Non ingéré</Label>
+        <Label>Ingestion</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1942,7 +2069,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Excrétion</Label>
+        <Label>Non ingéré</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1958,7 +2085,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Graisse</Label>
+        <Label>Excrétion</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1972,7 +2099,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Gras</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1981,7 +2115,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Peu</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1992,7 +2133,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Bon</Label>
+        <Label>Fréquent</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2008,7 +2149,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Lourd</Label>
+        <Label>Bon</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2024,7 +2165,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Saint</Label>
+        <Label>Lourd</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2040,7 +2181,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Chaud</Label>
+        <Label>Saint</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2056,7 +2197,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Haut/Elevé</Label>
+        <Label>Chaud</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2070,7 +2211,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Haut/Elevé</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2081,7 +2229,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Large/vaste</Label>
+        <Label>Peu fréquent</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2097,7 +2245,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Petit</Label>
+        <Label>Large/vaste</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2111,14 +2259,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Long</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2129,7 +2270,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Faible/bas</Label>
+        <Label>Petit</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2145,7 +2286,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Vieux/ancien</Label>
+        <Label>Long</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2161,7 +2302,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Ouvert</Label>
+        <Label>Faible/bas</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2175,14 +2316,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Pauvre</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2202,7 +2336,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Plein/Enceinte ?</Label>
+        <Label>Vieux/ancien</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2218,7 +2352,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Quantité</Label>
+        <Label>Ouvert</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2234,7 +2368,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Trempe</Label>
+        <Label>Pauvre</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2250,7 +2384,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Brut/naturel</Label>
+        <Label>Enceinte/Pleine</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2264,14 +2398,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Limite</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2282,7 +2409,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Riche</Label>
+        <Label>Extinction</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2298,7 +2425,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Sexe</Label>
+        <Label>Cru</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2312,14 +2439,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Forme</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2330,7 +2450,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Brillance/éclat</Label>
+        <Label>Riche</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2346,7 +2466,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Court</Label>
+        <Label>Sexe</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2362,7 +2482,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Malade</Label>
+        <Label>Forme</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2378,7 +2498,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Similaire</Label>
+        <Label>Brillance/éclat</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2394,7 +2514,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Doux</Label>
+        <Label>Court</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2410,7 +2530,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Solide</Label>
+        <Label>Malade</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2426,7 +2546,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Spasme</Label>
+        <Label>Similaire</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2442,7 +2562,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Etape/Phase</Label>
+        <Label>Doux</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2458,7 +2578,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Position/posture</Label>
+        <Label>Solide</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2474,7 +2594,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Stable/Constant/régulier</Label>
+        <Label>Spasme</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2490,7 +2610,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Fort</Label>
+        <Label>Etape/Phase</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2506,7 +2626,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Maigre</Label>
+        <Label>Position/posture</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2522,7 +2642,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Incapable</Label>
+        <Label>Stable/Constant/régulier</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2538,7 +2658,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Impur</Label>
+        <Label>Fort</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2554,7 +2674,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Instable</Label>
+        <Label>Maigre</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2568,7 +2688,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Incapable</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2579,7 +2706,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Faible</Label>
+        <Label>Impur</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2595,7 +2722,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Poids</Label>
+        <Label>Instable</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2611,7 +2738,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Humide</Label>
+        <Label>Utiliser</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2627,7 +2754,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Ecrire</Label>
+        <Label>Faible</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2643,7 +2770,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Jeune</Label>
+        <Label>Poids</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2653,6 +2780,54 @@
     <Prototype />
     <Reference />
     <Code>002001001073</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Humide</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001074</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Ecrire</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001075</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Jeune</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001076</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -3075,7 +3250,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Discipline</Label>
+        <Label>Apprivoisé</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3139,7 +3314,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Indigne/Misérable</Label>
+        <Label>Sans valeur</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3155,7 +3330,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Involontaire</Label>
+        <Label>Réticent</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3249,14 +3424,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Facile</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3283,7 +3451,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>False</Label>
+        <Label>Faux</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3315,7 +3483,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Difficile</Label>
+        <Label>Imminent</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3331,7 +3499,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Imminent</Label>
+        <Label>Intense</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3347,7 +3515,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Intense</Label>
+        <Label>Lâche</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3363,7 +3531,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Lâche</Label>
+        <Label>Droit/Juste</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3379,7 +3547,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Droit/Juste</Label>
+        <Label>Simple</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3395,7 +3563,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Simple</Label>
+        <Label>Lent</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3409,14 +3577,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Lent</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3427,7 +3588,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Trivial</Label>
+        <Label>Insignifiant</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3443,7 +3604,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>True</Label>
+        <Label>Vrai</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3539,7 +3700,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Revers/Coup</Label>
+        <Label>Souffle</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3569,7 +3730,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Non-Contenir</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3594,7 +3762,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Trouver</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3635,7 +3810,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Absence de flux</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3646,7 +3828,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Cachette</Label>
+        <Label>Se Cacher/Dissimulation</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3692,7 +3874,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Absence de mouvement</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3703,7 +3892,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Plante</Label>
+        <Label>Planter</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3717,7 +3906,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Rester</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -4112,7 +4308,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Annexe</Label>
+        <Label>Attache/Attacher</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4144,7 +4340,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Transporter</Label>
+        <Label>S'accoupler</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4160,7 +4356,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>S'accoupler</Label>
+        <Label>Couverture/revêtement</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4176,7 +4372,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Couverture/revêtement</Label>
+        <Label>Détacher</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4190,15 +4386,6 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>002003001006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
         <Label>Habillement</Label>
@@ -4207,6 +4394,15 @@
         <Comment />
       </SemanticDomainLocalization>
     </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -4247,7 +4443,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Absence de prise</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -4400,7 +4603,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Entier/Complet</Label>
+        <Description>Événements dénotant des objets complets, sans dommage</Description>
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -4409,18 +4619,9 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>002003001021</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Lutte</Label>
+        <Label>Non-Entier</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4429,7 +4630,7 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>002003001022</Code>
+    <Code>002003001021</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -4468,7 +4669,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Associé</Label>
+        <Label>S'associer</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4685,7 +4886,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Rencontre</Label>
+        <Label>Se Marier</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4701,7 +4902,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Négligence</Label>
+        <Label>Rencontre</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4717,7 +4918,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Non-Possession</Label>
+        <Label>Négligence</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4733,7 +4934,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Possession</Label>
+        <Label>Non-Possession</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4749,7 +4950,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Réconciliation/rapprochement</Label>
+        <Label>Possession</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4765,7 +4966,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Sacrifice</Label>
+        <Label>Réconciliation/rapprochement</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4781,7 +4982,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Dispersion</Label>
+        <Label>Sacrifice</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4797,7 +4998,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Service</Label>
+        <Label>Dispersion</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4807,6 +5008,22 @@
     <Prototype />
     <Reference />
     <Code>002003002023</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Service</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002024</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -4875,7 +5092,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Absence de responsabilité</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -4932,7 +5156,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Retard</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -5087,7 +5318,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Péché</Label>
+        <Label>Pécher</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5215,7 +5446,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Sentiment</Label>
+        <Label>Ressentir</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5391,7 +5622,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Goût</Label>
+        <Label>Goûter</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5407,8 +5638,8 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Complet</Label>
-        <Description />
+        <Label>Proférer</Label>
+        <Description>proférer des sons</Description>
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -5583,7 +5814,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Répliquer</Label>
+        <Label>Injurier</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5599,22 +5830,6 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Réprimander</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>5</Level>
-    <Prototype />
-    <Reference />
-    <Code>002004001009012</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
         <Label>Vœu</Label>
         <Description />
         <Opposite />
@@ -5624,7 +5839,7 @@
     <Level>5</Level>
     <Prototype />
     <Reference />
-    <Code>002004001009013</Code>
+    <Code>002004001009012</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -5743,8 +5958,8 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Juge</Label>
-        <Description />
+        <Label>Juger</Label>
+        <Description>À prendre une décision concernant un individu ou un groupe, généralement pour déterminer si leurs actions sont bonnes ou mauvaises.</Description>
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -5823,7 +6038,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Partiel</Label>
+        <Label>Partial</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6031,7 +6246,7 @@
   <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Noms de peuples</Label>
+        <Label>Noms de personnes</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6201,11 +6416,18 @@
     <Prototype />
     <Reference />
     <Code>003001017</Code>
-    <HasSubDomains>false</HasSubDomains>
+    <HasSubDomains>true</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Titres pour les divinités</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -6214,7 +6436,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Titres pour les humains</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -6239,15 +6468,6 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
-    <Level>3</Level>
-    <Prototype />
-    <Reference />
-    <Code>003002001</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
     <SemanticDomainLocalizations>
       <SemanticDomainLocalization LanguageCode="fr">
         <Label>Références circonstancielles</Label>
@@ -6259,7 +6479,7 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
-    <Code>003002002</Code>
+    <Code>003002001</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -6275,12 +6495,35 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
+    <Code>003002002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Références de groupe</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
     <Code>003002003</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="fr">
+        <Label>Références perceptuelles</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>3</Level>
     <Prototype />
     <Reference />
@@ -6317,166 +6560,6 @@
     <Prototype />
     <Reference />
     <Code>003002006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Marqueurs/repères</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>1</Level>
-    <Prototype />
-    <Reference />
-    <Code>004</Code>
-    <HasSubDomains>true</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Affirmations</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004001</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Contrastes</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004002</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Identifiants</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004003</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Extensions</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004004</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Évaluateurs</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004005</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Négateurs</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Restrictions/Limitateurs</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004007</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Stipulations</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004008</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="fr">
-        <Label>Marqueurs de temps</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004009</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>

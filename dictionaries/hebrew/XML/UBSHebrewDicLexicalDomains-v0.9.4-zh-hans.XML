@@ -2,8 +2,8 @@
 <Domains xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>物體</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>物体</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -22,7 +22,7 @@
     <Prototype />
     <Reference />
     <Code>001001</Code>
-    <HasSubDomains>false</HasSubDomains>
+    <HasSubDomains>true</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
@@ -36,8 +36,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>動物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>动物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -52,8 +52,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>野生動物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>野生动物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -68,8 +68,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>馴養動物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>驯养动物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -84,8 +84,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>小型動物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>小型动物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -100,8 +100,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>水生動物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>水生动物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -116,8 +116,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>鳥類</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>鸟类</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -132,7 +132,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>群聚生物</Label>
         <Description />
         <Opposite />
@@ -148,7 +148,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>人</Label>
         <Description />
         <Opposite />
@@ -164,8 +164,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>階級</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>阶级</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -180,8 +180,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>仇敵</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>仇敌</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -196,7 +196,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>朋友</Label>
         <Description />
         <Opposite />
@@ -212,8 +212,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>群體</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>群体</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -228,8 +228,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>領袖</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>领袖</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -244,7 +244,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>信使</Label>
         <Description />
         <Opposite />
@@ -260,8 +260,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>官員</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>官员</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -276,7 +276,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>祭司</Label>
         <Description />
         <Opposite />
@@ -292,8 +292,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>職業</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>职业</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -308,7 +308,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>先知</Label>
         <Description />
         <Opposite />
@@ -324,7 +324,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>妓女</Label>
         <Description />
         <Opposite />
@@ -340,8 +340,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>親屬</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>亲属</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -356,7 +356,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>士兵</Label>
         <Description />
         <Opposite />
@@ -372,8 +372,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>見證人</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>见证人</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -387,8 +387,26 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001001005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>地面上的地方</Label>
         <Description />
         <Opposite />
@@ -404,9 +422,9 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>天體</Label>
-        <Description>地球上空的所有天體，如太陽、月亮、星星、星座等。</Description>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>天体</Label>
+        <Description>地球上空的所有天体，如太阳、月亮、星星、星座等。</Description>
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
@@ -419,14 +437,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>陸地</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>3</Level>
     <Prototype />
     <Reference />
@@ -436,8 +447,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>地形</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>陆地</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -452,8 +463,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>景觀</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>地形</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -468,8 +479,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>物質</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>景观</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -479,278 +490,13 @@
     <Prototype />
     <Reference />
     <Code>001002005</Code>
-    <HasSubDomains>true</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>空氣</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005001</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>瀝青</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005002</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>布料</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005003</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>雲</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005004</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>塵土</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005005</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>火</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype>אֵשׁ</Prototype>
-    <Reference />
-    <Code>001002005006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>液體</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005007</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>金屬</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005008</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>礦物</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005009</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>塗料</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005010</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>雨</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005011</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations />
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005012</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>肥皂</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005013</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>香料</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005014</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>烈酒</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype>רוּחַ</Prototype>
-    <Reference />
-    <Code>001002005015</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>石頭</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype>אֶבֶן</Prototype>
-    <Reference />
-    <Code>001002005016</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>木頭</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>001002005017</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>地面以下的地方</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>物质</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -760,11 +506,267 @@
     <Prototype />
     <Reference />
     <Code>001002006</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>空气</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006001</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>沥青</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006002</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>布料</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006003</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>云</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006004</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>尘土</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006005</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>火</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>אֵשׁ</Prototype>
+    <Reference />
+    <Code>001002006006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>液体</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006007</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>金属</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006008</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>矿物</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>涂料</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>雨</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006011</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006012</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>肥皂</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006013</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>香料</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006014</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>石头</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype>אֶבֶן</Prototype>
+    <Reference />
+    <Code>001002006015</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>木头</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002006016</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>地面以下的地方</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>3</Level>
     <Prototype />
     <Reference />
@@ -774,10 +776,19 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations />
+    <Level>3</Level>
+    <Prototype />
+    <Reference />
+    <Code>001002008</Code>
+    <HasSubDomains>true</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002007001</Code>
+    <Code>001002008001</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
@@ -786,14 +797,14 @@
     <Level>4</Level>
     <Prototype />
     <Reference />
-    <Code>001002007002</Code>
+    <Code>001002008002</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>水體</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>水体</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -802,13 +813,13 @@
     <Level>3</Level>
     <Prototype />
     <Reference />
-    <Code>001002008</Code>
+    <Code>001002009</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>地面上的地方</Label>
         <Description />
         <Opposite />
@@ -824,8 +835,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>產物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>产物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -840,8 +851,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>人工製品</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>人工制品</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -856,15 +867,15 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>旗幟</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>衣物</Label>
         <Description />
         <Opposite />
         <Comment />
       </SemanticDomainLocalization>
     </SemanticDomainLocalizations>
     <Level>5</Level>
-    <Prototype>נֵס</Prototype>
+    <Prototype />
     <Reference />
     <Code>001003001001001</Code>
     <HasSubDomains>false</HasSubDomains>
@@ -872,8 +883,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>衣物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 容器</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -888,8 +899,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 容器</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>绳子</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -904,8 +915,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>繩子</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>覆盖物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -920,8 +931,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>覆蓋物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 敬拜物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -936,24 +947,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 敬拜物</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>5</Level>
-    <Prototype />
-    <Reference />
-    <Code>001003001001006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>熔爐</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>熔炉</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -962,14 +957,30 @@
     <Level>5</Level>
     <Prototype>תַּנּוּר</Prototype>
     <Reference />
+    <Code>001003001001006</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>家具摆设</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>5</Level>
+    <Prototype />
+    <Reference />
     <Code>001003001001007</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>家具擺設</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>宝石</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -984,8 +995,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>寶石</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>塑像</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1000,8 +1011,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>塑像</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>首饰</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1016,8 +1027,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>首飾</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>灯</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1032,8 +1043,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>燈</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>乐器</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1048,8 +1059,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>樂器</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>卷轴</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1064,8 +1075,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>卷軸</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>船</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1079,14 +1090,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>船</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>5</Level>
     <Prototype />
     <Reference />
@@ -1095,7 +1099,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>工具</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>5</Level>
     <Prototype />
     <Reference />
@@ -1105,8 +1116,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>工具</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 陷阱</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1121,8 +1132,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 陷阱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>车辆</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1137,8 +1148,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>車輛</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>武器</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1153,24 +1164,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>武器</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>5</Level>
-    <Prototype />
-    <Reference />
-    <Code>001003001001020</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>身體的產物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>身体的产物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1185,7 +1180,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>食物</Label>
         <Description />
         <Opposite />
@@ -1201,8 +1196,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>餅</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>饼</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1217,8 +1212,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 農作物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 农作物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1233,8 +1228,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>乳製品</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>乳制品</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1249,7 +1244,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>果子</Label>
         <Description />
         <Opposite />
@@ -1265,7 +1260,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>酒</Label>
         <Description />
         <Opposite />
@@ -1281,7 +1276,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>建造物</Label>
         <Description />
         <Opposite />
@@ -1297,8 +1292,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>建築物</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>建筑物</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1313,8 +1308,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>敬拜場所</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>敬拜场所</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1328,14 +1323,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>防御工事</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1345,8 +1333,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>紀念碑</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>防御工事</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1360,14 +1348,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>港口</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1377,8 +1358,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>監獄</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>纪念碑</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1392,7 +1373,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>港口</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1402,8 +1390,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>馬廄</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>监狱</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1417,9 +1405,43 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002009</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations />
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002010</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>帳棚</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>马厩</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>001003002011</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>帐棚</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1428,14 +1450,14 @@
     <Level>4</Level>
     <Prototype>אֹהֶל</Prototype>
     <Reference />
-    <Code>001003002009</Code>
+    <Code>001003002012</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>墳墓</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>坟墓</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1444,14 +1466,14 @@
     <Level>4</Level>
     <Prototype>קֶבֶר</Prototype>
     <Reference />
-    <Code>001003002010</Code>
+    <Code>001003002013</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>城鎮</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>城镇</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1460,14 +1482,14 @@
     <Level>4</Level>
     <Prototype>עִיר</Prototype>
     <Reference />
-    <Code>001003002011</Code>
+    <Code>001003002014</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>圍牆</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>围墙</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1476,13 +1498,13 @@
     <Level>4</Level>
     <Prototype>חֹומָה</Prototype>
     <Reference />
-    <Code>001003002012</Code>
+    <Code>001003002015</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 水井和蓄水池</Label>
         <Description />
         <Opposite />
@@ -1492,13 +1514,13 @@
     <Level>4</Level>
     <Prototype>בֹּאר</Prototype>
     <Reference />
-    <Code>001003002013</Code>
+    <Code>001003002016</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>事件</Label>
         <Description />
         <Opposite />
@@ -1514,7 +1536,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>描述</Label>
         <Description />
         <Opposite />
@@ -1530,8 +1552,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>屬性</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>属性</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1546,7 +1568,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>有能力</Label>
         <Description />
         <Opposite />
@@ -1562,7 +1584,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>敏捷</Label>
         <Description />
         <Opposite />
@@ -1578,8 +1600,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>活著</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>活着</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1594,8 +1616,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>睡著</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>睡着</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1610,8 +1632,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>醒著</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>醒着</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1626,8 +1648,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>壞的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>坏的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1642,8 +1664,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>禿頭</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>秃头</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1658,7 +1680,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>鞠躬</Label>
         <Description />
         <Opposite />
@@ -1674,8 +1696,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>燃燒</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>燃烧</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1690,7 +1712,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 容量</Label>
         <Description />
         <Opposite />
@@ -1706,8 +1728,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>潔淨</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>洁净</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1722,8 +1744,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>關閉</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>关闭</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1738,7 +1760,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 冷的</Label>
         <Description />
         <Opposite />
@@ -1754,8 +1776,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>顏色</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>颜色</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1770,7 +1792,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>普通</Label>
         <Description />
         <Opposite />
@@ -1786,7 +1808,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>熟的</Label>
         <Description />
         <Opposite />
@@ -1802,7 +1824,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>黑暗</Label>
         <Description />
         <Opposite />
@@ -1818,7 +1840,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 死的</Label>
         <Description />
         <Opposite />
@@ -1834,7 +1856,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>不同</Label>
         <Description />
         <Opposite />
@@ -1850,8 +1872,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>維度</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>维度</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1866,8 +1888,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>乾的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>干的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1900,8 +1922,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>影響</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>影响</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1915,14 +1937,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>攝取</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1932,8 +1947,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不攝取</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>摄取</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1948,8 +1963,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>排洩</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不摄取</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1964,8 +1979,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 肥的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>排泄</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -1979,7 +1994,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 肥的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -1997,14 +2019,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>好的</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2014,8 +2029,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>重的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>好的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2030,8 +2045,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>聖潔</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>重的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2046,8 +2061,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 熱的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>圣洁</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2062,8 +2077,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 高的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 热的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2077,7 +2092,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 高的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2086,14 +2108,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>大的</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2103,8 +2118,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 小的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>大的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2118,14 +2133,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>長的</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2135,8 +2143,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 低的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 小的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2151,8 +2159,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>年老</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>长的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2167,8 +2175,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>打開</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 低的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2182,14 +2190,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>貧窮</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2208,8 +2209,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>懷孕</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>年老</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2224,8 +2225,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 數量</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>打开</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2240,8 +2241,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>熄滅</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>贫穷</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2256,8 +2257,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>生的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>怀孕</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2271,14 +2272,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 限制</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2288,8 +2282,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>富足</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>熄灭</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2304,8 +2298,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>性</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>生的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2319,14 +2313,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 形狀</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2336,8 +2323,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>發亮</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>富足</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2352,8 +2339,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>短的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>性</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2368,8 +2355,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>生病</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 形状</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2384,8 +2371,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>類似</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>发亮</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2400,8 +2387,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>柔軟</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>短的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2416,8 +2403,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 堅硬</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>生病</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2432,8 +2419,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>抽動</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>类似</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2448,8 +2435,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 階段</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>柔软</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2464,8 +2451,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>姿勢</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 坚硬</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2480,8 +2467,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 穩定</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>抽动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2496,8 +2483,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>強壯</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 阶段</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2512,8 +2499,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>瘦的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>姿势</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2528,8 +2515,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不能</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 稳定</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2544,8 +2531,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不潔</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>强壮</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2560,8 +2547,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 不穩</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>瘦的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2575,7 +2562,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不能</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2585,8 +2579,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>軟弱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不洁</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2601,8 +2595,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>重量</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 不稳</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2616,14 +2610,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>濕的</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -2633,8 +2620,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>書寫</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>软弱</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2649,8 +2636,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>年輕</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>重量</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2665,8 +2652,56 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>態度</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>湿的</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001074</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>书写</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001075</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>年轻</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002001001076</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>态度</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2681,7 +2716,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>害怕</Label>
         <Description />
         <Opposite />
@@ -2697,8 +2732,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>憤怒</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>愤怒</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2713,7 +2748,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>自信</Label>
         <Description />
         <Opposite />
@@ -2729,8 +2764,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>殘忍</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>残忍</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2745,8 +2780,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>鄙視</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>鄙视</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2761,8 +2796,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>勤奮</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>勤奋</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2777,8 +2812,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>邪惡</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>邪恶</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2793,8 +2828,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>忠實</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>忠实</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2809,8 +2844,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>殘暴</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>残暴</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2825,7 +2860,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>愚蠢</Label>
         <Description />
         <Opposite />
@@ -2841,7 +2876,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>慷慨</Label>
         <Description />
         <Opposite />
@@ -2857,8 +2892,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>偉大</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>伟大</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2873,8 +2908,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>悲傷</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>悲伤</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2889,7 +2924,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>憎恨</Label>
         <Description />
         <Opposite />
@@ -2905,7 +2940,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>微不足道</Label>
         <Description />
         <Opposite />
@@ -2921,7 +2956,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>公正</Label>
         <Description />
         <Opposite />
@@ -2937,8 +2972,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>懶惰</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>懒惰</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2953,8 +2988,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>愛</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>爱</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -2969,7 +3004,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>仁慈</Label>
         <Description />
         <Opposite />
@@ -2985,7 +3020,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 耐心</Label>
         <Description />
         <Opposite />
@@ -3001,8 +3036,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>準備好</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>准备好</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3017,8 +3052,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>喜樂</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>喜乐</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3033,8 +3068,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>寬慰</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>宽慰</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3049,7 +3084,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>尊重</Label>
         <Description />
         <Opposite />
@@ -3065,7 +3100,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>羞愧</Label>
         <Description />
         <Opposite />
@@ -3081,8 +3116,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>馴服</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>驯服</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3097,7 +3132,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>不忠</Label>
         <Description />
         <Opposite />
@@ -3113,8 +3148,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>願意</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>愿意</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3129,8 +3164,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>聰明</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>聪明</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3145,8 +3180,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>毫無價值</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>毫无价值</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3161,8 +3196,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不願意</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不愿意</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3177,8 +3212,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>修飾</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>修饰</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3193,8 +3228,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>豐富</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>丰富</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3209,8 +3244,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>改變</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>改变</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3225,7 +3260,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 完整</Label>
         <Description />
         <Opposite />
@@ -3241,8 +3276,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>複雜</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>复杂</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3256,14 +3291,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>容易</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3273,7 +3301,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>超凡</Label>
         <Description />
         <Opposite />
@@ -3289,7 +3317,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>假的</Label>
         <Description />
         <Opposite />
@@ -3305,7 +3333,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>快</Label>
         <Description />
         <Opposite />
@@ -3321,8 +3349,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>困難</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>紧迫</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3337,8 +3365,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>緊迫</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 强烈</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3353,8 +3381,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 強烈</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>松懈</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3369,8 +3397,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>鬆懈</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>正确</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3385,8 +3413,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>正確</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>简单</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3401,8 +3429,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>簡單</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>慢</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3416,14 +3444,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>慢</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -3433,8 +3454,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>瑣碎</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>琐碎</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3449,7 +3470,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>真的</Label>
         <Description />
         <Opposite />
@@ -3465,7 +3486,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>很好</Label>
         <Description />
         <Opposite />
@@ -3481,8 +3502,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>錯誤</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>错误</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3497,7 +3518,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>位置</Label>
         <Description />
         <Opposite />
@@ -3513,8 +3534,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 地點</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 地点</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3529,7 +3550,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>安排</Label>
         <Description />
         <Opposite />
@@ -3545,7 +3566,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>吹</Label>
         <Description />
         <Opposite />
@@ -3561,7 +3582,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>包含</Label>
         <Description />
         <Opposite />
@@ -3577,7 +3598,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>不包含</Label>
         <Description />
         <Opposite />
@@ -3593,7 +3614,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>居住</Label>
         <Description />
         <Opposite />
@@ -3609,8 +3630,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>尋找</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>寻找</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3625,7 +3646,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>逃走</Label>
         <Description />
         <Opposite />
@@ -3641,8 +3662,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>流動</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>流动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3657,8 +3678,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>非流動</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>非流动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3673,8 +3694,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>隱藏</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>隐藏</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3689,8 +3710,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>跳躍</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>跳跃</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3705,8 +3726,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>移動</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>移动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3721,8 +3742,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>非移動</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>非移动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3737,8 +3758,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>種植</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>种植</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3762,7 +3783,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>搜索</Label>
         <Description />
         <Opposite />
@@ -3778,8 +3799,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>空間</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>空间</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3794,8 +3815,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不在空間</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不在空间</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3810,8 +3831,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>追趕</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>追赶</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3826,8 +3847,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>轉向</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>转向</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3842,7 +3863,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>存在</Label>
         <Description />
         <Opposite />
@@ -3858,8 +3879,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>行動</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>行动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3874,8 +3895,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不行動</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不行动</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -3890,7 +3911,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>出生</Label>
         <Description />
         <Opposite />
@@ -3906,7 +3927,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 混沌</Label>
         <Description />
         <Opposite />
@@ -3922,7 +3943,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>存在</Label>
         <Description />
         <Opposite />
@@ -3938,7 +3959,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 消失</Label>
         <Description />
         <Opposite />
@@ -3954,7 +3975,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>秩序</Label>
         <Description />
         <Opposite />
@@ -3970,7 +3991,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>角色</Label>
         <Description />
         <Opposite />
@@ -3986,7 +4007,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>非角色</Label>
         <Description />
         <Opposite />
@@ -4002,8 +4023,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>時間</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>时间</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4018,8 +4039,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>節日</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>节日</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4034,8 +4055,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>出現</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>出现</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4050,7 +4071,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>持久</Label>
         <Description />
         <Opposite />
@@ -4066,7 +4087,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>不持久</Label>
         <Description />
         <Opposite />
@@ -4082,8 +4103,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 發生</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 发生</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4098,8 +4119,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不發生</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不发生</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4114,8 +4135,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>聯繫</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>联系</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4130,8 +4151,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>連接</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>连接</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4146,8 +4167,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>繫上</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>系上</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4162,8 +4183,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>捆綁</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>捆绑</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4178,8 +4199,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>攜帶</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>交配</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4194,8 +4215,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>交配</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>覆盖</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4210,8 +4231,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>覆蓋</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>拆下</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4226,8 +4247,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>拆下</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 穿衣服</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4241,14 +4262,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 穿衣服</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -4258,8 +4272,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>懸掛</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>悬挂</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4274,7 +4288,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>握住</Label>
         <Description />
         <Opposite />
@@ -4299,8 +4313,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>親吻</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>亲吻</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4315,7 +4329,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>混合</Label>
         <Description />
         <Opposite />
@@ -4331,7 +4345,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>玩</Label>
         <Description />
         <Opposite />
@@ -4347,8 +4361,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>純的</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>纯的</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4363,8 +4377,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 釋放</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 释放</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4379,7 +4393,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 磨擦</Label>
         <Description />
         <Opposite />
@@ -4395,8 +4409,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>脫衣服</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>脱衣服</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4411,7 +4425,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>暴露</Label>
         <Description />
         <Opposite />
@@ -4427,8 +4441,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>編織</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>编织</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4443,8 +4457,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 整體</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 整体</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4468,24 +4482,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>摔跤</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>4</Level>
-    <Prototype />
-    <Reference />
-    <Code>002003001022</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>關聯</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>关联</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4500,7 +4498,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>敬拜</Label>
         <Description />
         <Opposite />
@@ -4516,8 +4514,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>關聯</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>关联</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4532,7 +4530,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>祝福</Label>
         <Description />
         <Opposite />
@@ -4548,8 +4546,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 照顧</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 照顾</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4564,8 +4562,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>懲戒</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>惩戒</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4580,8 +4578,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 衝突</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 冲突</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4596,7 +4594,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>控制</Label>
         <Description />
         <Opposite />
@@ -4612,8 +4610,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>詛咒</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>诅咒</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4628,8 +4626,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>分離</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>分离</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4644,8 +4642,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>交換</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>交换</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4660,8 +4658,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>放棄</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>放弃</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4676,8 +4674,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>釋放</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>释放</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4692,7 +4690,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>聚集</Label>
         <Description />
         <Opposite />
@@ -4708,8 +4706,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>僱用</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>雇用</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4732,14 +4730,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>會面</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>4</Level>
     <Prototype />
     <Reference />
@@ -4749,8 +4740,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>忽視</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>会面</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4765,8 +4756,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 不擁有</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>忽视</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4781,8 +4772,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 擁有</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 不拥有</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4797,8 +4788,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>和解</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 拥有</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4813,8 +4804,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>獻祭</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>和解</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4829,8 +4820,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>分散</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>献祭</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4845,8 +4836,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 服侍</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>分散</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4861,8 +4852,24 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>參與</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 服侍</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
+    <Level>4</Level>
+    <Prototype />
+    <Reference />
+    <Code>002003002024</Code>
+    <HasSubDomains>false</HasSubDomains>
+    <Entries />
+  </SemanticDomain>
+  <SemanticDomain>
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>参与</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4886,8 +4893,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>影響</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>影响</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4902,8 +4909,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>承擔</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>承担</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4927,8 +4934,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 開始</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 开始</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4943,8 +4950,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 編寫</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 编写</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4959,8 +4966,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>繼續</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>继续</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4975,8 +4982,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 延遲</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 延迟</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -4991,7 +4998,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 占卜</Label>
         <Description />
         <Opposite />
@@ -5007,8 +5014,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>結束</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>结束</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5023,8 +5030,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>從事</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>从事</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5039,8 +5046,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不從事</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不从事</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5055,8 +5062,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>失敗</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>失败</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5071,7 +5078,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>有罪</Label>
         <Description />
         <Opposite />
@@ -5087,8 +5094,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>無罪</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>无罪</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5103,7 +5110,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>法律</Label>
         <Description />
         <Opposite />
@@ -5119,8 +5126,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>興旺</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>兴旺</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5135,7 +5142,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>犯罪</Label>
         <Description />
         <Opposite />
@@ -5151,7 +5158,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>安全</Label>
         <Description />
         <Opposite />
@@ -5167,7 +5174,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>成功</Label>
         <Description />
         <Opposite />
@@ -5183,8 +5190,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>嘗試</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>尝试</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5199,7 +5206,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>不安全</Label>
         <Description />
         <Opposite />
@@ -5215,7 +5222,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>敦促</Label>
         <Description />
         <Opposite />
@@ -5231,7 +5238,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>感知</Label>
         <Description />
         <Opposite />
@@ -5247,8 +5254,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>感覺</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>感觉</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5263,7 +5270,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>感到</Label>
         <Description />
         <Opposite />
@@ -5279,8 +5286,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>慾望</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>欲望</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5295,8 +5302,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>飢餓</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>饥饿</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5311,7 +5318,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>口渴</Label>
         <Description />
         <Opposite />
@@ -5327,8 +5334,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>觸摸</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>触摸</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5343,8 +5350,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不覺得</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不觉得</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5359,8 +5366,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>聽見</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>听见</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5375,8 +5382,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 聽不見</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 听不见</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5391,8 +5398,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label> 看見</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label> 看见</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5407,8 +5414,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>看不見</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>看不见</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5423,7 +5430,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>嗅</Label>
         <Description />
         <Opposite />
@@ -5439,8 +5446,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>嘗味</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>尝味</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5455,8 +5462,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>發聲</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>发声</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5471,7 +5478,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>要求</Label>
         <Description />
         <Opposite />
@@ -5487,7 +5494,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>埋怨</Label>
         <Description />
         <Opposite />
@@ -5503,8 +5510,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>語言</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>语言</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5519,8 +5526,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>不說話</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>不说话</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5535,7 +5542,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>喊叫</Label>
         <Description />
         <Opposite />
@@ -5551,7 +5558,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>唱歌</Label>
         <Description />
         <Opposite />
@@ -5567,8 +5574,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>聲音</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>声音</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5583,8 +5590,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>說話</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>说话</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5599,8 +5606,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>讚美</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>赞美</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5615,8 +5622,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>禱告</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>祷告</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5631,8 +5638,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>指責</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>辱骂</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5647,8 +5654,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>辱罵</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>许愿</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5663,24 +5670,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>許願</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>5</Level>
-    <Prototype />
-    <Reference />
-    <Code>002004001009013</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>認知</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>认知</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5695,7 +5686,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>感受</Label>
         <Description />
         <Opposite />
@@ -5711,8 +5702,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>願望</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>愿望</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5727,7 +5718,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label> 原因</Label>
         <Description />
         <Opposite />
@@ -5743,8 +5734,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>比較</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>比较</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5759,8 +5750,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>設計</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>设计</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5775,8 +5766,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>估計</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>估计</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5791,8 +5782,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>判斷</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>判断</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5807,7 +5798,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>知道</Label>
         <Description />
         <Opposite />
@@ -5823,7 +5814,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>不知道</Label>
         <Description />
         <Opposite />
@@ -5839,7 +5830,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>量度</Label>
         <Description />
         <Opposite />
@@ -5855,8 +5846,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5871,7 +5862,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>局部</Label>
         <Description />
         <Opposite />
@@ -5887,8 +5878,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>試驗</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>试验</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5903,7 +5894,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>思考</Label>
         <Description />
         <Opposite />
@@ -5919,7 +5910,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>不思考</Label>
         <Description />
         <Opposite />
@@ -5935,8 +5926,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>異象</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>异象</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5951,8 +5942,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>指稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>指称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5967,8 +5958,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>對象指稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>对象指称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5983,8 +5974,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>書籍名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>书籍名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -5999,8 +5990,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>星座名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>星座名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6015,8 +6006,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>建造物名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>建造物名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6031,8 +6022,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>神明名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>神明名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6047,8 +6038,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>文件名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>文件名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6063,8 +6054,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>群體名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>群体名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6079,7 +6070,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>人名</Label>
         <Description />
         <Opposite />
@@ -6095,8 +6086,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>地形名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>地形名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6111,8 +6102,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>語言名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>语言名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6127,8 +6118,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>地點名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>地点名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6143,8 +6134,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>道路名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>道路名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6159,8 +6150,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>超自然生物名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>超自然生物名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6175,8 +6166,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>時間名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>时间名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6191,8 +6182,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>樹木名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>树木名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6207,8 +6198,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>水體名稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>水体名称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6223,7 +6214,7 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
         <Label>自己本身</Label>
         <Description />
         <Opposite />
@@ -6239,8 +6230,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>稱謂</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>称谓</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6250,7 +6241,7 @@
     <Prototype />
     <Reference />
     <Code>003001017</Code>
-    <HasSubDomains>false</HasSubDomains>
+    <HasSubDomains>true</HasSubDomains>
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
@@ -6273,8 +6264,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>事件指稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>事件指称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6288,7 +6279,14 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations />
+    <SemanticDomainLocalizations>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>环境指称</Label>
+        <Description />
+        <Opposite />
+        <Comment />
+      </SemanticDomainLocalization>
+    </SemanticDomainLocalizations>
     <Level>3</Level>
     <Prototype />
     <Reference />
@@ -6298,8 +6296,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>環境指稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>描述性指称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6313,14 +6311,7 @@
     <Entries />
   </SemanticDomain>
   <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>描述性指稱</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
+    <SemanticDomainLocalizations />
     <Level>3</Level>
     <Prototype />
     <Reference />
@@ -6339,8 +6330,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>空間指稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>空间指称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6355,8 +6346,8 @@
   </SemanticDomain>
   <SemanticDomain>
     <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>時間指稱</Label>
+      <SemanticDomainLocalization LanguageCode="zh-Hans">
+        <Label>时间指称</Label>
         <Description />
         <Opposite />
         <Comment />
@@ -6366,166 +6357,6 @@
     <Prototype />
     <Reference />
     <Code>003002006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>1</Level>
-    <Prototype />
-    <Reference />
-    <Code>004</Code>
-    <HasSubDomains>true</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>肯定標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004001</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>差異標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004002</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>識別標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004003</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>擴展標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004004</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>評價標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004005</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>否定標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004006</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>限制標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004007</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>規定標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004008</Code>
-    <HasSubDomains>false</HasSubDomains>
-    <Entries />
-  </SemanticDomain>
-  <SemanticDomain>
-    <SemanticDomainLocalizations>
-      <SemanticDomainLocalization LanguageCode="zh-Hant">
-        <Label>時間標記</Label>
-        <Description />
-        <Opposite />
-        <Comment />
-      </SemanticDomainLocalization>
-    </SemanticDomainLocalizations>
-    <Level>2</Level>
-    <Prototype />
-    <Reference />
-    <Code>004009</Code>
     <HasSubDomains>false</HasSubDomains>
     <Entries />
   </SemanticDomain>
